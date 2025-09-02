@@ -1,3 +1,9 @@
+/*
+    Autor: Santiago Cordero
+    Fecha de realización: 1/9/2025
+    Propósito: Contador global compartido por N hilos con y sin el uso de mutex.
+*/
+
 #include <pthread.h>
 #include <cstdio>
 #include <cstdlib>
@@ -7,7 +13,7 @@
 struct Args { 
     long iters; 
     long* global; 
-    pthread_mutex_t* mtx; 
+    pthread_mutex_t* mtx;
 }; 
 
 void* worker_naive(void* p){ 

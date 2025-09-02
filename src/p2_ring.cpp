@@ -1,3 +1,9 @@
+/*
+    Autor: Santiago Cordero
+    Fecha de realización: 1/9/2025
+    Propósito: Implementación de Cola SPSC, SPMC con un hilo para el producidor y varios consumidores.
+*/
+
 #include <pthread.h>
 #include <cstdio>
 #include <cstddef>
