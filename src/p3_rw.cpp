@@ -9,6 +9,7 @@
 #include <cstdint>
 #include <cstdlib>
 #include <cstdio>
+#include <ctime>
 
 constexpr int NBUCKET = 1024;
 using namespace std;
@@ -30,6 +31,13 @@ struct Args{
 
 int customHash(int k){
     return k % NBUCKET; // Para que siempre esté definido k en la bucket "n"
+}
+
+// Para medir el throughput = operaciones / tiempo
+double now(){
+    timespec ts{};
+    clock_gettime(CLOCK_MONOTONIC, &ts);
+    return ts.tv_sec + ts.tv_nsec * 1e-9;
 }
 
 int map_get(Map* m, int k){
@@ -73,7 +81,7 @@ void* readerThread(void* arg){
     // Leer un dato con clave al azar del map:
     int k = rand() % NBUCKET;
     int v = map_get(m, k);
-    printf("Leído el valor %d de la clave %d en el map\n", v, k);
+    // printf("Leído el valor %d de la clave %d en el map\n", v, k);
     a->num = v;
 
     return nullptr;
@@ -86,7 +94,7 @@ void* writerThread(void* arg){
     // Reescribir el value de un nodo al azar del map
     int k = rand() % NBUCKET;
     int replace = rand() % 100 + 1; // reemplazar por un valor aleatorio
-    printf("Reemplazando %d en clave %d en el map\n", replace, k);
+    // printf("Reemplazando %d en clave %d en el map\n", replace, k);
     map_put(m, k, replace);
 
     return nullptr;
@@ -95,12 +103,13 @@ void* writerThread(void* arg){
 int main(int argc, char** argv){
     srand(time(NULL));
     // distribuciones de carga 90/10, 70/30, 50/50:
-    vector<int> readLoads = {90,70,50};
-    vector<int> writeLoads = {10,30,50};
+    vector<int> readLoads = {900,700,500};
+    vector<int> writeLoads = {100,300,500};
 
     for (int i = 0; i < readLoads.size(); i++){
-        printf("\nDistribución de carga: %d/%d\n\n", readLoads[i]*10, writeLoads[i]*10);
-
+        double start = now();
+        printf("\nDistribución de carga: %d/%d\n\n", readLoads[i]/10, writeLoads[i]/10);
+        
         pthread_t readID[readLoads[i]];
         pthread_t writeID[writeLoads[i]];
         Map* m = new Map;
@@ -113,15 +122,23 @@ int main(int argc, char** argv){
             Args* a = new Args{m, num};
             pthread_create(&writeID[j], nullptr, writerThread, a);
         }
+
+        // que primero se escriba y luego lea:
         for (int j = 0; j < writeLoads[i]; j++){
             pthread_join(writeID[j], nullptr);
         }
         for (int j = 0; j < readLoads[i]; j++){
             pthread_join(readID[j], nullptr);
         }
-        printf("--------------------------------");
+        double end = now();
+        double elapsed = end - start;
+        // operaciones siempre son 100 en total porque se crean 100 hilos para
+        // todas las iteraciones, por lo que throughput = ops/tiempo = 100/tiempo
+        printf("Duración: %.6f s, Throughput: %.6f operaciones/s", elapsed, 100 / elapsed);
+        printf("\n--------------------------------");
 
         delete m;
+        
     }
     printf("\n");
 
