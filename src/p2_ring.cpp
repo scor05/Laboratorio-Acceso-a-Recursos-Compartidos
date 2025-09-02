@@ -57,7 +57,7 @@ bool ring_pop(Ring* r, int* out){
 
 void* producerThread(void* arg){
     Ring* r = static_cast<Ring*>(arg);
-    for (int i = 0; i < 25; i++){
+    for (int i = 0; i < 5; i++){
         ring_push(r, i);
         printf("Pusheado %d al ring\n",i);
     }
