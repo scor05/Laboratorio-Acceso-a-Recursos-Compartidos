@@ -71,7 +71,7 @@ int main(int argc, char** argv){
     auto end_mutex = std::chrono::high_resolution_clock::now();
     double time_mutex = std::chrono::duration<double>(end_mutex - start_mutex).count();
     double throughput_mutex = total_op/time_mutex;
-    std::printf("NAIVE total=%ld (esperado=%ld) tiempo=%.6fs throughput=%.3f op/s\n", global, total_op, time_naive, throughput_naive);
+    std::printf("MUTEX total=%ld (esperado=%ld) tiempo=%.6fs throughput=%.3f op/s\n", global, total_op, time_mutex, throughput_mutex);
     //std::printf("mutex,%d,%ld,%.6f,%.2f\n", T, it, time_mutex, throughput_mutex);
 
 
