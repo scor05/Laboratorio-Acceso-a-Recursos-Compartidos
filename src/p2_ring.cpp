@@ -8,6 +8,7 @@
 #include <cstdio>
 #include <cstddef>
 #include <iostream>
+#include <chrono>
 
 constexpr std::size_t Q = 1024;
 
@@ -20,7 +21,12 @@ struct Ring {
     pthread_cond_t not_full = PTHREAD_COND_INITIALIZER; 
     pthread_cond_t not_empty = PTHREAD_COND_INITIALIZER; 
     bool stop=false;
-}; 
+};
+
+struct Args {
+    Ring* r;
+    long n; // cuántos elementos produce/consume
+};
     
 void ring_push(Ring* r, int v){ 
     pthread_mutex_lock(&r->m); 
@@ -56,37 +62,71 @@ bool ring_pop(Ring* r, int* out){
 }
 
 void* producerThread(void* arg){
-    Ring* r = static_cast<Ring*>(arg);
-    for (int i = 0; i < 5; i++){
-        ring_push(r, i);
-        printf("Pusheado %d al ring\n",i);
+    Args* a = static_cast<Args*>(arg);
+    for (int i = 0; i < a->n; i++){
+        ring_push(a->r, i);
     }
-    pthread_mutex_lock(&r->m);
-    r->stop = true;
-    pthread_cond_broadcast(&r->not_empty);
-    pthread_mutex_unlock(&r->m);
-    
     return nullptr;
 }
 
 void* consumerThread(void* arg){
-    Ring* r = static_cast<Ring*>(arg);
+    Args* a = static_cast<Args*>(arg);
     int val;
-    while (ring_pop(r, &val)){
-        printf("Consumidor sacó %d del ring\n", val);
+    for(long i=0; i< a->n; i++){
+        if(!ring_pop(a->r, &val)) 
+        break;
     }
     return nullptr;
 }
 
 int main(int argc, char** argv){
+    int P = (argc > 1) ? std::atoi(argv[1]) : 1; // # productores
+    int C = (argc > 2) ? std::atoi(argv[2]) : 1; // # consumidores
+    long N = (argc > 3) ? std::atol(argv[3]) : 1000000; // elementos por productor
+
     Ring* r = new Ring;
 
-    pthread_t producer, consumer;
-    pthread_create(&producer, nullptr, producerThread, r);
-    pthread_create(&consumer, nullptr, consumerThread, r);
+    pthread_t prod[P], cons[C];
+    Args ap{r, N};
+    Args ac{r, (N*P)/C}; // cada consumidor balancea el trabajo
 
-    pthread_join(producer, nullptr);
-    pthread_join(consumer, nullptr);
+    auto start = std::chrono::high_resolution_clock::now();
+
+    // lanzar productores
+    for(int i=0;i<P;i++){
+        pthread_create(&prod[i], nullptr, producerThread, &ap);
+    }
+    // lanzar consumidores
+    for(int i=0;i<C;i++){
+        pthread_create(&cons[i], nullptr, consumerThread, &ac);
+    }
+
+    // esperar productores
+    for(int i=0;i<P;i++){
+        pthread_join(prod[i], nullptr);
+    }
+
+    // marcar stop para que consumidores terminen
+    pthread_mutex_lock(&r->m);
+    r->stop = true;
+    pthread_cond_broadcast(&r->not_empty);
+    pthread_mutex_unlock(&r->m);
+
+    // esperar consumidores
+    for(int i=0;i<C;i++){
+        pthread_join(cons[i], nullptr);
+    }
+
+    auto end = std::chrono::high_resolution_clock::now();
+    double elapsed = std::chrono::duration<double>(end - start).count();
+
+    long total_ops = P * N;
+    double throughput = total_ops / elapsed;
+
+    std::printf("Productores=%d, Consumidores=%d, N=%ld\n", P, C, N);
+    std::printf("Tiempo total: %.6f s\n", elapsed);
+    std::printf("Operaciones procesadas: %ld\n", total_ops);
+    std::printf("Throughput: %.2f ops/s\n", throughput);
 
     delete r;
     return 0;
