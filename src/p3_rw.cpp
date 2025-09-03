@@ -9,7 +9,7 @@
 #include <cstdint>
 #include <cstdlib>
 #include <cstdio>
-#include <ctime>
+#include <chrono>
 
 constexpr int NBUCKET = 1024;
 using namespace std;
@@ -26,19 +26,13 @@ struct Map {
 
 struct Args{
     Map* m;
-    int num;
+    int ops;
 };
 
 int customHash(int k){
     return k % NBUCKET; // Para que siempre esté definido k en la bucket "n"
 }
 
-// Para medir el throughput = operaciones / tiempo
-double now(){
-    timespec ts{};
-    clock_gettime(CLOCK_MONOTONIC, &ts);
-    return ts.tv_sec + ts.tv_nsec * 1e-9;
-}
 
 int map_get(Map* m, int k){
     pthread_rwlock_rdlock(&m->rw); 
@@ -77,12 +71,12 @@ void map_put(Map* m, int k, int v){
 void* readerThread(void* arg){
     Args* a = static_cast<Args*>(arg);
     Map* m = a->m;
-    
-    // Leer un dato con clave al azar del map:
-    int k = rand() % NBUCKET;
-    int v = map_get(m, k);
-    // printf("Leído el valor %d de la clave %d en el map\n", v, k);
-    a->num = v;
+
+    for (int i = 0; i < a->ops; i++) {
+        int k = rand() % 10000;
+        int v = rand() % 10000;
+        map_put(a->m, k, v);
+    }
 
     return nullptr;
 }
@@ -102,45 +96,49 @@ void* writerThread(void* arg){
 
 int main(int argc, char** argv){
     srand(time(NULL));
-    // distribuciones de carga 90/10, 70/30, 50/50:
-    vector<int> readLoads = {900,700,500};
-    vector<int> writeLoads = {100,300,500};
 
-    for (int i = 0; i < readLoads.size(); i++){
-        double start = now();
-        printf("\nDistribución de carga: %d/%d\n\n", readLoads[i]/10, writeLoads[i]/10);
-        
-        pthread_t readID[readLoads[i]];
-        pthread_t writeID[writeLoads[i]];
-        Map* m = new Map;
-        int num;
-        for (int j = 0; j < readLoads[i]; j++){
-            Args* a = new Args{m, num};
-            pthread_create(&readID[j], nullptr, readerThread, a);
-        }
-        for (int j = 0; j < writeLoads[i]; j++){
-            Args* a = new Args{m, num};
-            pthread_create(&writeID[j], nullptr, writerThread, a);
-        }
+    // por default escoge 90/10 de distribución
+    int R = (argc > 1) ? std::atoi(argv[1]) : 9;   // número de lectores
+    int W = (argc > 2) ? std::atoi(argv[2]) : 1;   // número de escritores
+    int OPS = (argc > 3) ? std::atoi(argv[3]) : 100000; // operaciones por hilo
 
-        // que primero se escriba y luego lea:
-        for (int j = 0; j < writeLoads[i]; j++){
-            pthread_join(writeID[j], nullptr);
-        }
-        for (int j = 0; j < readLoads[i]; j++){
-            pthread_join(readID[j], nullptr);
-        }
-        double end = now();
-        double elapsed = end - start;
-        // operaciones siempre son 100 en total porque se crean 100 hilos para
-        // todas las iteraciones, por lo que throughput = ops/tiempo = 100/tiempo
-        printf("Duración: %.6f s, Throughput: %.6f operaciones/s", elapsed, 100 / elapsed);
-        printf("\n--------------------------------");
+    Map m;
+    std::vector<pthread_t> threads;
+    threads.reserve(R + W);
 
-        delete m;
-        
+    Args a{&m, OPS};
+
+    auto start = std::chrono::high_resolution_clock::now();
+
+    // lanzar lectores
+    for (int i = 0; i < R; i++) {
+        pthread_t t;
+        pthread_create(&t, nullptr, readerThread, &a);
+        threads.push_back(t);
     }
-    printf("\n");
 
-    
+    // lanzar escritores
+    for (int i = 0; i < W; i++) {
+        pthread_t t;
+        pthread_create(&t, nullptr, writerThread, &a);
+        threads.push_back(t);
+    }
+
+    // esperar hilos
+    for (auto& t : threads) {
+        pthread_join(t, nullptr);
+    }
+
+    auto end = std::chrono::high_resolution_clock::now();
+    double elapsed = std::chrono::duration<double>(end - start).count();
+
+    long total_ops = (R + W) * OPS;
+    double throughput = total_ops / elapsed;
+
+    std::printf("Lectores=%d, Escritores=%d, Operaciones por hilo=%d\n", R, W, OPS);
+    std::printf("Tiempo total: %.6f s\n", elapsed);
+    std::printf("Operaciones realizadas: %ld\n", total_ops);
+    std::printf("Throughput: %.2f ops/s\n", throughput);
+
+    return 0;
 }
