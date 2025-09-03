@@ -56,7 +56,8 @@ int main(int argc, char** argv){
     auto end_naive = std::chrono::high_resolution_clock::now();
     double time_naive = std::chrono::duration<double>(end_naive - start_naive).count();
     double throughput_naive = total_op/time_naive;
-    std::printf("NAIVE total=%ld (esperado=%ld) tiempo=%.6fs throughput=%.3f op/s\n", global, total_op, time_naive, throughput_naive);
+    // std::printf("NAIVE total=%ld (esperado=%ld) tiempo=%.6fs throughput=%.3f op/s\n", global, total_op, time_naive, throughput_naive);
+    std::printf("naive,%d,%ld,%.6f,%.2f\n", T, it, time_naive, throughput_naive);
 
     // Caso mutex
     global = 0;
@@ -70,11 +71,14 @@ int main(int argc, char** argv){
     auto end_mutex = std::chrono::high_resolution_clock::now();
     double time_mutex = std::chrono::duration<double>(end_mutex - start_mutex).count();
     double throughput_mutex = total_op/time_mutex;
-    std::printf("MUTEX total=%ld (esperado=%ld) tiempo=%.6fs throughput=%.3f op/s\n", global, total_op, time_mutex, throughput_mutex);
+    // std::printf("NAIVE total=%ld (esperado=%ld) tiempo=%.6fs throughput=%.3f op/s\n", global, total_op, time_naive, throughput_naive);
+    std::printf("mutex,%d,%ld,%.6f,%.2f\n", T, it, time_mutex, throughput_mutex);
 
+    /*
     // Cálculo de slowdown (fracción de mutex/naive)
     if (time_naive > 0) {
         double slowdown = time_mutex / time_naive;
         std::printf("Slowdown (mutex vs naive): %.2f%c \n", slowdown*100, '%');
     }
+    */
 }
