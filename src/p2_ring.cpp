@@ -123,13 +123,13 @@ int main(int argc, char** argv){
     long total_ops = P * N;
     double throughput = total_ops / elapsed;
 
-    // std::printf("Productores=%d, Consumidores=%d, N=%ld\n", P, C, N);
-    // std::printf("Tiempo total: %.6f s\n", elapsed);
-    // std::printf("Operaciones procesadas: %ld\n", total_ops);
-    // std::printf("Throughput: %.2f ops/s\n", throughput);
+    std::printf("Productores=%d, Consumidores=%d, N=%ld\n", P, C, N);
+    std::printf("Tiempo total: %.6f s\n", elapsed);
+    std::printf("Operaciones procesadas: %ld\n", total_ops);
+    std::printf("Throughput: %.2f ops/s\n", throughput);
 
     // prints para el script de bash
-    std::printf("%d,%d,%ld,%.6f,%ld,%.2f\n", P, C, N, elapsed, total_ops, throughput);
+    // std::printf("%d,%d,%ld,%.6f,%ld,%.2f\n", P, C, N, elapsed, total_ops, throughput);
     delete r;
     return 0;
 }

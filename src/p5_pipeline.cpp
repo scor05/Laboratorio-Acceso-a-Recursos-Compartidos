@@ -113,12 +113,12 @@ int main(int argc, char** argv){
     double elapsed = std::chrono::duration<double>(end - start).count();
     double throughput = (double)(3 * TICKS) / elapsed; // 3 operaciones por cada tick
 
-    // printf("Pipeline ejecutado con %d ticks\n", TICKS);
-    // printf("Tiempo total: %.6f s\n", elapsed);
-    // printf("Throughput: %.2f op/s\n", throughput);
-    // printf("Acumulado final: %d\n", global);
+    printf("Pipeline ejecutado con %d ticks\n", TICKS);
+    printf("Tiempo total: %.6f s\n", elapsed);
+    printf("Throughput: %.2f op/s\n", throughput);
+    printf("Acumulado final: %d\n", global);
 
-    printf("%d,%.6f,%.2f,%d\n", TICKS, elapsed, throughput, global);
+    // printf("%d,%.6f,%.2f,%d\n", TICKS, elapsed, throughput, global);
 
     pthread_barrier_destroy(&barrier1);
     pthread_barrier_destroy(&barrier2);

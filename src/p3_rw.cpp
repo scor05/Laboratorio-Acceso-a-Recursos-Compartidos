@@ -135,12 +135,12 @@ int main(int argc, char** argv){
     long total_ops = (R + W) * OPS;
     double throughput = total_ops / elapsed;
 
-    // std::printf("Lectores=%d, Escritores=%d, Operaciones por hilo=%d\n", R, W, OPS);
-    // std::printf("Tiempo total: %.6f s\n", elapsed);
-    // std::printf("Operaciones realizadas: %ld\n", total_ops);
-    // std::printf("Throughput: %.2f ops/s\n", throughput);
+    std::printf("Lectores=%d, Escritores=%d, Operaciones por hilo=%d\n", R, W, OPS);
+    std::printf("Tiempo total: %.6f s\n", elapsed);
+    std::printf("Operaciones realizadas: %ld\n", total_ops);
+    std::printf("Throughput: %.2f ops/s\n", throughput);
 
-    std::printf("%d,%d,%d,%.6f,%ld,%.2f\n", R, W, OPS, elapsed, total_ops, throughput);
+    // std::printf("%d,%d,%d,%.6f,%ld,%.2f\n", R, W, OPS, elapsed, total_ops, throughput);
 
     return 0;
 }
