@@ -39,6 +39,8 @@ void* stage(void* p){
             stage 1 -> Generar aleatorio
             stage 2 -> filtrar impares (que solo sigan al 3 los pares)
             stage 3 -> sumar todos los números filtrados (reducir)
+            Poner una barrier antes y después de cada stage para que no se
+            adelante ningún hilo.
         */
         pthread_barrier_wait(&barrier1);
         if (id == 1){

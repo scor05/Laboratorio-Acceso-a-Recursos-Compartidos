@@ -1,2494 +1,2495 @@
 Pipeline inicializado
-Tick #0 generó 42
-Tick #0 dejó pasar a 42
-Tick #0 sumó 42 al acumulado: 42
-Tick #1 generó 28
-Tick #1 dejó pasar a 28
-Tick #1 sumó 28 al acumulado: 70
-Tick #2 generó 35
-Tick #2 filtró 35
-Tick #3 generó 2
-Tick #3 dejó pasar a 2
-Tick #3 sumó 2 al acumulado: 72
-Tick #4 generó 21
-Tick #4 filtró 21
-Tick #5 generó 81
-Tick #5 filtró 81
-Tick #6 generó 26
-Tick #6 dejó pasar a 26
-Tick #6 sumó 26 al acumulado: 98
-Tick #7 generó 6
-Tick #7 dejó pasar a 6
-Tick #7 sumó 6 al acumulado: 104
-Tick #8 generó 40
-Tick #8 dejó pasar a 40
-Tick #8 sumó 40 al acumulado: 144
-Tick #9 generó 88
-Tick #9 dejó pasar a 88
-Tick #9 sumó 88 al acumulado: 232
-Tick #10 generó 59
-Tick #10 filtró 59
-Tick #11 generó 18
-Tick #11 dejó pasar a 18
-Tick #11 sumó 18 al acumulado: 250
-Tick #12 generó 72
-Tick #12 dejó pasar a 72
-Tick #12 sumó 72 al acumulado: 322
-Tick #13 generó 76
-Tick #13 dejó pasar a 76
-Tick #13 sumó 76 al acumulado: 398
-Tick #14 generó 24
-Tick #14 dejó pasar a 24
-Tick #14 sumó 24 al acumulado: 422
-Tick #15 generó 64
-Tick #15 dejó pasar a 64
-Tick #15 sumó 64 al acumulado: 486
-Tick #16 generó 49
-Tick #16 filtró 49
-Tick #17 generó 33
-Tick #17 filtró 33
-Tick #18 generó 63
-Tick #18 filtró 63
-Tick #19 generó 38
-Tick #19 dejó pasar a 38
-Tick #19 sumó 38 al acumulado: 524
-Tick #20 generó 95
-Tick #20 filtró 95
-Tick #21 generó 21
-Tick #21 filtró 21
-Tick #22 generó 88
-Tick #22 dejó pasar a 88
-Tick #22 sumó 88 al acumulado: 612
-Tick #23 generó 9
-Tick #23 filtró 9
-Tick #24 generó 54
-Tick #24 dejó pasar a 54
-Tick #24 sumó 54 al acumulado: 666
-Tick #25 generó 15
-Tick #25 filtró 15
-Tick #26 generó 65
-Tick #26 filtró 65
-Tick #27 generó 51
-Tick #27 filtró 51
-Tick #28 generó 57
-Tick #28 filtró 57
-Tick #29 generó 24
-Tick #29 dejó pasar a 24
-Tick #29 sumó 24 al acumulado: 690
-Tick #30 generó 100
-Tick #30 dejó pasar a 100
-Tick #30 sumó 100 al acumulado: 790
-Tick #31 generó 99
-Tick #31 filtró 99
-Tick #32 generó 51
-Tick #32 filtró 51
-Tick #33 generó 87
-Tick #33 filtró 87
-Tick #34 generó 52
-Tick #34 dejó pasar a 52
-Tick #34 sumó 52 al acumulado: 842
-Tick #35 generó 24
-Tick #35 dejó pasar a 24
-Tick #35 sumó 24 al acumulado: 866
-Tick #36 generó 67
-Tick #36 filtró 67
-Tick #37 generó 77
-Tick #37 filtró 77
-Tick #38 generó 81
-Tick #38 filtró 81
-Tick #39 generó 58
-Tick #39 dejó pasar a 58
-Tick #39 sumó 58 al acumulado: 924
-Tick #40 generó 64
-Tick #40 dejó pasar a 64
-Tick #40 sumó 64 al acumulado: 988
-Tick #41 generó 40
-Tick #41 dejó pasar a 40
-Tick #41 sumó 40 al acumulado: 1028
-Tick #42 generó 76
-Tick #42 dejó pasar a 76
-Tick #42 sumó 76 al acumulado: 1104
-Tick #43 generó 88
-Tick #43 dejó pasar a 88
-Tick #43 sumó 88 al acumulado: 1192
-Tick #44 generó 15
-Tick #44 filtró 15
-Tick #45 generó 99
-Tick #45 filtró 99
-Tick #46 generó 3
-Tick #46 filtró 3
-Tick #47 generó 15
-Tick #47 filtró 15
-Tick #48 generó 83
-Tick #48 filtró 83
-Tick #49 generó 65
-Tick #49 filtró 65
-Tick #50 generó 53
-Tick #50 filtró 53
-Tick #51 generó 78
-Tick #51 dejó pasar a 78
-Tick #51 sumó 78 al acumulado: 1270
-Tick #52 generó 38
-Tick #52 dejó pasar a 38
-Tick #52 sumó 38 al acumulado: 1308
-Tick #53 generó 92
-Tick #53 dejó pasar a 92
-Tick #53 sumó 92 al acumulado: 1400
-Tick #54 generó 86
-Tick #54 dejó pasar a 86
-Tick #54 sumó 86 al acumulado: 1486
-Tick #55 generó 43
-Tick #55 filtró 43
-Tick #56 generó 6
-Tick #56 dejó pasar a 6
-Tick #56 sumó 6 al acumulado: 1492
-Tick #57 generó 50
-Tick #57 dejó pasar a 50
-Tick #57 sumó 50 al acumulado: 1542
-Tick #58 generó 93
-Tick #58 filtró 93
-Tick #59 generó 15
-Tick #59 filtró 15
-Tick #60 generó 25
-Tick #60 filtró 25
-Tick #61 generó 44
-Tick #61 dejó pasar a 44
-Tick #61 sumó 44 al acumulado: 1586
-Tick #62 generó 65
-Tick #62 filtró 65
-Tick #63 generó 27
-Tick #63 filtró 27
-Tick #64 generó 30
-Tick #64 dejó pasar a 30
-Tick #64 sumó 30 al acumulado: 1616
-Tick #65 generó 16
-Tick #65 dejó pasar a 16
-Tick #65 sumó 16 al acumulado: 1632
-Tick #66 generó 50
-Tick #66 dejó pasar a 50
-Tick #66 sumó 50 al acumulado: 1682
-Tick #67 generó 49
-Tick #67 filtró 49
-Tick #68 generó 45
-Tick #68 filtró 45
-Tick #69 generó 31
-Tick #69 filtró 31
-Tick #70 generó 6
-Tick #70 dejó pasar a 6
-Tick #70 sumó 6 al acumulado: 1688
-Tick #71 generó 60
-Tick #71 dejó pasar a 60
-Tick #71 sumó 60 al acumulado: 1748
-Tick #72 generó 22
-Tick #72 dejó pasar a 22
-Tick #72 sumó 22 al acumulado: 1770
-Tick #73 generó 33
-Tick #73 filtró 33
-Tick #74 generó 47
-Tick #74 filtró 47
-Tick #75 generó 88
-Tick #75 dejó pasar a 88
-Tick #75 sumó 88 al acumulado: 1858
-Tick #76 generó 83
-Tick #76 filtró 83
-Tick #77 generó 49
-Tick #77 filtró 49
-Tick #78 generó 2
-Tick #78 dejó pasar a 2
-Tick #78 sumó 2 al acumulado: 1860
-Tick #79 generó 66
-Tick #79 dejó pasar a 66
-Tick #79 sumó 66 al acumulado: 1926
-Tick #80 generó 66
-Tick #80 dejó pasar a 66
-Tick #80 sumó 66 al acumulado: 1992
-Tick #81 generó 6
-Tick #81 dejó pasar a 6
-Tick #81 sumó 6 al acumulado: 1998
-Tick #82 generó 43
-Tick #82 filtró 43
-Tick #83 generó 55
-Tick #83 filtró 55
-Tick #84 generó 98
-Tick #84 dejó pasar a 98
-Tick #84 sumó 98 al acumulado: 2096
-Tick #85 generó 80
-Tick #85 dejó pasar a 80
-Tick #85 sumó 80 al acumulado: 2176
-Tick #86 generó 97
-Tick #86 filtró 97
-Tick #87 generó 3
-Tick #87 filtró 3
-Tick #88 generó 29
-Tick #88 filtró 29
-Tick #89 generó 89
-Tick #89 filtró 89
-Tick #90 generó 69
-Tick #90 filtró 69
-Tick #91 generó 5
-Tick #91 filtró 5
-Tick #92 generó 84
-Tick #92 dejó pasar a 84
-Tick #92 sumó 84 al acumulado: 2260
-Tick #93 generó 33
-Tick #93 filtró 33
-Tick #94 generó 31
-Tick #94 filtró 31
-Tick #95 generó 14
-Tick #95 dejó pasar a 14
-Tick #95 sumó 14 al acumulado: 2274
-Tick #96 generó 49
-Tick #96 filtró 49
-Tick #97 generó 33
-Tick #97 filtró 33
-Tick #98 generó 62
-Tick #98 dejó pasar a 62
-Tick #98 sumó 62 al acumulado: 2336
-Tick #99 generó 93
-Tick #99 filtró 93
-Tick #100 generó 15
-Tick #100 filtró 15
-Tick #101 generó 19
-Tick #101 filtró 19
-Tick #102 generó 52
-Tick #102 dejó pasar a 52
-Tick #102 sumó 52 al acumulado: 2388
-Tick #103 generó 36
-Tick #103 dejó pasar a 36
-Tick #103 sumó 36 al acumulado: 2424
-Tick #104 generó 52
-Tick #104 dejó pasar a 52
-Tick #104 sumó 52 al acumulado: 2476
-Tick #105 generó 51
-Tick #105 filtró 51
-Tick #106 generó 75
-Tick #106 filtró 75
-Tick #107 generó 34
-Tick #107 dejó pasar a 34
-Tick #107 sumó 34 al acumulado: 2510
-Tick #108 generó 51
-Tick #108 filtró 51
-Tick #109 generó 76
-Tick #109 dejó pasar a 76
-Tick #109 sumó 76 al acumulado: 2586
-Tick #110 generó 99
-Tick #110 filtró 99
-Tick #111 generó 16
-Tick #111 dejó pasar a 16
-Tick #111 sumó 16 al acumulado: 2602
-Tick #112 generó 82
-Tick #112 dejó pasar a 82
-Tick #112 sumó 82 al acumulado: 2684
-Tick #113 generó 93
-Tick #113 filtró 93
-Tick #114 generó 22
-Tick #114 dejó pasar a 22
-Tick #114 sumó 22 al acumulado: 2706
-Tick #115 generó 79
-Tick #115 filtró 79
-Tick #116 generó 72
-Tick #116 dejó pasar a 72
-Tick #116 sumó 72 al acumulado: 2778
-Tick #117 generó 18
-Tick #117 dejó pasar a 18
-Tick #117 sumó 18 al acumulado: 2796
-Tick #118 generó 33
-Tick #118 filtró 33
-Tick #119 generó 52
-Tick #119 dejó pasar a 52
-Tick #119 sumó 52 al acumulado: 2848
-Tick #120 generó 58
-Tick #120 dejó pasar a 58
-Tick #120 sumó 58 al acumulado: 2906
-Tick #121 generó 2
-Tick #121 dejó pasar a 2
-Tick #121 sumó 2 al acumulado: 2908
-Tick #122 generó 56
-Tick #122 dejó pasar a 56
-Tick #122 sumó 56 al acumulado: 2964
-Tick #123 generó 42
-Tick #123 dejó pasar a 42
-Tick #123 sumó 42 al acumulado: 3006
-Tick #124 generó 34
-Tick #124 dejó pasar a 34
-Tick #124 sumó 34 al acumulado: 3040
-Tick #125 generó 39
-Tick #125 filtró 39
-Tick #126 generó 7
-Tick #126 filtró 7
-Tick #127 generó 34
-Tick #127 dejó pasar a 34
-Tick #127 sumó 34 al acumulado: 3074
-Tick #128 generó 71
-Tick #128 filtró 71
-Tick #129 generó 68
-Tick #129 dejó pasar a 68
-Tick #129 sumó 68 al acumulado: 3142
-Tick #130 generó 78
-Tick #130 dejó pasar a 78
-Tick #130 sumó 78 al acumulado: 3220
-Tick #131 generó 37
-Tick #131 filtró 37
-Tick #132 generó 86
-Tick #132 dejó pasar a 86
-Tick #132 sumó 86 al acumulado: 3306
-Tick #133 generó 82
-Tick #133 dejó pasar a 82
-Tick #133 sumó 82 al acumulado: 3388
-Tick #134 generó 72
-Tick #134 dejó pasar a 72
-Tick #134 sumó 72 al acumulado: 3460
-Tick #135 generó 89
-Tick #135 filtró 89
-Tick #136 generó 32
-Tick #136 dejó pasar a 32
-Tick #136 sumó 32 al acumulado: 3492
-Tick #137 generó 46
-Tick #137 dejó pasar a 46
-Tick #137 sumó 46 al acumulado: 3538
-Tick #138 generó 75
-Tick #138 filtró 75
-Tick #139 generó 82
-Tick #139 dejó pasar a 82
-Tick #139 sumó 82 al acumulado: 3620
-Tick #140 generó 73
-Tick #140 filtró 73
-Tick #141 generó 73
-Tick #141 filtró 73
-Tick #142 generó 50
-Tick #142 dejó pasar a 50
-Tick #142 sumó 50 al acumulado: 3670
-Tick #143 generó 54
-Tick #143 dejó pasar a 54
-Tick #143 sumó 54 al acumulado: 3724
-Tick #144 generó 18
-Tick #144 dejó pasar a 18
-Tick #144 sumó 18 al acumulado: 3742
-Tick #145 generó 71
-Tick #145 filtró 71
-Tick #146 generó 32
-Tick #146 dejó pasar a 32
-Tick #146 sumó 32 al acumulado: 3774
-Tick #147 generó 89
-Tick #147 filtró 89
-Tick #148 generó 41
-Tick #148 filtró 41
-Tick #149 generó 17
-Tick #149 filtró 17
-Tick #150 generó 41
-Tick #150 filtró 41
-Tick #151 generó 50
-Tick #151 dejó pasar a 50
-Tick #151 sumó 50 al acumulado: 3824
-Tick #152 generó 18
-Tick #152 dejó pasar a 18
-Tick #152 sumó 18 al acumulado: 3842
-Tick #153 generó 48
-Tick #153 dejó pasar a 48
-Tick #153 sumó 48 al acumulado: 3890
-Tick #154 generó 43
-Tick #154 filtró 43
-Tick #155 generó 3
-Tick #155 filtró 3
-Tick #156 generó 86
-Tick #156 dejó pasar a 86
-Tick #156 sumó 86 al acumulado: 3976
-Tick #157 generó 49
-Tick #157 filtró 49
-Tick #158 generó 37
-Tick #158 filtró 37
-Tick #159 generó 8
-Tick #159 dejó pasar a 8
-Tick #159 sumó 8 al acumulado: 3984
-Tick #160 generó 16
-Tick #160 dejó pasar a 16
-Tick #160 sumó 16 al acumulado: 4000
-Tick #161 generó 66
-Tick #161 dejó pasar a 66
-Tick #161 sumó 66 al acumulado: 4066
-Tick #162 generó 44
-Tick #162 dejó pasar a 44
-Tick #162 sumó 44 al acumulado: 4110
-Tick #163 generó 54
-Tick #163 dejó pasar a 54
-Tick #163 sumó 54 al acumulado: 4164
-Tick #164 generó 47
-Tick #164 filtró 47
-Tick #165 generó 67
-Tick #165 filtró 67
-Tick #166 generó 94
-Tick #166 dejó pasar a 94
-Tick #166 sumó 94 al acumulado: 4258
-Tick #167 generó 78
-Tick #167 dejó pasar a 78
-Tick #167 sumó 78 al acumulado: 4336
-Tick #168 generó 64
-Tick #168 dejó pasar a 64
-Tick #168 sumó 64 al acumulado: 4400
-Tick #169 generó 68
-Tick #169 dejó pasar a 68
-Tick #169 sumó 68 al acumulado: 4468
-Tick #170 generó 12
-Tick #170 dejó pasar a 12
-Tick #170 sumó 12 al acumulado: 4480
-Tick #171 generó 37
-Tick #171 filtró 37
-Tick #172 generó 41
-Tick #172 filtró 41
-Tick #173 generó 13
-Tick #173 filtró 13
-Tick #174 generó 42
-Tick #174 dejó pasar a 42
-Tick #174 sumó 42 al acumulado: 4522
-Tick #175 generó 10
-Tick #175 dejó pasar a 10
-Tick #175 sumó 10 al acumulado: 4532
-Tick #176 generó 35
-Tick #176 filtró 35
-Tick #177 generó 74
-Tick #177 dejó pasar a 74
-Tick #177 sumó 74 al acumulado: 4606
-Tick #178 generó 98
-Tick #178 dejó pasar a 98
-Tick #178 sumó 98 al acumulado: 4704
-Tick #179 generó 27
-Tick #179 filtró 27
-Tick #180 generó 90
-Tick #180 dejó pasar a 90
-Tick #180 sumó 90 al acumulado: 4794
-Tick #181 generó 90
-Tick #181 dejó pasar a 90
-Tick #181 sumó 90 al acumulado: 4884
-Tick #182 generó 77
-Tick #182 filtró 77
-Tick #183 generó 59
-Tick #183 filtró 59
-Tick #184 generó 38
-Tick #184 dejó pasar a 38
-Tick #184 sumó 38 al acumulado: 4922
-Tick #185 generó 19
-Tick #185 filtró 19
-Tick #186 generó 61
-Tick #186 filtró 61
-Tick #187 generó 75
-Tick #187 filtró 75
-Tick #188 generó 68
-Tick #188 dejó pasar a 68
-Tick #188 sumó 68 al acumulado: 4990
-Tick #189 generó 49
-Tick #189 filtró 49
-Tick #190 generó 83
-Tick #190 filtró 83
-Tick #191 generó 35
-Tick #191 filtró 35
-Tick #192 generó 15
-Tick #192 filtró 15
-Tick #193 generó 78
-Tick #193 dejó pasar a 78
-Tick #193 sumó 78 al acumulado: 5068
-Tick #194 generó 40
-Tick #194 dejó pasar a 40
-Tick #194 sumó 40 al acumulado: 5108
-Tick #195 generó 13
-Tick #195 filtró 13
-Tick #196 generó 45
-Tick #196 filtró 45
-Tick #197 generó 34
-Tick #197 dejó pasar a 34
-Tick #197 sumó 34 al acumulado: 5142
-Tick #198 generó 91
-Tick #198 filtró 91
-Tick #199 generó 60
-Tick #199 dejó pasar a 60
-Tick #199 sumó 60 al acumulado: 5202
-Tick #200 generó 1
-Tick #200 filtró 1
-Tick #201 generó 54
-Tick #201 dejó pasar a 54
-Tick #201 sumó 54 al acumulado: 5256
-Tick #202 generó 96
-Tick #202 dejó pasar a 96
-Tick #202 sumó 96 al acumulado: 5352
-Tick #203 generó 93
-Tick #203 filtró 93
-Tick #204 generó 18
-Tick #204 dejó pasar a 18
-Tick #204 sumó 18 al acumulado: 5370
-Tick #205 generó 38
-Tick #205 dejó pasar a 38
-Tick #205 sumó 38 al acumulado: 5408
-Tick #206 generó 2
-Tick #206 dejó pasar a 2
-Tick #206 sumó 2 al acumulado: 5410
-Tick #207 generó 52
-Tick #207 dejó pasar a 52
-Tick #207 sumó 52 al acumulado: 5462
-Tick #208 generó 63
-Tick #208 filtró 63
-Tick #209 generó 52
-Tick #209 dejó pasar a 52
-Tick #209 sumó 52 al acumulado: 5514
-Tick #210 generó 79
-Tick #210 filtró 79
-Tick #211 generó 4
-Tick #211 dejó pasar a 4
-Tick #211 sumó 4 al acumulado: 5518
-Tick #212 generó 41
-Tick #212 filtró 41
-Tick #213 generó 7
-Tick #213 filtró 7
-Tick #214 generó 62
-Tick #214 dejó pasar a 62
-Tick #214 sumó 62 al acumulado: 5580
-Tick #215 generó 30
-Tick #215 dejó pasar a 30
-Tick #215 sumó 30 al acumulado: 5610
-Tick #216 generó 25
-Tick #216 filtró 25
-Tick #217 generó 74
-Tick #217 dejó pasar a 74
-Tick #217 sumó 74 al acumulado: 5684
-Tick #218 generó 57
-Tick #218 filtró 57
-Tick #219 generó 44
-Tick #219 dejó pasar a 44
-Tick #219 sumó 44 al acumulado: 5728
-Tick #220 generó 75
-Tick #220 filtró 75
-Tick #221 generó 39
-Tick #221 filtró 39
-Tick #222 generó 31
-Tick #222 filtró 31
-Tick #223 generó 89
-Tick #223 filtró 89
-Tick #224 generó 68
-Tick #224 dejó pasar a 68
-Tick #224 sumó 68 al acumulado: 5796
-Tick #225 generó 70
-Tick #225 dejó pasar a 70
-Tick #225 sumó 70 al acumulado: 5866
-Tick #226 generó 1
-Tick #226 filtró 1
-Tick #227 generó 64
-Tick #227 dejó pasar a 64
-Tick #227 sumó 64 al acumulado: 5930
-Tick #228 generó 3
-Tick #228 filtró 3
-Tick #229 generó 43
-Tick #229 filtró 43
-Tick #230 generó 24
-Tick #230 dejó pasar a 24
-Tick #230 sumó 24 al acumulado: 5954
-Tick #231 generó 56
-Tick #231 dejó pasar a 56
-Tick #231 sumó 56 al acumulado: 6010
-Tick #232 generó 48
-Tick #232 dejó pasar a 48
-Tick #232 sumó 48 al acumulado: 6058
-Tick #233 generó 19
-Tick #233 filtró 19
-Tick #234 generó 48
-Tick #234 dejó pasar a 48
-Tick #234 sumó 48 al acumulado: 6106
-Tick #235 generó 65
-Tick #235 filtró 65
-Tick #236 generó 8
-Tick #236 dejó pasar a 8
-Tick #236 sumó 8 al acumulado: 6114
-Tick #237 generó 50
-Tick #237 dejó pasar a 50
-Tick #237 sumó 50 al acumulado: 6164
-Tick #238 generó 69
-Tick #238 filtró 69
-Tick #239 generó 22
-Tick #239 dejó pasar a 22
-Tick #239 sumó 22 al acumulado: 6186
-Tick #240 generó 1
-Tick #240 filtró 1
-Tick #241 generó 47
-Tick #241 filtró 47
-Tick #242 generó 25
-Tick #242 filtró 25
-Tick #243 generó 93
-Tick #243 filtró 93
-Tick #244 generó 53
-Tick #244 filtró 53
-Tick #245 generó 38
-Tick #245 dejó pasar a 38
-Tick #245 sumó 38 al acumulado: 6224
-Tick #246 generó 23
-Tick #246 filtró 23
-Tick #247 generó 29
-Tick #247 filtró 29
-Tick #248 generó 64
-Tick #248 dejó pasar a 64
-Tick #248 sumó 64 al acumulado: 6288
-Tick #249 generó 79
-Tick #249 filtró 79
-Tick #250 generó 25
-Tick #250 filtró 25
-Tick #251 generó 38
-Tick #251 dejó pasar a 38
-Tick #251 sumó 38 al acumulado: 6326
-Tick #252 generó 69
-Tick #252 filtró 69
-Tick #253 generó 55
-Tick #253 filtró 55
-Tick #254 generó 78
-Tick #254 dejó pasar a 78
-Tick #254 sumó 78 al acumulado: 6404
-Tick #255 generó 88
-Tick #255 dejó pasar a 88
-Tick #255 sumó 88 al acumulado: 6492
-Tick #256 generó 24
-Tick #256 dejó pasar a 24
-Tick #256 sumó 24 al acumulado: 6516
-Tick #257 generó 30
-Tick #257 dejó pasar a 30
-Tick #257 sumó 30 al acumulado: 6546
-Tick #258 generó 52
-Tick #258 dejó pasar a 52
-Tick #258 sumó 52 al acumulado: 6598
-Tick #259 generó 79
-Tick #259 filtró 79
-Tick #260 generó 73
-Tick #260 filtró 73
-Tick #261 generó 75
-Tick #261 filtró 75
-Tick #262 generó 34
-Tick #262 dejó pasar a 34
-Tick #262 sumó 34 al acumulado: 6632
-Tick #263 generó 72
-Tick #263 dejó pasar a 72
-Tick #263 sumó 72 al acumulado: 6704
-Tick #264 generó 45
-Tick #264 filtró 45
-Tick #265 generó 33
-Tick #265 filtró 33
-Tick #266 generó 89
-Tick #266 filtró 89
-Tick #267 generó 53
-Tick #267 filtró 53
-Tick #268 generó 82
-Tick #268 dejó pasar a 82
-Tick #268 sumó 82 al acumulado: 6786
-Tick #269 generó 57
-Tick #269 filtró 57
-Tick #270 generó 74
-Tick #270 dejó pasar a 74
-Tick #270 sumó 74 al acumulado: 6860
-Tick #271 generó 34
-Tick #271 dejó pasar a 34
-Tick #271 sumó 34 al acumulado: 6894
-Tick #272 generó 55
-Tick #272 filtró 55
-Tick #273 generó 51
-Tick #273 filtró 51
-Tick #274 generó 79
-Tick #274 filtró 79
-Tick #275 generó 59
-Tick #275 filtró 59
-Tick #276 generó 88
-Tick #276 dejó pasar a 88
-Tick #276 sumó 88 al acumulado: 6982
-Tick #277 generó 53
-Tick #277 filtró 53
-Tick #278 generó 39
-Tick #278 filtró 39
-Tick #279 generó 51
-Tick #279 filtró 51
-Tick #280 generó 83
-Tick #280 filtró 83
-Tick #281 generó 63
-Tick #281 filtró 63
-Tick #282 generó 40
-Tick #282 dejó pasar a 40
-Tick #282 sumó 40 al acumulado: 7022
-Tick #283 generó 51
-Tick #283 filtró 51
-Tick #284 generó 17
-Tick #284 filtró 17
-Tick #285 generó 17
-Tick #285 filtró 17
-Tick #286 generó 38
-Tick #286 dejó pasar a 38
-Tick #286 sumó 38 al acumulado: 7060
-Tick #287 generó 93
-Tick #287 filtró 93
-Tick #288 generó 47
-Tick #288 filtró 47
-Tick #289 generó 89
-Tick #289 filtró 89
-Tick #290 generó 23
-Tick #290 filtró 23
-Tick #291 generó 71
-Tick #291 filtró 71
-Tick #292 generó 15
-Tick #292 filtró 15
-Tick #293 generó 56
-Tick #293 dejó pasar a 56
-Tick #293 sumó 56 al acumulado: 7116
-Tick #294 generó 94
-Tick #294 dejó pasar a 94
-Tick #294 sumó 94 al acumulado: 7210
-Tick #295 generó 60
-Tick #295 dejó pasar a 60
-Tick #295 sumó 60 al acumulado: 7270
-Tick #296 generó 88
-Tick #296 dejó pasar a 88
-Tick #296 sumó 88 al acumulado: 7358
-Tick #297 generó 82
-Tick #297 dejó pasar a 82
-Tick #297 sumó 82 al acumulado: 7440
-Tick #298 generó 12
-Tick #298 dejó pasar a 12
-Tick #298 sumó 12 al acumulado: 7452
-Tick #299 generó 22
-Tick #299 dejó pasar a 22
-Tick #299 sumó 22 al acumulado: 7474
-Tick #300 generó 90
-Tick #300 dejó pasar a 90
-Tick #300 sumó 90 al acumulado: 7564
-Tick #301 generó 37
-Tick #301 filtró 37
-Tick #302 generó 7
-Tick #302 filtró 7
-Tick #303 generó 44
-Tick #303 dejó pasar a 44
-Tick #303 sumó 44 al acumulado: 7608
-Tick #304 generó 87
-Tick #304 filtró 87
-Tick #305 generó 85
-Tick #305 filtró 85
-Tick #306 generó 54
-Tick #306 dejó pasar a 54
-Tick #306 sumó 54 al acumulado: 7662
-Tick #307 generó 27
-Tick #307 filtró 27
-Tick #308 generó 89
-Tick #308 filtró 89
-Tick #309 generó 93
-Tick #309 filtró 93
-Tick #310 generó 29
-Tick #310 filtró 29
-Tick #311 generó 71
-Tick #311 filtró 71
-Tick #312 generó 55
-Tick #312 filtró 55
-Tick #313 generó 69
-Tick #313 filtró 69
-Tick #314 generó 21
-Tick #314 filtró 21
-Tick #315 generó 24
-Tick #315 dejó pasar a 24
-Tick #315 sumó 24 al acumulado: 7686
-Tick #316 generó 37
-Tick #316 filtró 37
-Tick #317 generó 11
-Tick #317 filtró 11
-Tick #318 generó 68
-Tick #318 dejó pasar a 68
-Tick #318 sumó 68 al acumulado: 7754
-Tick #319 generó 83
-Tick #319 filtró 83
-Tick #320 generó 51
-Tick #320 filtró 51
-Tick #321 generó 90
-Tick #321 dejó pasar a 90
-Tick #321 sumó 90 al acumulado: 7844
-Tick #322 generó 5
-Tick #322 filtró 5
-Tick #323 generó 66
-Tick #323 dejó pasar a 66
-Tick #323 sumó 66 al acumulado: 7910
-Tick #324 generó 45
-Tick #324 filtró 45
-Tick #325 generó 99
-Tick #325 filtró 99
-Tick #326 generó 77
-Tick #326 filtró 77
-Tick #327 generó 84
-Tick #327 dejó pasar a 84
-Tick #327 sumó 84 al acumulado: 7994
-Tick #328 generó 80
-Tick #328 dejó pasar a 80
-Tick #328 sumó 80 al acumulado: 8074
-Tick #329 generó 40
-Tick #329 dejó pasar a 40
-Tick #329 sumó 40 al acumulado: 8114
-Tick #330 generó 57
-Tick #330 filtró 57
-Tick #331 generó 70
-Tick #331 dejó pasar a 70
-Tick #331 sumó 70 al acumulado: 8184
-Tick #332 generó 76
-Tick #332 dejó pasar a 76
-Tick #332 sumó 76 al acumulado: 8260
-Tick #333 generó 64
-Tick #333 dejó pasar a 64
-Tick #333 sumó 64 al acumulado: 8324
-Tick #334 generó 65
-Tick #334 filtró 65
-Tick #335 generó 15
-Tick #335 filtró 15
-Tick #336 generó 100
-Tick #336 dejó pasar a 100
-Tick #336 sumó 100 al acumulado: 8424
-Tick #337 generó 19
-Tick #337 filtró 19
-Tick #338 generó 41
-Tick #338 filtró 41
-Tick #339 generó 89
-Tick #339 filtró 89
-Tick #340 generó 63
-Tick #340 filtró 63
-Tick #341 generó 69
-Tick #341 filtró 69
-Tick #342 generó 59
-Tick #342 filtró 59
-Tick #343 generó 69
-Tick #343 filtró 69
-Tick #344 generó 89
-Tick #344 filtró 89
-Tick #345 generó 32
-Tick #345 dejó pasar a 32
-Tick #345 sumó 32 al acumulado: 8456
-Tick #346 generó 92
-Tick #346 dejó pasar a 92
-Tick #346 sumó 92 al acumulado: 8548
-Tick #347 generó 26
-Tick #347 dejó pasar a 26
-Tick #347 sumó 26 al acumulado: 8574
-Tick #348 generó 94
-Tick #348 dejó pasar a 94
-Tick #348 sumó 94 al acumulado: 8668
-Tick #349 generó 59
-Tick #349 filtró 59
-Tick #350 generó 60
-Tick #350 dejó pasar a 60
-Tick #350 sumó 60 al acumulado: 8728
-Tick #351 generó 96
-Tick #351 dejó pasar a 96
-Tick #351 sumó 96 al acumulado: 8824
-Tick #352 generó 100
-Tick #352 dejó pasar a 100
-Tick #352 sumó 100 al acumulado: 8924
-Tick #353 generó 65
-Tick #353 filtró 65
-Tick #354 generó 13
-Tick #354 filtró 13
-Tick #355 generó 96
-Tick #355 dejó pasar a 96
-Tick #355 sumó 96 al acumulado: 9020
-Tick #356 generó 63
-Tick #356 filtró 63
-Tick #357 generó 89
-Tick #357 filtró 89
-Tick #358 generó 80
-Tick #358 dejó pasar a 80
-Tick #358 sumó 80 al acumulado: 9100
-Tick #359 generó 94
-Tick #359 dejó pasar a 94
-Tick #359 sumó 94 al acumulado: 9194
-Tick #360 generó 28
-Tick #360 dejó pasar a 28
-Tick #360 sumó 28 al acumulado: 9222
-Tick #361 generó 36
-Tick #361 dejó pasar a 36
-Tick #361 sumó 36 al acumulado: 9258
-Tick #362 generó 15
-Tick #362 filtró 15
-Tick #363 generó 4
-Tick #363 dejó pasar a 4
-Tick #363 sumó 4 al acumulado: 9262
-Tick #364 generó 51
-Tick #364 filtró 51
-Tick #365 generó 32
-Tick #365 dejó pasar a 32
-Tick #365 sumó 32 al acumulado: 9294
-Tick #366 generó 70
-Tick #366 dejó pasar a 70
-Tick #366 sumó 70 al acumulado: 9364
-Tick #367 generó 3
-Tick #367 filtró 3
-Tick #368 generó 50
-Tick #368 dejó pasar a 50
-Tick #368 sumó 50 al acumulado: 9414
-Tick #369 generó 10
-Tick #369 dejó pasar a 10
-Tick #369 sumó 10 al acumulado: 9424
-Tick #370 generó 43
-Tick #370 filtró 43
-Tick #371 generó 64
-Tick #371 dejó pasar a 64
-Tick #371 sumó 64 al acumulado: 9488
-Tick #372 generó 30
-Tick #372 dejó pasar a 30
-Tick #372 sumó 30 al acumulado: 9518
+Tick #0 generó 49
+Tick #0 filtró 49
+Tick #1 generó 25
+Tick #1 filtró 25
+Tick #2 generó 18
+Tick #2 dejó pasar a 18
+Tick #2 sumó 18 al acumulado: 18
+Tick #3 generó 69
+Tick #3 filtró 69
+Tick #4 generó 11
+Tick #4 filtró 11
+Tick #5 generó 91
+Tick #5 filtró 91
+Tick #6 generó 8
+Tick #6 dejó pasar a 8
+Tick #6 sumó 8 al acumulado: 26
+Tick #7 generó 90
+Tick #7 dejó pasar a 90
+Tick #7 sumó 90 al acumulado: 116
+Tick #8 generó 14
+Tick #8 dejó pasar a 14
+Tick #8 sumó 14 al acumulado: 130
+Tick #9 generó 96
+Tick #9 dejó pasar a 96
+Tick #9 sumó 96 al acumulado: 226
+Tick #10 generó 12
+Tick #10 dejó pasar a 12
+Tick #10 sumó 12 al acumulado: 238
+Tick #11 generó 64
+Tick #11 dejó pasar a 64
+Tick #11 sumó 64 al acumulado: 302
+Tick #12 generó 13
+Tick #12 filtró 13
+Tick #13 generó 11
+Tick #13 filtró 11
+Tick #14 generó 100
+Tick #14 dejó pasar a 100
+Tick #14 sumó 100 al acumulado: 402
+Tick #15 generó 81
+Tick #15 filtró 81
+Tick #16 generó 51
+Tick #16 filtró 51
+Tick #17 generó 24
+Tick #17 dejó pasar a 24
+Tick #17 sumó 24 al acumulado: 426
+Tick #18 generó 71
+Tick #18 filtró 71
+Tick #19 generó 35
+Tick #19 filtró 35
+Tick #20 generó 84
+Tick #20 dejó pasar a 84
+Tick #20 sumó 84 al acumulado: 510
+Tick #21 generó 12
+Tick #21 dejó pasar a 12
+Tick #21 sumó 12 al acumulado: 522
+Tick #22 generó 16
+Tick #22 dejó pasar a 16
+Tick #22 sumó 16 al acumulado: 538
+Tick #23 generó 52
+Tick #23 dejó pasar a 52
+Tick #23 sumó 52 al acumulado: 590
+Tick #24 generó 90
+Tick #24 dejó pasar a 90
+Tick #24 sumó 90 al acumulado: 680
+Tick #25 generó 2
+Tick #25 dejó pasar a 2
+Tick #25 sumó 2 al acumulado: 682
+Tick #26 generó 31
+Tick #26 filtró 31
+Tick #27 generó 57
+Tick #27 filtró 57
+Tick #28 generó 85
+Tick #28 filtró 85
+Tick #29 generó 49
+Tick #29 filtró 49
+Tick #30 generó 47
+Tick #30 filtró 47
+Tick #31 generó 33
+Tick #31 filtró 33
+Tick #32 generó 25
+Tick #32 filtró 25
+Tick #33 generó 64
+Tick #33 dejó pasar a 64
+Tick #33 sumó 64 al acumulado: 746
+Tick #34 generó 1
+Tick #34 filtró 1
+Tick #35 generó 36
+Tick #35 dejó pasar a 36
+Tick #35 sumó 36 al acumulado: 782
+Tick #36 generó 7
+Tick #36 filtró 7
+Tick #37 generó 60
+Tick #37 dejó pasar a 60
+Tick #37 sumó 60 al acumulado: 842
+Tick #38 generó 77
+Tick #38 filtró 77
+Tick #39 generó 72
+Tick #39 dejó pasar a 72
+Tick #39 sumó 72 al acumulado: 914
+Tick #40 generó 7
+Tick #40 filtró 7
+Tick #41 generó 88
+Tick #41 dejó pasar a 88
+Tick #41 sumó 88 al acumulado: 1002
+Tick #42 generó 36
+Tick #42 dejó pasar a 36
+Tick #42 sumó 36 al acumulado: 1038
+Tick #43 generó 20
+Tick #43 dejó pasar a 20
+Tick #43 sumó 20 al acumulado: 1058
+Tick #44 generó 98
+Tick #44 dejó pasar a 98
+Tick #44 sumó 98 al acumulado: 1156
+Tick #45 generó 35
+Tick #45 filtró 35
+Tick #46 generó 52
+Tick #46 dejó pasar a 52
+Tick #46 sumó 52 al acumulado: 1208
+Tick #47 generó 100
+Tick #47 dejó pasar a 100
+Tick #47 sumó 100 al acumulado: 1308
+Tick #48 generó 58
+Tick #48 dejó pasar a 58
+Tick #48 sumó 58 al acumulado: 1366
+Tick #49 generó 22
+Tick #49 dejó pasar a 22
+Tick #49 sumó 22 al acumulado: 1388
+Tick #50 generó 35
+Tick #50 filtró 35
+Tick #51 generó 93
+Tick #51 filtró 93
+Tick #52 generó 85
+Tick #52 filtró 85
+Tick #53 generó 2
+Tick #53 dejó pasar a 2
+Tick #53 sumó 2 al acumulado: 1390
+Tick #54 generó 96
+Tick #54 dejó pasar a 96
+Tick #54 sumó 96 al acumulado: 1486
+Tick #55 generó 74
+Tick #55 dejó pasar a 74
+Tick #55 sumó 74 al acumulado: 1560
+Tick #56 generó 3
+Tick #56 filtró 3
+Tick #57 generó 79
+Tick #57 filtró 79
+Tick #58 generó 31
+Tick #58 filtró 31
+Tick #59 generó 87
+Tick #59 filtró 87
+Tick #60 generó 27
+Tick #60 filtró 27
+Tick #61 generó 77
+Tick #61 filtró 77
+Tick #62 generó 71
+Tick #62 filtró 71
+Tick #63 generó 52
+Tick #63 dejó pasar a 52
+Tick #63 sumó 52 al acumulado: 1612
+Tick #64 generó 93
+Tick #64 filtró 93
+Tick #65 generó 71
+Tick #65 filtró 71
+Tick #66 generó 39
+Tick #66 filtró 39
+Tick #67 generó 99
+Tick #67 filtró 99
+Tick #68 generó 82
+Tick #68 dejó pasar a 82
+Tick #68 sumó 82 al acumulado: 1694
+Tick #69 generó 15
+Tick #69 filtró 15
+Tick #70 generó 22
+Tick #70 dejó pasar a 22
+Tick #70 sumó 22 al acumulado: 1716
+Tick #71 generó 88
+Tick #71 dejó pasar a 88
+Tick #71 sumó 88 al acumulado: 1804
+Tick #72 generó 2
+Tick #72 dejó pasar a 2
+Tick #72 sumó 2 al acumulado: 1806
+Tick #73 generó 57
+Tick #73 filtró 57
+Tick #74 generó 59
+Tick #74 filtró 59
+Tick #75 generó 51
+Tick #75 filtró 51
+Tick #76 generó 43
+Tick #76 filtró 43
+Tick #77 generó 11
+Tick #77 filtró 11
+Tick #78 generó 51
+Tick #78 filtró 51
+Tick #79 generó 52
+Tick #79 dejó pasar a 52
+Tick #79 sumó 52 al acumulado: 1858
+Tick #80 generó 84
+Tick #80 dejó pasar a 84
+Tick #80 sumó 84 al acumulado: 1942
+Tick #81 generó 85
+Tick #81 filtró 85
+Tick #82 generó 44
+Tick #82 dejó pasar a 44
+Tick #82 sumó 44 al acumulado: 1986
+Tick #83 generó 69
+Tick #83 filtró 69
+Tick #84 generó 86
+Tick #84 dejó pasar a 86
+Tick #84 sumó 86 al acumulado: 2072
+Tick #85 generó 40
+Tick #85 dejó pasar a 40
+Tick #85 sumó 40 al acumulado: 2112
+Tick #86 generó 42
+Tick #86 dejó pasar a 42
+Tick #86 sumó 42 al acumulado: 2154
+Tick #87 generó 40
+Tick #87 dejó pasar a 40
+Tick #87 sumó 40 al acumulado: 2194
+Tick #88 generó 70
+Tick #88 dejó pasar a 70
+Tick #88 sumó 70 al acumulado: 2264
+Tick #89 generó 24
+Tick #89 dejó pasar a 24
+Tick #89 sumó 24 al acumulado: 2288
+Tick #90 generó 26
+Tick #90 dejó pasar a 26
+Tick #90 sumó 26 al acumulado: 2314
+Tick #91 generó 96
+Tick #91 dejó pasar a 96
+Tick #91 sumó 96 al acumulado: 2410
+Tick #92 generó 53
+Tick #92 filtró 53
+Tick #93 generó 96
+Tick #93 dejó pasar a 96
+Tick #93 sumó 96 al acumulado: 2506
+Tick #94 generó 47
+Tick #94 filtró 47
+Tick #95 generó 45
+Tick #95 filtró 45
+Tick #96 generó 18
+Tick #96 dejó pasar a 18
+Tick #96 sumó 18 al acumulado: 2524
+Tick #97 generó 37
+Tick #97 filtró 37
+Tick #98 generó 95
+Tick #98 filtró 95
+Tick #99 generó 51
+Tick #99 filtró 51
+Tick #100 generó 51
+Tick #100 filtró 51
+Tick #101 generó 16
+Tick #101 dejó pasar a 16
+Tick #101 sumó 16 al acumulado: 2540
+Tick #102 generó 38
+Tick #102 dejó pasar a 38
+Tick #102 sumó 38 al acumulado: 2578
+Tick #103 generó 4
+Tick #103 dejó pasar a 4
+Tick #103 sumó 4 al acumulado: 2582
+Tick #104 generó 25
+Tick #104 filtró 25
+Tick #105 generó 97
+Tick #105 filtró 97
+Tick #106 generó 55
+Tick #106 filtró 55
+Tick #107 generó 67
+Tick #107 filtró 67
+Tick #108 generó 59
+Tick #108 filtró 59
+Tick #109 generó 57
+Tick #109 filtró 57
+Tick #110 generó 19
+Tick #110 filtró 19
+Tick #111 generó 42
+Tick #111 dejó pasar a 42
+Tick #111 sumó 42 al acumulado: 2624
+Tick #112 generó 93
+Tick #112 filtró 93
+Tick #113 generó 14
+Tick #113 dejó pasar a 14
+Tick #113 sumó 14 al acumulado: 2638
+Tick #114 generó 10
+Tick #114 dejó pasar a 10
+Tick #114 sumó 10 al acumulado: 2648
+Tick #115 generó 78
+Tick #115 dejó pasar a 78
+Tick #115 sumó 78 al acumulado: 2726
+Tick #116 generó 53
+Tick #116 filtró 53
+Tick #117 generó 52
+Tick #117 dejó pasar a 52
+Tick #117 sumó 52 al acumulado: 2778
+Tick #118 generó 17
+Tick #118 filtró 17
+Tick #119 generó 22
+Tick #119 dejó pasar a 22
+Tick #119 sumó 22 al acumulado: 2800
+Tick #120 generó 27
+Tick #120 filtró 27
+Tick #121 generó 94
+Tick #121 dejó pasar a 94
+Tick #121 sumó 94 al acumulado: 2894
+Tick #122 generó 70
+Tick #122 dejó pasar a 70
+Tick #122 sumó 70 al acumulado: 2964
+Tick #123 generó 79
+Tick #123 filtró 79
+Tick #124 generó 41
+Tick #124 filtró 41
+Tick #125 generó 68
+Tick #125 dejó pasar a 68
+Tick #125 sumó 68 al acumulado: 3032
+Tick #126 generó 23
+Tick #126 filtró 23
+Tick #127 generó 58
+Tick #127 dejó pasar a 58
+Tick #127 sumó 58 al acumulado: 3090
+Tick #128 generó 5
+Tick #128 filtró 5
+Tick #129 generó 69
+Tick #129 filtró 69
+Tick #130 generó 8
+Tick #130 dejó pasar a 8
+Tick #130 sumó 8 al acumulado: 3098
+Tick #131 generó 7
+Tick #131 filtró 7
+Tick #132 generó 37
+Tick #132 filtró 37
+Tick #133 generó 97
+Tick #133 filtró 97
+Tick #134 generó 11
+Tick #134 filtró 11
+Tick #135 generó 61
+Tick #135 filtró 61
+Tick #136 generó 45
+Tick #136 filtró 45
+Tick #137 generó 17
+Tick #137 filtró 17
+Tick #138 generó 79
+Tick #138 filtró 79
+Tick #139 generó 3
+Tick #139 filtró 3
+Tick #140 generó 25
+Tick #140 filtró 25
+Tick #141 generó 97
+Tick #141 filtró 97
+Tick #142 generó 45
+Tick #142 filtró 45
+Tick #143 generó 17
+Tick #143 filtró 17
+Tick #144 generó 11
+Tick #144 filtró 11
+Tick #145 generó 54
+Tick #145 dejó pasar a 54
+Tick #145 sumó 54 al acumulado: 3152
+Tick #146 generó 46
+Tick #146 dejó pasar a 46
+Tick #146 sumó 46 al acumulado: 3198
+Tick #147 generó 15
+Tick #147 filtró 15
+Tick #148 generó 57
+Tick #148 filtró 57
+Tick #149 generó 14
+Tick #149 dejó pasar a 14
+Tick #149 sumó 14 al acumulado: 3212
+Tick #150 generó 89
+Tick #150 filtró 89
+Tick #151 generó 84
+Tick #151 dejó pasar a 84
+Tick #151 sumó 84 al acumulado: 3296
+Tick #152 generó 7
+Tick #152 filtró 7
+Tick #153 generó 10
+Tick #153 dejó pasar a 10
+Tick #153 sumó 10 al acumulado: 3306
+Tick #154 generó 62
+Tick #154 dejó pasar a 62
+Tick #154 sumó 62 al acumulado: 3368
+Tick #155 generó 47
+Tick #155 filtró 47
+Tick #156 generó 77
+Tick #156 filtró 77
+Tick #157 generó 37
+Tick #157 filtró 37
+Tick #158 generó 56
+Tick #158 dejó pasar a 56
+Tick #158 sumó 56 al acumulado: 3424
+Tick #159 generó 81
+Tick #159 filtró 81
+Tick #160 generó 57
+Tick #160 filtró 57
+Tick #161 generó 15
+Tick #161 filtró 15
+Tick #162 generó 40
+Tick #162 dejó pasar a 40
+Tick #162 sumó 40 al acumulado: 3464
+Tick #163 generó 93
+Tick #163 filtró 93
+Tick #164 generó 63
+Tick #164 filtró 63
+Tick #165 generó 2
+Tick #165 dejó pasar a 2
+Tick #165 sumó 2 al acumulado: 3466
+Tick #166 generó 5
+Tick #166 filtró 5
+Tick #167 generó 8
+Tick #167 dejó pasar a 8
+Tick #167 sumó 8 al acumulado: 3474
+Tick #168 generó 18
+Tick #168 dejó pasar a 18
+Tick #168 sumó 18 al acumulado: 3492
+Tick #169 generó 84
+Tick #169 dejó pasar a 84
+Tick #169 sumó 84 al acumulado: 3576
+Tick #170 generó 10
+Tick #170 dejó pasar a 10
+Tick #170 sumó 10 al acumulado: 3586
+Tick #171 generó 94
+Tick #171 dejó pasar a 94
+Tick #171 sumó 94 al acumulado: 3680
+Tick #172 generó 32
+Tick #172 dejó pasar a 32
+Tick #172 sumó 32 al acumulado: 3712
+Tick #173 generó 6
+Tick #173 dejó pasar a 6
+Tick #173 sumó 6 al acumulado: 3718
+Tick #174 generó 10
+Tick #174 dejó pasar a 10
+Tick #174 sumó 10 al acumulado: 3728
+Tick #175 generó 94
+Tick #175 dejó pasar a 94
+Tick #175 sumó 94 al acumulado: 3822
+Tick #176 generó 12
+Tick #176 dejó pasar a 12
+Tick #176 sumó 12 al acumulado: 3834
+Tick #177 generó 7
+Tick #177 filtró 7
+Tick #178 generó 61
+Tick #178 filtró 61
+Tick #179 generó 20
+Tick #179 dejó pasar a 20
+Tick #179 sumó 20 al acumulado: 3854
+Tick #180 generó 20
+Tick #180 dejó pasar a 20
+Tick #180 sumó 20 al acumulado: 3874
+Tick #181 generó 1
+Tick #181 filtró 1
+Tick #182 generó 55
+Tick #182 filtró 55
+Tick #183 generó 26
+Tick #183 dejó pasar a 26
+Tick #183 sumó 26 al acumulado: 3900
+Tick #184 generó 10
+Tick #184 dejó pasar a 10
+Tick #184 sumó 10 al acumulado: 3910
+Tick #185 generó 69
+Tick #185 filtró 69
+Tick #186 generó 24
+Tick #186 dejó pasar a 24
+Tick #186 sumó 24 al acumulado: 3934
+Tick #187 generó 86
+Tick #187 dejó pasar a 86
+Tick #187 sumó 86 al acumulado: 4020
+Tick #188 generó 57
+Tick #188 filtró 57
+Tick #189 generó 31
+Tick #189 filtró 31
+Tick #190 generó 19
+Tick #190 filtró 19
+Tick #191 generó 13
+Tick #191 filtró 13
+Tick #192 generó 45
+Tick #192 filtró 45
+Tick #193 generó 58
+Tick #193 dejó pasar a 58
+Tick #193 sumó 58 al acumulado: 4078
+Tick #194 generó 58
+Tick #194 dejó pasar a 58
+Tick #194 sumó 58 al acumulado: 4136
+Tick #195 generó 7
+Tick #195 filtró 7
+Tick #196 generó 59
+Tick #196 filtró 59
+Tick #197 generó 62
+Tick #197 dejó pasar a 62
+Tick #197 sumó 62 al acumulado: 4198
+Tick #198 generó 66
+Tick #198 dejó pasar a 66
+Tick #198 sumó 66 al acumulado: 4264
+Tick #199 generó 28
+Tick #199 dejó pasar a 28
+Tick #199 sumó 28 al acumulado: 4292
+Tick #200 generó 97
+Tick #200 filtró 97
+Tick #201 generó 28
+Tick #201 dejó pasar a 28
+Tick #201 sumó 28 al acumulado: 4320
+Tick #202 generó 73
+Tick #202 filtró 73
+Tick #203 generó 81
+Tick #203 filtró 81
+Tick #204 generó 33
+Tick #204 filtró 33
+Tick #205 generó 34
+Tick #205 dejó pasar a 34
+Tick #205 sumó 34 al acumulado: 4354
+Tick #206 generó 74
+Tick #206 dejó pasar a 74
+Tick #206 sumó 74 al acumulado: 4428
+Tick #207 generó 96
+Tick #207 dejó pasar a 96
+Tick #207 sumó 96 al acumulado: 4524
+Tick #208 generó 40
+Tick #208 dejó pasar a 40
+Tick #208 sumó 40 al acumulado: 4564
+Tick #209 generó 34
+Tick #209 dejó pasar a 34
+Tick #209 sumó 34 al acumulado: 4598
+Tick #210 generó 16
+Tick #210 dejó pasar a 16
+Tick #210 sumó 16 al acumulado: 4614
+Tick #211 generó 59
+Tick #211 filtró 59
+Tick #212 generó 34
+Tick #212 dejó pasar a 34
+Tick #212 sumó 34 al acumulado: 4648
+Tick #213 generó 22
+Tick #213 dejó pasar a 22
+Tick #213 sumó 22 al acumulado: 4670
+Tick #214 generó 36
+Tick #214 dejó pasar a 36
+Tick #214 sumó 36 al acumulado: 4706
+Tick #215 generó 95
+Tick #215 filtró 95
+Tick #216 generó 90
+Tick #216 dejó pasar a 90
+Tick #216 sumó 90 al acumulado: 4796
+Tick #217 generó 59
+Tick #217 filtró 59
+Tick #218 generó 81
+Tick #218 filtró 81
+Tick #219 generó 46
+Tick #219 dejó pasar a 46
+Tick #219 sumó 46 al acumulado: 4842
+Tick #220 generó 89
+Tick #220 filtró 89
+Tick #221 generó 51
+Tick #221 filtró 51
+Tick #222 generó 59
+Tick #222 filtró 59
+Tick #223 generó 85
+Tick #223 filtró 85
+Tick #224 generó 60
+Tick #224 dejó pasar a 60
+Tick #224 sumó 60 al acumulado: 4902
+Tick #225 generó 68
+Tick #225 dejó pasar a 68
+Tick #225 sumó 68 al acumulado: 4970
+Tick #226 generó 43
+Tick #226 filtró 43
+Tick #227 generó 70
+Tick #227 dejó pasar a 70
+Tick #227 sumó 70 al acumulado: 5040
+Tick #228 generó 81
+Tick #228 filtró 81
+Tick #229 generó 61
+Tick #229 filtró 61
+Tick #230 generó 97
+Tick #230 filtró 97
+Tick #231 generó 78
+Tick #231 dejó pasar a 78
+Tick #231 sumó 78 al acumulado: 5118
+Tick #232 generó 88
+Tick #232 dejó pasar a 88
+Tick #232 sumó 88 al acumulado: 5206
+Tick #233 generó 21
+Tick #233 filtró 21
+Tick #234 generó 58
+Tick #234 dejó pasar a 58
+Tick #234 sumó 58 al acumulado: 5264
+Tick #235 generó 72
+Tick #235 dejó pasar a 72
+Tick #235 sumó 72 al acumulado: 5336
+Tick #236 generó 54
+Tick #236 dejó pasar a 54
+Tick #236 sumó 54 al acumulado: 5390
+Tick #237 generó 83
+Tick #237 filtró 83
+Tick #238 generó 68
+Tick #238 dejó pasar a 68
+Tick #238 sumó 68 al acumulado: 5458
+Tick #239 generó 93
+Tick #239 filtró 93
+Tick #240 generó 69
+Tick #240 filtró 69
+Tick #241 generó 35
+Tick #241 filtró 35
+Tick #242 generó 51
+Tick #242 filtró 51
+Tick #243 generó 54
+Tick #243 dejó pasar a 54
+Tick #243 sumó 54 al acumulado: 5512
+Tick #244 generó 56
+Tick #244 dejó pasar a 56
+Tick #244 sumó 56 al acumulado: 5568
+Tick #245 generó 86
+Tick #245 dejó pasar a 86
+Tick #245 sumó 86 al acumulado: 5654
+Tick #246 generó 49
+Tick #246 filtró 49
+Tick #247 generó 98
+Tick #247 dejó pasar a 98
+Tick #247 sumó 98 al acumulado: 5752
+Tick #248 generó 96
+Tick #248 dejó pasar a 96
+Tick #248 sumó 96 al acumulado: 5848
+Tick #249 generó 29
+Tick #249 filtró 29
+Tick #250 generó 43
+Tick #250 filtró 43
+Tick #251 generó 36
+Tick #251 dejó pasar a 36
+Tick #251 sumó 36 al acumulado: 5884
+Tick #252 generó 31
+Tick #252 filtró 31
+Tick #253 generó 53
+Tick #253 filtró 53
+Tick #254 generó 72
+Tick #254 dejó pasar a 72
+Tick #254 sumó 72 al acumulado: 5956
+Tick #255 generó 90
+Tick #255 dejó pasar a 90
+Tick #255 sumó 90 al acumulado: 6046
+Tick #256 generó 20
+Tick #256 dejó pasar a 20
+Tick #256 sumó 20 al acumulado: 6066
+Tick #257 generó 14
+Tick #257 dejó pasar a 14
+Tick #257 sumó 14 al acumulado: 6080
+Tick #258 generó 59
+Tick #258 filtró 59
+Tick #259 generó 1
+Tick #259 filtró 1
+Tick #260 generó 74
+Tick #260 dejó pasar a 74
+Tick #260 sumó 74 al acumulado: 6154
+Tick #261 generó 7
+Tick #261 filtró 7
+Tick #262 generó 30
+Tick #262 dejó pasar a 30
+Tick #262 sumó 30 al acumulado: 6184
+Tick #263 generó 13
+Tick #263 filtró 13
+Tick #264 generó 27
+Tick #264 filtró 27
+Tick #265 generó 87
+Tick #265 filtró 87
+Tick #266 generó 85
+Tick #266 filtró 85
+Tick #267 generó 80
+Tick #267 dejó pasar a 80
+Tick #267 sumó 80 al acumulado: 6264
+Tick #268 generó 69
+Tick #268 filtró 69
+Tick #269 generó 4
+Tick #269 dejó pasar a 4
+Tick #269 sumó 4 al acumulado: 6268
+Tick #270 generó 24
+Tick #270 dejó pasar a 24
+Tick #270 sumó 24 al acumulado: 6292
+Tick #271 generó 89
+Tick #271 filtró 89
+Tick #272 generó 90
+Tick #272 dejó pasar a 90
+Tick #272 sumó 90 al acumulado: 6382
+Tick #273 generó 74
+Tick #273 dejó pasar a 74
+Tick #273 sumó 74 al acumulado: 6456
+Tick #274 generó 43
+Tick #274 filtró 43
+Tick #275 generó 97
+Tick #275 filtró 97
+Tick #276 generó 11
+Tick #276 filtró 11
+Tick #277 generó 91
+Tick #277 filtró 91
+Tick #278 generó 94
+Tick #278 dejó pasar a 94
+Tick #278 sumó 94 al acumulado: 6550
+Tick #279 generó 58
+Tick #279 dejó pasar a 58
+Tick #279 sumó 58 al acumulado: 6608
+Tick #280 generó 71
+Tick #280 filtró 71
+Tick #281 generó 37
+Tick #281 filtró 37
+Tick #282 generó 93
+Tick #282 filtró 93
+Tick #283 generó 1
+Tick #283 filtró 1
+Tick #284 generó 89
+Tick #284 filtró 89
+Tick #285 generó 64
+Tick #285 dejó pasar a 64
+Tick #285 sumó 64 al acumulado: 6672
+Tick #286 generó 42
+Tick #286 dejó pasar a 42
+Tick #286 sumó 42 al acumulado: 6714
+Tick #287 generó 61
+Tick #287 filtró 61
+Tick #288 generó 29
+Tick #288 filtró 29
+Tick #289 generó 100
+Tick #289 dejó pasar a 100
+Tick #289 sumó 100 al acumulado: 6814
+Tick #290 generó 61
+Tick #290 filtró 61
+Tick #291 generó 55
+Tick #291 filtró 55
+Tick #292 generó 58
+Tick #292 dejó pasar a 58
+Tick #292 sumó 58 al acumulado: 6872
+Tick #293 generó 90
+Tick #293 dejó pasar a 90
+Tick #293 sumó 90 al acumulado: 6962
+Tick #294 generó 67
+Tick #294 filtró 67
+Tick #295 generó 84
+Tick #295 dejó pasar a 84
+Tick #295 sumó 84 al acumulado: 7046
+Tick #296 generó 28
+Tick #296 dejó pasar a 28
+Tick #296 sumó 28 al acumulado: 7074
+Tick #297 generó 3
+Tick #297 filtró 3
+Tick #298 generó 15
+Tick #298 filtró 15
+Tick #299 generó 48
+Tick #299 dejó pasar a 48
+Tick #299 sumó 48 al acumulado: 7122
+Tick #300 generó 58
+Tick #300 dejó pasar a 58
+Tick #300 sumó 58 al acumulado: 7180
+Tick #301 generó 38
+Tick #301 dejó pasar a 38
+Tick #301 sumó 38 al acumulado: 7218
+Tick #302 generó 37
+Tick #302 filtró 37
+Tick #303 generó 47
+Tick #303 filtró 47
+Tick #304 generó 63
+Tick #304 filtró 63
+Tick #305 generó 79
+Tick #305 filtró 79
+Tick #306 generó 44
+Tick #306 dejó pasar a 44
+Tick #306 sumó 44 al acumulado: 7262
+Tick #307 generó 73
+Tick #307 filtró 73
+Tick #308 generó 21
+Tick #308 filtró 21
+Tick #309 generó 37
+Tick #309 filtró 37
+Tick #310 generó 30
+Tick #310 dejó pasar a 30
+Tick #310 sumó 30 al acumulado: 7292
+Tick #311 generó 91
+Tick #311 filtró 91
+Tick #312 generó 25
+Tick #312 filtró 25
+Tick #313 generó 74
+Tick #313 dejó pasar a 74
+Tick #313 sumó 74 al acumulado: 7366
+Tick #314 generó 43
+Tick #314 filtró 43
+Tick #315 generó 66
+Tick #315 dejó pasar a 66
+Tick #315 sumó 66 al acumulado: 7432
+Tick #316 generó 89
+Tick #316 filtró 89
+Tick #317 generó 84
+Tick #317 dejó pasar a 84
+Tick #317 sumó 84 al acumulado: 7516
+Tick #318 generó 26
+Tick #318 dejó pasar a 26
+Tick #318 sumó 26 al acumulado: 7542
+Tick #319 generó 17
+Tick #319 filtró 17
+Tick #320 generó 83
+Tick #320 filtró 83
+Tick #321 generó 86
+Tick #321 dejó pasar a 86
+Tick #321 sumó 86 al acumulado: 7628
+Tick #322 generó 23
+Tick #322 filtró 23
+Tick #323 generó 92
+Tick #323 dejó pasar a 92
+Tick #323 sumó 92 al acumulado: 7720
+Tick #324 generó 27
+Tick #324 filtró 27
+Tick #325 generó 90
+Tick #325 dejó pasar a 90
+Tick #325 sumó 90 al acumulado: 7810
+Tick #326 generó 75
+Tick #326 filtró 75
+Tick #327 generó 6
+Tick #327 dejó pasar a 6
+Tick #327 sumó 6 al acumulado: 7816
+Tick #328 generó 44
+Tick #328 dejó pasar a 44
+Tick #328 sumó 44 al acumulado: 7860
+Tick #329 generó 41
+Tick #329 filtró 41
+Tick #330 generó 53
+Tick #330 filtró 53
+Tick #331 generó 2
+Tick #331 dejó pasar a 2
+Tick #331 sumó 2 al acumulado: 7862
+Tick #332 generó 78
+Tick #332 dejó pasar a 78
+Tick #332 sumó 78 al acumulado: 7940
+Tick #333 generó 89
+Tick #333 filtró 89
+Tick #334 generó 48
+Tick #334 dejó pasar a 48
+Tick #334 sumó 48 al acumulado: 7988
+Tick #335 generó 40
+Tick #335 dejó pasar a 40
+Tick #335 sumó 40 al acumulado: 8028
+Tick #336 generó 19
+Tick #336 filtró 19
+Tick #337 generó 43
+Tick #337 filtró 43
+Tick #338 generó 64
+Tick #338 dejó pasar a 64
+Tick #338 sumó 64 al acumulado: 8092
+Tick #339 generó 39
+Tick #339 filtró 39
+Tick #340 generó 80
+Tick #340 dejó pasar a 80
+Tick #340 sumó 80 al acumulado: 8172
+Tick #341 generó 45
+Tick #341 filtró 45
+Tick #342 generó 81
+Tick #342 filtró 81
+Tick #343 generó 56
+Tick #343 dejó pasar a 56
+Tick #343 sumó 56 al acumulado: 8228
+Tick #344 generó 18
+Tick #344 dejó pasar a 18
+Tick #344 sumó 18 al acumulado: 8246
+Tick #345 generó 23
+Tick #345 filtró 23
+Tick #346 generó 21
+Tick #346 filtró 21
+Tick #347 generó 58
+Tick #347 dejó pasar a 58
+Tick #347 sumó 58 al acumulado: 8304
+Tick #348 generó 6
+Tick #348 dejó pasar a 6
+Tick #348 sumó 6 al acumulado: 8310
+Tick #349 generó 46
+Tick #349 dejó pasar a 46
+Tick #349 sumó 46 al acumulado: 8356
+Tick #350 generó 74
+Tick #350 dejó pasar a 74
+Tick #350 sumó 74 al acumulado: 8430
+Tick #351 generó 40
+Tick #351 dejó pasar a 40
+Tick #351 sumó 40 al acumulado: 8470
+Tick #352 generó 83
+Tick #352 filtró 83
+Tick #353 generó 97
+Tick #353 filtró 97
+Tick #354 generó 31
+Tick #354 filtró 31
+Tick #355 generó 61
+Tick #355 filtró 61
+Tick #356 generó 38
+Tick #356 dejó pasar a 38
+Tick #356 sumó 38 al acumulado: 8508
+Tick #357 generó 5
+Tick #357 filtró 5
+Tick #358 generó 66
+Tick #358 dejó pasar a 66
+Tick #358 sumó 66 al acumulado: 8574
+Tick #359 generó 33
+Tick #359 filtró 33
+Tick #360 generó 45
+Tick #360 filtró 45
+Tick #361 generó 19
+Tick #361 filtró 19
+Tick #362 generó 34
+Tick #362 dejó pasar a 34
+Tick #362 sumó 34 al acumulado: 8608
+Tick #363 generó 74
+Tick #363 dejó pasar a 74
+Tick #363 sumó 74 al acumulado: 8682
+Tick #364 generó 59
+Tick #364 filtró 59
+Tick #365 generó 34
+Tick #365 dejó pasar a 34
+Tick #365 sumó 34 al acumulado: 8716
+Tick #366 generó 65
+Tick #366 filtró 65
+Tick #367 generó 30
+Tick #367 dejó pasar a 30
+Tick #367 sumó 30 al acumulado: 8746
+Tick #368 generó 76
+Tick #368 dejó pasar a 76
+Tick #368 sumó 76 al acumulado: 8822
+Tick #369 generó 28
+Tick #369 dejó pasar a 28
+Tick #369 sumó 28 al acumulado: 8850
+Tick #370 generó 20
+Tick #370 dejó pasar a 20
+Tick #370 sumó 20 al acumulado: 8870
+Tick #371 generó 7
+Tick #371 filtró 7
+Tick #372 generó 24
+Tick #372 dejó pasar a 24
+Tick #372 sumó 24 al acumulado: 8894
 Tick #373 generó 1
 Tick #373 filtró 1
-Tick #374 generó 32
-Tick #374 dejó pasar a 32
-Tick #374 sumó 32 al acumulado: 9550
-Tick #375 generó 71
-Tick #375 filtró 71
-Tick #376 generó 84
-Tick #376 dejó pasar a 84
-Tick #376 sumó 84 al acumulado: 9634
-Tick #377 generó 24
-Tick #377 dejó pasar a 24
-Tick #377 sumó 24 al acumulado: 9658
-Tick #378 generó 96
-Tick #378 dejó pasar a 96
-Tick #378 sumó 96 al acumulado: 9754
-Tick #379 generó 77
-Tick #379 filtró 77
-Tick #380 generó 34
-Tick #380 dejó pasar a 34
-Tick #380 sumó 34 al acumulado: 9788
-Tick #381 generó 7
-Tick #381 filtró 7
-Tick #382 generó 73
-Tick #382 filtró 73
-Tick #383 generó 86
-Tick #383 dejó pasar a 86
-Tick #383 sumó 86 al acumulado: 9874
-Tick #384 generó 71
-Tick #384 filtró 71
-Tick #385 generó 37
-Tick #385 filtró 37
-Tick #386 generó 81
-Tick #386 filtró 81
-Tick #387 generó 85
-Tick #387 filtró 85
-Tick #388 generó 26
-Tick #388 dejó pasar a 26
-Tick #388 sumó 26 al acumulado: 9900
-Tick #389 generó 60
-Tick #389 dejó pasar a 60
-Tick #389 sumó 60 al acumulado: 9960
-Tick #390 generó 31
-Tick #390 filtró 31
-Tick #391 generó 53
-Tick #391 filtró 53
-Tick #392 generó 48
-Tick #392 dejó pasar a 48
-Tick #392 sumó 48 al acumulado: 10008
-Tick #393 generó 45
-Tick #393 filtró 45
-Tick #394 generó 8
-Tick #394 dejó pasar a 8
-Tick #394 sumó 8 al acumulado: 10016
-Tick #395 generó 50
-Tick #395 dejó pasar a 50
-Tick #395 sumó 50 al acumulado: 10066
-Tick #396 generó 76
-Tick #396 dejó pasar a 76
-Tick #396 sumó 76 al acumulado: 10142
-Tick #397 generó 77
-Tick #397 filtró 77
-Tick #398 generó 52
-Tick #398 dejó pasar a 52
-Tick #398 sumó 52 al acumulado: 10194
-Tick #399 generó 77
-Tick #399 filtró 77
-Tick #400 generó 38
-Tick #400 dejó pasar a 38
-Tick #400 sumó 38 al acumulado: 10232
-Tick #401 generó 94
-Tick #401 dejó pasar a 94
-Tick #401 sumó 94 al acumulado: 10326
-Tick #402 generó 40
-Tick #402 dejó pasar a 40
-Tick #402 sumó 40 al acumulado: 10366
-Tick #403 generó 20
-Tick #403 dejó pasar a 20
-Tick #403 sumó 20 al acumulado: 10386
-Tick #404 generó 47
-Tick #404 filtró 47
-Tick #405 generó 72
-Tick #405 dejó pasar a 72
-Tick #405 sumó 72 al acumulado: 10458
-Tick #406 generó 90
-Tick #406 dejó pasar a 90
-Tick #406 sumó 90 al acumulado: 10548
-Tick #407 generó 82
-Tick #407 dejó pasar a 82
-Tick #407 sumó 82 al acumulado: 10630
-Tick #408 generó 47
-Tick #408 filtró 47
-Tick #409 generó 85
-Tick #409 filtró 85
-Tick #410 generó 59
-Tick #410 filtró 59
-Tick #411 generó 32
-Tick #411 dejó pasar a 32
-Tick #411 sumó 32 al acumulado: 10662
-Tick #412 generó 91
-Tick #412 filtró 91
-Tick #413 generó 83
-Tick #413 filtró 83
-Tick #414 generó 17
-Tick #414 filtró 17
-Tick #415 generó 14
-Tick #415 dejó pasar a 14
-Tick #415 sumó 14 al acumulado: 10676
-Tick #416 generó 71
-Tick #416 filtró 71
-Tick #417 generó 50
-Tick #417 dejó pasar a 50
-Tick #417 sumó 50 al acumulado: 10726
-Tick #418 generó 50
-Tick #418 dejó pasar a 50
-Tick #418 sumó 50 al acumulado: 10776
-Tick #419 generó 96
-Tick #419 dejó pasar a 96
-Tick #419 sumó 96 al acumulado: 10872
-Tick #420 generó 9
-Tick #420 filtró 9
-Tick #421 generó 80
-Tick #421 dejó pasar a 80
-Tick #421 sumó 80 al acumulado: 10952
-Tick #422 generó 1
-Tick #422 filtró 1
-Tick #423 generó 8
-Tick #423 dejó pasar a 8
-Tick #423 sumó 8 al acumulado: 10960
-Tick #424 generó 25
-Tick #424 filtró 25
-Tick #425 generó 8
-Tick #425 dejó pasar a 8
-Tick #425 sumó 8 al acumulado: 10968
-Tick #426 generó 58
-Tick #426 dejó pasar a 58
-Tick #426 sumó 58 al acumulado: 11026
-Tick #427 generó 52
-Tick #427 dejó pasar a 52
-Tick #427 sumó 52 al acumulado: 11078
-Tick #428 generó 37
-Tick #428 filtró 37
-Tick #429 generó 61
-Tick #429 filtró 61
-Tick #430 generó 81
-Tick #430 filtró 81
-Tick #431 generó 26
-Tick #431 dejó pasar a 26
-Tick #431 sumó 26 al acumulado: 11104
-Tick #432 generó 7
-Tick #432 filtró 7
-Tick #433 generó 72
-Tick #433 dejó pasar a 72
-Tick #433 sumó 72 al acumulado: 11176
-Tick #434 generó 45
-Tick #434 filtró 45
-Tick #435 generó 5
-Tick #435 filtró 5
-Tick #436 generó 95
-Tick #436 filtró 95
-Tick #437 generó 34
-Tick #437 dejó pasar a 34
-Tick #437 sumó 34 al acumulado: 11210
-Tick #438 generó 86
-Tick #438 dejó pasar a 86
-Tick #438 sumó 86 al acumulado: 11296
-Tick #439 generó 41
-Tick #439 filtró 41
-Tick #440 generó 70
-Tick #440 dejó pasar a 70
-Tick #440 sumó 70 al acumulado: 11366
-Tick #441 generó 96
-Tick #441 dejó pasar a 96
-Tick #441 sumó 96 al acumulado: 11462
-Tick #442 generó 25
-Tick #442 filtró 25
-Tick #443 generó 13
-Tick #443 filtró 13
-Tick #444 generó 78
-Tick #444 dejó pasar a 78
-Tick #444 sumó 78 al acumulado: 11540
-Tick #445 generó 93
-Tick #445 filtró 93
-Tick #446 generó 26
-Tick #446 dejó pasar a 26
-Tick #446 sumó 26 al acumulado: 11566
-Tick #447 generó 49
-Tick #447 filtró 49
-Tick #448 generó 42
-Tick #448 dejó pasar a 42
-Tick #448 sumó 42 al acumulado: 11608
-Tick #449 generó 75
-Tick #449 filtró 75
-Tick #450 generó 96
-Tick #450 dejó pasar a 96
-Tick #450 sumó 96 al acumulado: 11704
-Tick #451 generó 3
-Tick #451 filtró 3
-Tick #452 generó 7
-Tick #452 filtró 7
-Tick #453 generó 96
-Tick #453 dejó pasar a 96
-Tick #453 sumó 96 al acumulado: 11800
-Tick #454 generó 10
-Tick #454 dejó pasar a 10
-Tick #454 sumó 10 al acumulado: 11810
-Tick #455 generó 83
-Tick #455 filtró 83
-Tick #456 generó 56
-Tick #456 dejó pasar a 56
-Tick #456 sumó 56 al acumulado: 11866
-Tick #457 generó 19
-Tick #457 filtró 19
-Tick #458 generó 34
-Tick #458 dejó pasar a 34
-Tick #458 sumó 34 al acumulado: 11900
-Tick #459 generó 44
-Tick #459 dejó pasar a 44
-Tick #459 sumó 44 al acumulado: 11944
-Tick #460 generó 32
-Tick #460 dejó pasar a 32
-Tick #460 sumó 32 al acumulado: 11976
-Tick #461 generó 66
-Tick #461 dejó pasar a 66
-Tick #461 sumó 66 al acumulado: 12042
-Tick #462 generó 69
-Tick #462 filtró 69
-Tick #463 generó 38
-Tick #463 dejó pasar a 38
-Tick #463 sumó 38 al acumulado: 12080
-Tick #464 generó 38
-Tick #464 dejó pasar a 38
-Tick #464 sumó 38 al acumulado: 12118
-Tick #465 generó 14
-Tick #465 dejó pasar a 14
-Tick #465 sumó 14 al acumulado: 12132
-Tick #466 generó 42
-Tick #466 dejó pasar a 42
-Tick #466 sumó 42 al acumulado: 12174
-Tick #467 generó 32
-Tick #467 dejó pasar a 32
-Tick #467 sumó 32 al acumulado: 12206
-Tick #468 generó 99
-Tick #468 filtró 99
-Tick #469 generó 27
-Tick #469 filtró 27
-Tick #470 generó 25
-Tick #470 filtró 25
-Tick #471 generó 69
-Tick #471 filtró 69
-Tick #472 generó 23
-Tick #472 filtró 23
-Tick #473 generó 1
-Tick #473 filtró 1
-Tick #474 generó 81
-Tick #474 filtró 81
-Tick #475 generó 52
-Tick #475 dejó pasar a 52
-Tick #475 sumó 52 al acumulado: 12258
-Tick #476 generó 93
-Tick #476 filtró 93
-Tick #477 generó 58
-Tick #477 dejó pasar a 58
-Tick #477 sumó 58 al acumulado: 12316
-Tick #478 generó 52
-Tick #478 dejó pasar a 52
-Tick #478 sumó 52 al acumulado: 12368
-Tick #479 generó 87
-Tick #479 filtró 87
-Tick #480 generó 84
-Tick #480 dejó pasar a 84
-Tick #480 sumó 84 al acumulado: 12452
-Tick #481 generó 100
-Tick #481 dejó pasar a 100
-Tick #481 sumó 100 al acumulado: 12552
-Tick #482 generó 89
-Tick #482 filtró 89
-Tick #483 generó 42
-Tick #483 dejó pasar a 42
-Tick #483 sumó 42 al acumulado: 12594
-Tick #484 generó 47
-Tick #484 filtró 47
-Tick #485 generó 50
-Tick #485 dejó pasar a 50
-Tick #485 sumó 50 al acumulado: 12644
-Tick #486 generó 24
-Tick #486 dejó pasar a 24
-Tick #486 sumó 24 al acumulado: 12668
-Tick #487 generó 2
-Tick #487 dejó pasar a 2
-Tick #487 sumó 2 al acumulado: 12670
-Tick #488 generó 21
-Tick #488 filtró 21
-Tick #489 generó 10
-Tick #489 dejó pasar a 10
-Tick #489 sumó 10 al acumulado: 12680
-Tick #490 generó 45
-Tick #490 filtró 45
-Tick #491 generó 4
-Tick #491 dejó pasar a 4
-Tick #491 sumó 4 al acumulado: 12684
-Tick #492 generó 75
-Tick #492 filtró 75
-Tick #493 generó 66
-Tick #493 dejó pasar a 66
-Tick #493 sumó 66 al acumulado: 12750
-Tick #494 generó 41
-Tick #494 filtró 41
-Tick #495 generó 12
-Tick #495 dejó pasar a 12
-Tick #495 sumó 12 al acumulado: 12762
-Tick #496 generó 31
-Tick #496 filtró 31
-Tick #497 generó 34
-Tick #497 dejó pasar a 34
-Tick #497 sumó 34 al acumulado: 12796
-Tick #498 generó 96
-Tick #498 dejó pasar a 96
-Tick #498 sumó 96 al acumulado: 12892
-Tick #499 generó 29
-Tick #499 filtró 29
-Tick #500 generó 12
-Tick #500 dejó pasar a 12
-Tick #500 sumó 12 al acumulado: 12904
-Tick #501 generó 20
-Tick #501 dejó pasar a 20
-Tick #501 sumó 20 al acumulado: 12924
-Tick #502 generó 49
-Tick #502 filtró 49
-Tick #503 generó 86
-Tick #503 dejó pasar a 86
-Tick #503 sumó 86 al acumulado: 13010
-Tick #504 generó 72
-Tick #504 dejó pasar a 72
-Tick #504 sumó 72 al acumulado: 13082
-Tick #505 generó 81
-Tick #505 filtró 81
-Tick #506 generó 90
-Tick #506 dejó pasar a 90
-Tick #506 sumó 90 al acumulado: 13172
-Tick #507 generó 64
-Tick #507 dejó pasar a 64
-Tick #507 sumó 64 al acumulado: 13236
-Tick #508 generó 90
-Tick #508 dejó pasar a 90
-Tick #508 sumó 90 al acumulado: 13326
-Tick #509 generó 93
-Tick #509 filtró 93
-Tick #510 generó 2
-Tick #510 dejó pasar a 2
-Tick #510 sumó 2 al acumulado: 13328
-Tick #511 generó 74
-Tick #511 dejó pasar a 74
-Tick #511 sumó 74 al acumulado: 13402
-Tick #512 generó 92
-Tick #512 dejó pasar a 92
-Tick #512 sumó 92 al acumulado: 13494
-Tick #513 generó 42
-Tick #513 dejó pasar a 42
-Tick #513 sumó 42 al acumulado: 13536
-Tick #514 generó 15
-Tick #514 filtró 15
-Tick #515 generó 39
-Tick #515 filtró 39
-Tick #516 generó 44
-Tick #516 dejó pasar a 44
-Tick #516 sumó 44 al acumulado: 13580
-Tick #517 generó 91
-Tick #517 filtró 91
-Tick #518 generó 92
-Tick #518 dejó pasar a 92
-Tick #518 sumó 92 al acumulado: 13672
-Tick #519 generó 16
-Tick #519 dejó pasar a 16
-Tick #519 sumó 16 al acumulado: 13688
-Tick #520 generó 100
-Tick #520 dejó pasar a 100
-Tick #520 sumó 100 al acumulado: 13788
-Tick #521 generó 89
-Tick #521 filtró 89
-Tick #522 generó 19
-Tick #522 filtró 19
-Tick #523 generó 74
-Tick #523 dejó pasar a 74
-Tick #523 sumó 74 al acumulado: 13862
-Tick #524 generó 54
-Tick #524 dejó pasar a 54
-Tick #524 sumó 54 al acumulado: 13916
-Tick #525 generó 11
-Tick #525 filtró 11
-Tick #526 generó 38
-Tick #526 dejó pasar a 38
-Tick #526 sumó 38 al acumulado: 13954
-Tick #527 generó 36
-Tick #527 dejó pasar a 36
-Tick #527 sumó 36 al acumulado: 13990
-Tick #528 generó 44
-Tick #528 dejó pasar a 44
-Tick #528 sumó 44 al acumulado: 14034
-Tick #529 generó 33
-Tick #529 filtró 33
-Tick #530 generó 16
-Tick #530 dejó pasar a 16
-Tick #530 sumó 16 al acumulado: 14050
-Tick #531 generó 7
-Tick #531 filtró 7
-Tick #532 generó 4
-Tick #532 dejó pasar a 4
-Tick #532 sumó 4 al acumulado: 14054
-Tick #533 generó 65
-Tick #533 filtró 65
-Tick #534 generó 93
-Tick #534 filtró 93
-Tick #535 generó 75
-Tick #535 filtró 75
-Tick #536 generó 97
-Tick #536 filtró 97
-Tick #537 generó 34
-Tick #537 dejó pasar a 34
-Tick #537 sumó 34 al acumulado: 14088
-Tick #538 generó 90
-Tick #538 dejó pasar a 90
-Tick #538 sumó 90 al acumulado: 14178
-Tick #539 generó 87
-Tick #539 filtró 87
-Tick #540 generó 26
-Tick #540 dejó pasar a 26
-Tick #540 sumó 26 al acumulado: 14204
-Tick #541 generó 92
-Tick #541 dejó pasar a 92
-Tick #541 sumó 92 al acumulado: 14296
-Tick #542 generó 12
-Tick #542 dejó pasar a 12
-Tick #542 sumó 12 al acumulado: 14308
-Tick #543 generó 70
-Tick #543 dejó pasar a 70
-Tick #543 sumó 70 al acumulado: 14378
-Tick #544 generó 85
-Tick #544 filtró 85
-Tick #545 generó 78
-Tick #545 dejó pasar a 78
-Tick #545 sumó 78 al acumulado: 14456
-Tick #546 generó 60
-Tick #546 dejó pasar a 60
-Tick #546 sumó 60 al acumulado: 14516
-Tick #547 generó 28
-Tick #547 dejó pasar a 28
-Tick #547 sumó 28 al acumulado: 14544
-Tick #548 generó 68
-Tick #548 dejó pasar a 68
-Tick #548 sumó 68 al acumulado: 14612
-Tick #549 generó 51
-Tick #549 filtró 51
-Tick #550 generó 43
-Tick #550 filtró 43
-Tick #551 generó 67
-Tick #551 filtró 67
-Tick #552 generó 91
-Tick #552 filtró 91
-Tick #553 generó 61
-Tick #553 filtró 61
-Tick #554 generó 93
-Tick #554 filtró 93
-Tick #555 generó 96
-Tick #555 dejó pasar a 96
-Tick #555 sumó 96 al acumulado: 14708
-Tick #556 generó 23
-Tick #556 filtró 23
-Tick #557 generó 30
-Tick #557 dejó pasar a 30
-Tick #557 sumó 30 al acumulado: 14738
-Tick #558 generó 31
-Tick #558 filtró 31
-Tick #559 generó 66
-Tick #559 dejó pasar a 66
-Tick #559 sumó 66 al acumulado: 14804
-Tick #560 generó 14
-Tick #560 dejó pasar a 14
-Tick #560 sumó 14 al acumulado: 14818
-Tick #561 generó 47
-Tick #561 filtró 47
-Tick #562 generó 25
-Tick #562 filtró 25
-Tick #563 generó 17
-Tick #563 filtró 17
-Tick #564 generó 63
-Tick #564 filtró 63
-Tick #565 generó 69
-Tick #565 filtró 69
-Tick #566 generó 43
-Tick #566 filtró 43
-Tick #567 generó 59
-Tick #567 filtró 59
-Tick #568 generó 2
-Tick #568 dejó pasar a 2
-Tick #568 sumó 2 al acumulado: 14820
-Tick #569 generó 32
-Tick #569 dejó pasar a 32
-Tick #569 sumó 32 al acumulado: 14852
-Tick #570 generó 45
-Tick #570 filtró 45
-Tick #571 generó 79
-Tick #571 filtró 79
-Tick #572 generó 75
-Tick #572 filtró 75
-Tick #573 generó 56
-Tick #573 dejó pasar a 56
-Tick #573 sumó 56 al acumulado: 14908
-Tick #574 generó 100
-Tick #574 dejó pasar a 100
-Tick #574 sumó 100 al acumulado: 15008
-Tick #575 generó 60
-Tick #575 dejó pasar a 60
-Tick #575 sumó 60 al acumulado: 15068
-Tick #576 generó 34
-Tick #576 dejó pasar a 34
-Tick #576 sumó 34 al acumulado: 15102
-Tick #577 generó 59
-Tick #577 filtró 59
-Tick #578 generó 39
-Tick #578 filtró 39
-Tick #579 generó 53
-Tick #579 filtró 53
-Tick #580 generó 62
-Tick #580 dejó pasar a 62
-Tick #580 sumó 62 al acumulado: 15164
-Tick #581 generó 82
-Tick #581 dejó pasar a 82
-Tick #581 sumó 82 al acumulado: 15246
-Tick #582 generó 20
-Tick #582 dejó pasar a 20
-Tick #582 sumó 20 al acumulado: 15266
-Tick #583 generó 52
-Tick #583 dejó pasar a 52
-Tick #583 sumó 52 al acumulado: 15318
-Tick #584 generó 94
-Tick #584 dejó pasar a 94
-Tick #584 sumó 94 al acumulado: 15412
-Tick #585 generó 12
-Tick #585 dejó pasar a 12
-Tick #585 sumó 12 al acumulado: 15424
-Tick #586 generó 48
-Tick #586 dejó pasar a 48
-Tick #586 sumó 48 al acumulado: 15472
-Tick #587 generó 17
-Tick #587 filtró 17
-Tick #588 generó 93
-Tick #588 filtró 93
-Tick #589 generó 30
-Tick #589 dejó pasar a 30
-Tick #589 sumó 30 al acumulado: 15502
-Tick #590 generó 34
-Tick #590 dejó pasar a 34
-Tick #590 sumó 34 al acumulado: 15536
-Tick #591 generó 6
-Tick #591 dejó pasar a 6
-Tick #591 sumó 6 al acumulado: 15542
-Tick #592 generó 28
-Tick #592 dejó pasar a 28
-Tick #592 sumó 28 al acumulado: 15570
-Tick #593 generó 10
-Tick #593 dejó pasar a 10
-Tick #593 sumó 10 al acumulado: 15580
-Tick #594 generó 74
-Tick #594 dejó pasar a 74
-Tick #594 sumó 74 al acumulado: 15654
-Tick #595 generó 42
-Tick #595 dejó pasar a 42
-Tick #595 sumó 42 al acumulado: 15696
-Tick #596 generó 78
-Tick #596 dejó pasar a 78
-Tick #596 sumó 78 al acumulado: 15774
-Tick #597 generó 16
-Tick #597 dejó pasar a 16
-Tick #597 sumó 16 al acumulado: 15790
-Tick #598 generó 1
-Tick #598 filtró 1
-Tick #599 generó 31
-Tick #599 filtró 31
-Tick #600 generó 99
-Tick #600 filtró 99
-Tick #601 generó 97
-Tick #601 filtró 97
-Tick #602 generó 62
-Tick #602 dejó pasar a 62
-Tick #602 sumó 62 al acumulado: 15852
-Tick #603 generó 26
-Tick #603 dejó pasar a 26
-Tick #603 sumó 26 al acumulado: 15878
-Tick #604 generó 5
-Tick #604 filtró 5
-Tick #605 generó 61
-Tick #605 filtró 61
-Tick #606 generó 37
-Tick #606 filtró 37
-Tick #607 generó 90
-Tick #607 dejó pasar a 90
-Tick #607 sumó 90 al acumulado: 15968
-Tick #608 generó 72
-Tick #608 dejó pasar a 72
-Tick #608 sumó 72 al acumulado: 16040
-Tick #609 generó 75
-Tick #609 filtró 75
-Tick #610 generó 42
-Tick #610 dejó pasar a 42
-Tick #610 sumó 42 al acumulado: 16082
-Tick #611 generó 33
-Tick #611 filtró 33
-Tick #612 generó 8
-Tick #612 dejó pasar a 8
-Tick #612 sumó 8 al acumulado: 16090
-Tick #613 generó 61
-Tick #613 filtró 61
-Tick #614 generó 36
-Tick #614 dejó pasar a 36
-Tick #614 sumó 36 al acumulado: 16126
-Tick #615 generó 2
-Tick #615 dejó pasar a 2
-Tick #615 sumó 2 al acumulado: 16128
-Tick #616 generó 24
-Tick #616 dejó pasar a 24
-Tick #616 sumó 24 al acumulado: 16152
-Tick #617 generó 35
-Tick #617 filtró 35
-Tick #618 generó 70
-Tick #618 dejó pasar a 70
-Tick #618 sumó 70 al acumulado: 16222
-Tick #619 generó 16
-Tick #619 dejó pasar a 16
-Tick #619 sumó 16 al acumulado: 16238
-Tick #620 generó 17
-Tick #620 filtró 17
-Tick #621 generó 55
-Tick #621 filtró 55
-Tick #622 generó 21
-Tick #622 filtró 21
-Tick #623 generó 44
-Tick #623 dejó pasar a 44
-Tick #623 sumó 44 al acumulado: 16282
-Tick #624 generó 65
-Tick #624 filtró 65
-Tick #625 generó 46
-Tick #625 dejó pasar a 46
-Tick #625 sumó 46 al acumulado: 16328
-Tick #626 generó 38
-Tick #626 dejó pasar a 38
-Tick #626 sumó 38 al acumulado: 16366
-Tick #627 generó 42
-Tick #627 dejó pasar a 42
-Tick #627 sumó 42 al acumulado: 16408
-Tick #628 generó 61
-Tick #628 filtró 61
-Tick #629 generó 38
-Tick #629 dejó pasar a 38
-Tick #629 sumó 38 al acumulado: 16446
-Tick #630 generó 25
-Tick #630 filtró 25
-Tick #631 generó 12
-Tick #631 dejó pasar a 12
-Tick #631 sumó 12 al acumulado: 16458
-Tick #632 generó 86
-Tick #632 dejó pasar a 86
-Tick #632 sumó 86 al acumulado: 16544
-Tick #633 generó 86
-Tick #633 dejó pasar a 86
-Tick #633 sumó 86 al acumulado: 16630
-Tick #634 generó 37
-Tick #634 filtró 37
-Tick #635 generó 90
-Tick #635 dejó pasar a 90
-Tick #635 sumó 90 al acumulado: 16720
-Tick #636 generó 46
-Tick #636 dejó pasar a 46
-Tick #636 sumó 46 al acumulado: 16766
-Tick #637 generó 73
-Tick #637 filtró 73
-Tick #638 generó 31
-Tick #638 filtró 31
-Tick #639 generó 69
-Tick #639 filtró 69
-Tick #640 generó 99
-Tick #640 filtró 99
-Tick #641 generó 73
-Tick #641 filtró 73
-Tick #642 generó 53
-Tick #642 filtró 53
-Tick #643 generó 7
-Tick #643 filtró 7
-Tick #644 generó 85
-Tick #644 filtró 85
-Tick #645 generó 89
-Tick #645 filtró 89
-Tick #646 generó 60
-Tick #646 dejó pasar a 60
-Tick #646 sumó 60 al acumulado: 16826
-Tick #647 generó 9
-Tick #647 filtró 9
-Tick #648 generó 75
-Tick #648 filtró 75
-Tick #649 generó 29
-Tick #649 filtró 29
-Tick #650 generó 76
-Tick #650 dejó pasar a 76
-Tick #650 sumó 76 al acumulado: 16902
-Tick #651 generó 91
-Tick #651 filtró 91
-Tick #652 generó 83
-Tick #652 filtró 83
-Tick #653 generó 49
-Tick #653 filtró 49
-Tick #654 generó 87
-Tick #654 filtró 87
-Tick #655 generó 99
-Tick #655 filtró 99
-Tick #656 generó 94
-Tick #656 dejó pasar a 94
-Tick #656 sumó 94 al acumulado: 16996
-Tick #657 generó 24
-Tick #657 dejó pasar a 24
-Tick #657 sumó 24 al acumulado: 17020
-Tick #658 generó 41
-Tick #658 filtró 41
-Tick #659 generó 55
-Tick #659 filtró 55
-Tick #660 generó 13
-Tick #660 filtró 13
+Tick #374 generó 15
+Tick #374 filtró 15
+Tick #375 generó 93
+Tick #375 filtró 93
+Tick #376 generó 23
+Tick #376 filtró 23
+Tick #377 generó 35
+Tick #377 filtró 35
+Tick #378 generó 50
+Tick #378 dejó pasar a 50
+Tick #378 sumó 50 al acumulado: 8944
+Tick #379 generó 29
+Tick #379 filtró 29
+Tick #380 generó 81
+Tick #380 filtró 81
+Tick #381 generó 24
+Tick #381 dejó pasar a 24
+Tick #381 sumó 24 al acumulado: 8968
+Tick #382 generó 68
+Tick #382 dejó pasar a 68
+Tick #382 sumó 68 al acumulado: 9036
+Tick #383 generó 15
+Tick #383 filtró 15
+Tick #384 generó 72
+Tick #384 dejó pasar a 72
+Tick #384 sumó 72 al acumulado: 9108
+Tick #385 generó 51
+Tick #385 filtró 51
+Tick #386 generó 76
+Tick #386 dejó pasar a 76
+Tick #386 sumó 76 al acumulado: 9184
+Tick #387 generó 61
+Tick #387 filtró 61
+Tick #388 generó 55
+Tick #388 filtró 55
+Tick #389 generó 93
+Tick #389 filtró 93
+Tick #390 generó 45
+Tick #390 filtró 45
+Tick #391 generó 52
+Tick #391 dejó pasar a 52
+Tick #391 sumó 52 al acumulado: 9236
+Tick #392 generó 63
+Tick #392 filtró 63
+Tick #393 generó 79
+Tick #393 filtró 79
+Tick #394 generó 77
+Tick #394 filtró 77
+Tick #395 generó 74
+Tick #395 dejó pasar a 74
+Tick #395 sumó 74 al acumulado: 9310
+Tick #396 generó 64
+Tick #396 dejó pasar a 64
+Tick #396 sumó 64 al acumulado: 9374
+Tick #397 generó 42
+Tick #397 dejó pasar a 42
+Tick #397 sumó 42 al acumulado: 9416
+Tick #398 generó 3
+Tick #398 filtró 3
+Tick #399 generó 91
+Tick #399 filtró 91
+Tick #400 generó 21
+Tick #400 filtró 21
+Tick #401 generó 22
+Tick #401 dejó pasar a 22
+Tick #401 sumó 22 al acumulado: 9438
+Tick #402 generó 50
+Tick #402 dejó pasar a 50
+Tick #402 sumó 50 al acumulado: 9488
+Tick #403 generó 45
+Tick #403 filtró 45
+Tick #404 generó 74
+Tick #404 dejó pasar a 74
+Tick #404 sumó 74 al acumulado: 9562
+Tick #405 generó 64
+Tick #405 dejó pasar a 64
+Tick #405 sumó 64 al acumulado: 9626
+Tick #406 generó 89
+Tick #406 filtró 89
+Tick #407 generó 97
+Tick #407 filtró 97
+Tick #408 generó 98
+Tick #408 dejó pasar a 98
+Tick #408 sumó 98 al acumulado: 9724
+Tick #409 generó 39
+Tick #409 filtró 39
+Tick #410 generó 25
+Tick #410 filtró 25
+Tick #411 generó 30
+Tick #411 dejó pasar a 30
+Tick #411 sumó 30 al acumulado: 9754
+Tick #412 generó 14
+Tick #412 dejó pasar a 14
+Tick #412 sumó 14 al acumulado: 9768
+Tick #413 generó 44
+Tick #413 dejó pasar a 44
+Tick #413 sumó 44 al acumulado: 9812
+Tick #414 generó 45
+Tick #414 filtró 45
+Tick #415 generó 37
+Tick #415 filtró 37
+Tick #416 generó 94
+Tick #416 dejó pasar a 94
+Tick #416 sumó 94 al acumulado: 9906
+Tick #417 generó 72
+Tick #417 dejó pasar a 72
+Tick #417 sumó 72 al acumulado: 9978
+Tick #418 generó 97
+Tick #418 filtró 97
+Tick #419 generó 1
+Tick #419 filtró 1
+Tick #420 generó 16
+Tick #420 dejó pasar a 16
+Tick #420 sumó 16 al acumulado: 9994
+Tick #421 generó 93
+Tick #421 filtró 93
+Tick #422 generó 4
+Tick #422 dejó pasar a 4
+Tick #422 sumó 4 al acumulado: 9998
+Tick #423 generó 79
+Tick #423 filtró 79
+Tick #424 generó 23
+Tick #424 filtró 23
+Tick #425 generó 32
+Tick #425 dejó pasar a 32
+Tick #425 sumó 32 al acumulado: 10030
+Tick #426 generó 52
+Tick #426 dejó pasar a 52
+Tick #426 sumó 52 al acumulado: 10082
+Tick #427 generó 86
+Tick #427 dejó pasar a 86
+Tick #427 sumó 86 al acumulado: 10168
+Tick #428 generó 73
+Tick #428 filtró 73
+Tick #429 generó 54
+Tick #429 dejó pasar a 54
+Tick #429 sumó 54 al acumulado: 10222
+Tick #430 generó 29
+Tick #430 filtró 29
+Tick #431 generó 46
+Tick #431 dejó pasar a 46
+Tick #431 sumó 46 al acumulado: 10268
+Tick #432 generó 27
+Tick #432 filtró 27
+Tick #433 generó 78
+Tick #433 dejó pasar a 78
+Tick #433 sumó 78 al acumulado: 10346
+Tick #434 generó 42
+Tick #434 dejó pasar a 42
+Tick #434 sumó 42 al acumulado: 10388
+Tick #435 generó 1
+Tick #435 filtró 1
+Tick #436 generó 41
+Tick #436 filtró 41
+Tick #437 generó 30
+Tick #437 dejó pasar a 30
+Tick #437 sumó 30 al acumulado: 10418
+Tick #438 generó 49
+Tick #438 filtró 49
+Tick #439 generó 38
+Tick #439 dejó pasar a 38
+Tick #439 sumó 38 al acumulado: 10456
+Tick #440 generó 68
+Tick #440 dejó pasar a 68
+Tick #440 sumó 68 al acumulado: 10524
+Tick #441 generó 25
+Tick #441 filtró 25
+Tick #442 generó 20
+Tick #442 dejó pasar a 20
+Tick #442 sumó 20 al acumulado: 10544
+Tick #443 generó 81
+Tick #443 filtró 81
+Tick #444 generó 68
+Tick #444 dejó pasar a 68
+Tick #444 sumó 68 al acumulado: 10612
+Tick #445 generó 16
+Tick #445 dejó pasar a 16
+Tick #445 sumó 16 al acumulado: 10628
+Tick #446 generó 17
+Tick #446 filtró 17
+Tick #447 generó 14
+Tick #447 dejó pasar a 14
+Tick #447 sumó 14 al acumulado: 10642
+Tick #448 generó 39
+Tick #448 filtró 39
+Tick #449 generó 65
+Tick #449 filtró 65
+Tick #450 generó 66
+Tick #450 dejó pasar a 66
+Tick #450 sumó 66 al acumulado: 10708
+Tick #451 generó 54
+Tick #451 dejó pasar a 54
+Tick #451 sumó 54 al acumulado: 10762
+Tick #452 generó 58
+Tick #452 dejó pasar a 58
+Tick #452 sumó 58 al acumulado: 10820
+Tick #453 generó 69
+Tick #453 filtró 69
+Tick #454 generó 32
+Tick #454 dejó pasar a 32
+Tick #454 sumó 32 al acumulado: 10852
+Tick #455 generó 80
+Tick #455 dejó pasar a 80
+Tick #455 sumó 80 al acumulado: 10932
+Tick #456 generó 100
+Tick #456 dejó pasar a 100
+Tick #456 sumó 100 al acumulado: 11032
+Tick #457 generó 83
+Tick #457 filtró 83
+Tick #458 generó 18
+Tick #458 dejó pasar a 18
+Tick #458 sumó 18 al acumulado: 11050
+Tick #459 generó 25
+Tick #459 filtró 25
+Tick #460 generó 88
+Tick #460 dejó pasar a 88
+Tick #460 sumó 88 al acumulado: 11138
+Tick #461 generó 46
+Tick #461 dejó pasar a 46
+Tick #461 sumó 46 al acumulado: 11184
+Tick #462 generó 70
+Tick #462 dejó pasar a 70
+Tick #462 sumó 70 al acumulado: 11254
+Tick #463 generó 67
+Tick #463 filtró 67
+Tick #464 generó 23
+Tick #464 filtró 23
+Tick #465 generó 63
+Tick #465 filtró 63
+Tick #466 generó 19
+Tick #466 filtró 19
+Tick #467 generó 15
+Tick #467 filtró 15
+Tick #468 generó 92
+Tick #468 dejó pasar a 92
+Tick #468 sumó 92 al acumulado: 11346
+Tick #469 generó 67
+Tick #469 filtró 67
+Tick #470 generó 4
+Tick #470 dejó pasar a 4
+Tick #470 sumó 4 al acumulado: 11350
+Tick #471 generó 60
+Tick #471 dejó pasar a 60
+Tick #471 sumó 60 al acumulado: 11410
+Tick #472 generó 91
+Tick #472 filtró 91
+Tick #473 generó 23
+Tick #473 filtró 23
+Tick #474 generó 92
+Tick #474 dejó pasar a 92
+Tick #474 sumó 92 al acumulado: 11502
+Tick #475 generó 10
+Tick #475 dejó pasar a 10
+Tick #475 sumó 10 al acumulado: 11512
+Tick #476 generó 38
+Tick #476 dejó pasar a 38
+Tick #476 sumó 38 al acumulado: 11550
+Tick #477 generó 9
+Tick #477 filtró 9
+Tick #478 generó 75
+Tick #478 filtró 75
+Tick #479 generó 76
+Tick #479 dejó pasar a 76
+Tick #479 sumó 76 al acumulado: 11626
+Tick #480 generó 25
+Tick #480 filtró 25
+Tick #481 generó 40
+Tick #481 dejó pasar a 40
+Tick #481 sumó 40 al acumulado: 11666
+Tick #482 generó 30
+Tick #482 dejó pasar a 30
+Tick #482 sumó 30 al acumulado: 11696
+Tick #483 generó 34
+Tick #483 dejó pasar a 34
+Tick #483 sumó 34 al acumulado: 11730
+Tick #484 generó 60
+Tick #484 dejó pasar a 60
+Tick #484 sumó 60 al acumulado: 11790
+Tick #485 generó 13
+Tick #485 filtró 13
+Tick #486 generó 66
+Tick #486 dejó pasar a 66
+Tick #486 sumó 66 al acumulado: 11856
+Tick #487 generó 12
+Tick #487 dejó pasar a 12
+Tick #487 sumó 12 al acumulado: 11868
+Tick #488 generó 96
+Tick #488 dejó pasar a 96
+Tick #488 sumó 96 al acumulado: 11964
+Tick #489 generó 83
+Tick #489 filtró 83
+Tick #490 generó 88
+Tick #490 dejó pasar a 88
+Tick #490 sumó 88 al acumulado: 12052
+Tick #491 generó 35
+Tick #491 filtró 35
+Tick #492 generó 80
+Tick #492 dejó pasar a 80
+Tick #492 sumó 80 al acumulado: 12132
+Tick #493 generó 9
+Tick #493 filtró 9
+Tick #494 generó 53
+Tick #494 filtró 53
+Tick #495 generó 54
+Tick #495 dejó pasar a 54
+Tick #495 sumó 54 al acumulado: 12186
+Tick #496 generó 71
+Tick #496 filtró 71
+Tick #497 generó 71
+Tick #497 filtró 71
+Tick #498 generó 68
+Tick #498 dejó pasar a 68
+Tick #498 sumó 68 al acumulado: 12254
+Tick #499 generó 62
+Tick #499 dejó pasar a 62
+Tick #499 sumó 62 al acumulado: 12316
+Tick #500 generó 89
+Tick #500 filtró 89
+Tick #501 generó 23
+Tick #501 filtró 23
+Tick #502 generó 73
+Tick #502 filtró 73
+Tick #503 generó 79
+Tick #503 filtró 79
+Tick #504 generó 46
+Tick #504 dejó pasar a 46
+Tick #504 sumó 46 al acumulado: 12362
+Tick #505 generó 65
+Tick #505 filtró 65
+Tick #506 generó 41
+Tick #506 filtró 41
+Tick #507 generó 35
+Tick #507 filtró 35
+Tick #508 generó 25
+Tick #508 filtró 25
+Tick #509 generó 15
+Tick #509 filtró 15
+Tick #510 generó 63
+Tick #510 filtró 63
+Tick #511 generó 49
+Tick #511 filtró 49
+Tick #512 generó 7
+Tick #512 filtró 7
+Tick #513 generó 92
+Tick #513 dejó pasar a 92
+Tick #513 sumó 92 al acumulado: 12454
+Tick #514 generó 83
+Tick #514 filtró 83
+Tick #515 generó 18
+Tick #515 dejó pasar a 18
+Tick #515 sumó 18 al acumulado: 12472
+Tick #516 generó 56
+Tick #516 dejó pasar a 56
+Tick #516 sumó 56 al acumulado: 12528
+Tick #517 generó 100
+Tick #517 dejó pasar a 100
+Tick #517 sumó 100 al acumulado: 12628
+Tick #518 generó 81
+Tick #518 filtró 81
+Tick #519 generó 3
+Tick #519 filtró 3
+Tick #520 generó 82
+Tick #520 dejó pasar a 82
+Tick #520 sumó 82 al acumulado: 12710
+Tick #521 generó 68
+Tick #521 dejó pasar a 68
+Tick #521 sumó 68 al acumulado: 12778
+Tick #522 generó 38
+Tick #522 dejó pasar a 38
+Tick #522 sumó 38 al acumulado: 12816
+Tick #523 generó 13
+Tick #523 filtró 13
+Tick #524 generó 76
+Tick #524 dejó pasar a 76
+Tick #524 sumó 76 al acumulado: 12892
+Tick #525 generó 90
+Tick #525 dejó pasar a 90
+Tick #525 sumó 90 al acumulado: 12982
+Tick #526 generó 66
+Tick #526 dejó pasar a 66
+Tick #526 sumó 66 al acumulado: 13048
+Tick #527 generó 98
+Tick #527 dejó pasar a 98
+Tick #527 sumó 98 al acumulado: 13146
+Tick #528 generó 13
+Tick #528 filtró 13
+Tick #529 generó 85
+Tick #529 filtró 85
+Tick #530 generó 60
+Tick #530 dejó pasar a 60
+Tick #530 sumó 60 al acumulado: 13206
+Tick #531 generó 1
+Tick #531 filtró 1
+Tick #532 generó 7
+Tick #532 filtró 7
+Tick #533 generó 84
+Tick #533 dejó pasar a 84
+Tick #533 sumó 84 al acumulado: 13290
+Tick #534 generó 32
+Tick #534 dejó pasar a 32
+Tick #534 sumó 32 al acumulado: 13322
+Tick #535 generó 4
+Tick #535 dejó pasar a 4
+Tick #535 sumó 4 al acumulado: 13326
+Tick #536 generó 48
+Tick #536 dejó pasar a 48
+Tick #536 sumó 48 al acumulado: 13374
+Tick #537 generó 72
+Tick #537 dejó pasar a 72
+Tick #537 sumó 72 al acumulado: 13446
+Tick #538 generó 39
+Tick #538 filtró 39
+Tick #539 generó 24
+Tick #539 dejó pasar a 24
+Tick #539 sumó 24 al acumulado: 13470
+Tick #540 generó 38
+Tick #540 dejó pasar a 38
+Tick #540 sumó 38 al acumulado: 13508
+Tick #541 generó 1
+Tick #541 filtró 1
+Tick #542 generó 73
+Tick #542 filtró 73
+Tick #543 generó 96
+Tick #543 dejó pasar a 96
+Tick #543 sumó 96 al acumulado: 13604
+Tick #544 generó 44
+Tick #544 dejó pasar a 44
+Tick #544 sumó 44 al acumulado: 13648
+Tick #545 generó 7
+Tick #545 filtró 7
+Tick #546 generó 14
+Tick #546 dejó pasar a 14
+Tick #546 sumó 14 al acumulado: 13662
+Tick #547 generó 99
+Tick #547 filtró 99
+Tick #548 generó 6
+Tick #548 dejó pasar a 6
+Tick #548 sumó 6 al acumulado: 13668
+Tick #549 generó 46
+Tick #549 dejó pasar a 46
+Tick #549 sumó 46 al acumulado: 13714
+Tick #550 generó 2
+Tick #550 dejó pasar a 2
+Tick #550 sumó 2 al acumulado: 13716
+Tick #551 generó 39
+Tick #551 filtró 39
+Tick #552 generó 14
+Tick #552 dejó pasar a 14
+Tick #552 sumó 14 al acumulado: 13730
+Tick #553 generó 91
+Tick #553 filtró 91
+Tick #554 generó 3
+Tick #554 filtró 3
+Tick #555 generó 41
+Tick #555 filtró 41
+Tick #556 generó 32
+Tick #556 dejó pasar a 32
+Tick #556 sumó 32 al acumulado: 13762
+Tick #557 generó 20
+Tick #557 dejó pasar a 20
+Tick #557 sumó 20 al acumulado: 13782
+Tick #558 generó 39
+Tick #558 filtró 39
+Tick #559 generó 44
+Tick #559 dejó pasar a 44
+Tick #559 sumó 44 al acumulado: 13826
+Tick #560 generó 56
+Tick #560 dejó pasar a 56
+Tick #560 sumó 56 al acumulado: 13882
+Tick #561 generó 98
+Tick #561 dejó pasar a 98
+Tick #561 sumó 98 al acumulado: 13980
+Tick #562 generó 97
+Tick #562 filtró 97
+Tick #563 generó 62
+Tick #563 dejó pasar a 62
+Tick #563 sumó 62 al acumulado: 14042
+Tick #564 generó 81
+Tick #564 filtró 81
+Tick #565 generó 28
+Tick #565 dejó pasar a 28
+Tick #565 sumó 28 al acumulado: 14070
+Tick #566 generó 18
+Tick #566 dejó pasar a 18
+Tick #566 sumó 18 al acumulado: 14088
+Tick #567 generó 81
+Tick #567 filtró 81
+Tick #568 generó 51
+Tick #568 filtró 51
+Tick #569 generó 56
+Tick #569 dejó pasar a 56
+Tick #569 sumó 56 al acumulado: 14144
+Tick #570 generó 4
+Tick #570 dejó pasar a 4
+Tick #570 sumó 4 al acumulado: 14148
+Tick #571 generó 88
+Tick #571 dejó pasar a 88
+Tick #571 sumó 88 al acumulado: 14236
+Tick #572 generó 8
+Tick #572 dejó pasar a 8
+Tick #572 sumó 8 al acumulado: 14244
+Tick #573 generó 28
+Tick #573 dejó pasar a 28
+Tick #573 sumó 28 al acumulado: 14272
+Tick #574 generó 36
+Tick #574 dejó pasar a 36
+Tick #574 sumó 36 al acumulado: 14308
+Tick #575 generó 3
+Tick #575 filtró 3
+Tick #576 generó 86
+Tick #576 dejó pasar a 86
+Tick #576 sumó 86 al acumulado: 14394
+Tick #577 generó 1
+Tick #577 filtró 1
+Tick #578 generó 53
+Tick #578 filtró 53
+Tick #579 generó 43
+Tick #579 filtró 43
+Tick #580 generó 46
+Tick #580 dejó pasar a 46
+Tick #580 sumó 46 al acumulado: 14440
+Tick #581 generó 54
+Tick #581 dejó pasar a 54
+Tick #581 sumó 54 al acumulado: 14494
+Tick #582 generó 81
+Tick #582 filtró 81
+Tick #583 generó 59
+Tick #583 filtró 59
+Tick #584 generó 96
+Tick #584 dejó pasar a 96
+Tick #584 sumó 96 al acumulado: 14590
+Tick #585 generó 35
+Tick #585 filtró 35
+Tick #586 generó 100
+Tick #586 dejó pasar a 100
+Tick #586 sumó 100 al acumulado: 14690
+Tick #587 generó 80
+Tick #587 dejó pasar a 80
+Tick #587 sumó 80 al acumulado: 14770
+Tick #588 generó 54
+Tick #588 dejó pasar a 54
+Tick #588 sumó 54 al acumulado: 14824
+Tick #589 generó 38
+Tick #589 dejó pasar a 38
+Tick #589 sumó 38 al acumulado: 14862
+Tick #590 generó 23
+Tick #590 filtró 23
+Tick #591 generó 9
+Tick #591 filtró 9
+Tick #592 generó 87
+Tick #592 filtró 87
+Tick #593 generó 19
+Tick #593 filtró 19
+Tick #594 generó 23
+Tick #594 filtró 23
+Tick #595 generó 19
+Tick #595 filtró 19
+Tick #596 generó 98
+Tick #596 dejó pasar a 98
+Tick #596 sumó 98 al acumulado: 14960
+Tick #597 generó 40
+Tick #597 dejó pasar a 40
+Tick #597 sumó 40 al acumulado: 15000
+Tick #598 generó 51
+Tick #598 filtró 51
+Tick #599 generó 48
+Tick #599 dejó pasar a 48
+Tick #599 sumó 48 al acumulado: 15048
+Tick #600 generó 47
+Tick #600 filtró 47
+Tick #601 generó 55
+Tick #601 filtró 55
+Tick #602 generó 88
+Tick #602 dejó pasar a 88
+Tick #602 sumó 88 al acumulado: 15136
+Tick #603 generó 6
+Tick #603 dejó pasar a 6
+Tick #603 sumó 6 al acumulado: 15142
+Tick #604 generó 34
+Tick #604 dejó pasar a 34
+Tick #604 sumó 34 al acumulado: 15176
+Tick #605 generó 23
+Tick #605 filtró 23
+Tick #606 generó 8
+Tick #606 dejó pasar a 8
+Tick #606 sumó 8 al acumulado: 15184
+Tick #607 generó 20
+Tick #607 dejó pasar a 20
+Tick #607 sumó 20 al acumulado: 15204
+Tick #608 generó 23
+Tick #608 filtró 23
+Tick #609 generó 60
+Tick #609 dejó pasar a 60
+Tick #609 sumó 60 al acumulado: 15264
+Tick #610 generó 62
+Tick #610 dejó pasar a 62
+Tick #610 sumó 62 al acumulado: 15326
+Tick #611 generó 20
+Tick #611 dejó pasar a 20
+Tick #611 sumó 20 al acumulado: 15346
+Tick #612 generó 66
+Tick #612 dejó pasar a 66
+Tick #612 sumó 66 al acumulado: 15412
+Tick #613 generó 95
+Tick #613 filtró 95
+Tick #614 generó 79
+Tick #614 filtró 79
+Tick #615 generó 61
+Tick #615 filtró 61
+Tick #616 generó 29
+Tick #616 filtró 29
+Tick #617 generó 30
+Tick #617 dejó pasar a 30
+Tick #617 sumó 30 al acumulado: 15442
+Tick #618 generó 92
+Tick #618 dejó pasar a 92
+Tick #618 sumó 92 al acumulado: 15534
+Tick #619 generó 35
+Tick #619 filtró 35
+Tick #620 generó 19
+Tick #620 filtró 19
+Tick #621 generó 15
+Tick #621 filtró 15
+Tick #622 generó 43
+Tick #622 filtró 43
+Tick #623 generó 57
+Tick #623 filtró 57
+Tick #624 generó 85
+Tick #624 filtró 85
+Tick #625 generó 17
+Tick #625 filtró 17
+Tick #626 generó 75
+Tick #626 filtró 75
+Tick #627 generó 35
+Tick #627 filtró 35
+Tick #628 generó 56
+Tick #628 dejó pasar a 56
+Tick #628 sumó 56 al acumulado: 15590
+Tick #629 generó 78
+Tick #629 dejó pasar a 78
+Tick #629 sumó 78 al acumulado: 15668
+Tick #630 generó 82
+Tick #630 dejó pasar a 82
+Tick #630 sumó 82 al acumulado: 15750
+Tick #631 generó 54
+Tick #631 dejó pasar a 54
+Tick #631 sumó 54 al acumulado: 15804
+Tick #632 generó 84
+Tick #632 dejó pasar a 84
+Tick #632 sumó 84 al acumulado: 15888
+Tick #633 generó 69
+Tick #633 filtró 69
+Tick #634 generó 59
+Tick #634 filtró 59
+Tick #635 generó 17
+Tick #635 filtró 17
+Tick #636 generó 43
+Tick #636 filtró 43
+Tick #637 generó 18
+Tick #637 dejó pasar a 18
+Tick #637 sumó 18 al acumulado: 15906
+Tick #638 generó 36
+Tick #638 dejó pasar a 36
+Tick #638 sumó 36 al acumulado: 15942
+Tick #639 generó 65
+Tick #639 filtró 65
+Tick #640 generó 78
+Tick #640 dejó pasar a 78
+Tick #640 sumó 78 al acumulado: 16020
+Tick #641 generó 50
+Tick #641 dejó pasar a 50
+Tick #641 sumó 50 al acumulado: 16070
+Tick #642 generó 37
+Tick #642 filtró 37
+Tick #643 generó 43
+Tick #643 filtró 43
+Tick #644 generó 96
+Tick #644 dejó pasar a 96
+Tick #644 sumó 96 al acumulado: 16166
+Tick #645 generó 15
+Tick #645 filtró 15
+Tick #646 generó 55
+Tick #646 filtró 55
+Tick #647 generó 24
+Tick #647 dejó pasar a 24
+Tick #647 sumó 24 al acumulado: 16190
+Tick #648 generó 96
+Tick #648 dejó pasar a 96
+Tick #648 sumó 96 al acumulado: 16286
+Tick #649 generó 47
+Tick #649 filtró 47
+Tick #650 generó 10
+Tick #650 dejó pasar a 10
+Tick #650 sumó 10 al acumulado: 16296
+Tick #651 generó 14
+Tick #651 dejó pasar a 14
+Tick #651 sumó 14 al acumulado: 16310
+Tick #652 generó 13
+Tick #652 filtró 13
+Tick #653 generó 5
+Tick #653 filtró 5
+Tick #654 generó 70
+Tick #654 dejó pasar a 70
+Tick #654 sumó 70 al acumulado: 16380
+Tick #655 generó 49
+Tick #655 filtró 49
+Tick #656 generó 21
+Tick #656 filtró 21
+Tick #657 generó 96
+Tick #657 dejó pasar a 96
+Tick #657 sumó 96 al acumulado: 16476
+Tick #658 generó 83
+Tick #658 filtró 83
+Tick #659 generó 29
+Tick #659 filtró 29
+Tick #660 generó 73
+Tick #660 filtró 73
 Tick #661 generó 17
 Tick #661 filtró 17
-Tick #662 generó 18
-Tick #662 dejó pasar a 18
-Tick #662 sumó 18 al acumulado: 17038
-Tick #663 generó 50
-Tick #663 dejó pasar a 50
-Tick #663 sumó 50 al acumulado: 17088
-Tick #664 generó 2
-Tick #664 dejó pasar a 2
-Tick #664 sumó 2 al acumulado: 17090
-Tick #665 generó 54
-Tick #665 dejó pasar a 54
-Tick #665 sumó 54 al acumulado: 17144
-Tick #666 generó 40
-Tick #666 dejó pasar a 40
-Tick #666 sumó 40 al acumulado: 17184
-Tick #667 generó 99
-Tick #667 filtró 99
-Tick #668 generó 78
-Tick #668 dejó pasar a 78
-Tick #668 sumó 78 al acumulado: 17262
-Tick #669 generó 22
-Tick #669 dejó pasar a 22
-Tick #669 sumó 22 al acumulado: 17284
-Tick #670 generó 68
-Tick #670 dejó pasar a 68
-Tick #670 sumó 68 al acumulado: 17352
-Tick #671 generó 76
-Tick #671 dejó pasar a 76
-Tick #671 sumó 76 al acumulado: 17428
-Tick #672 generó 94
-Tick #672 dejó pasar a 94
-Tick #672 sumó 94 al acumulado: 17522
-Tick #673 generó 20
-Tick #673 dejó pasar a 20
-Tick #673 sumó 20 al acumulado: 17542
-Tick #674 generó 34
-Tick #674 dejó pasar a 34
-Tick #674 sumó 34 al acumulado: 17576
-Tick #675 generó 31
-Tick #675 filtró 31
-Tick #676 generó 60
-Tick #676 dejó pasar a 60
-Tick #676 sumó 60 al acumulado: 17636
-Tick #677 generó 93
-Tick #677 filtró 93
-Tick #678 generó 39
-Tick #678 filtró 39
-Tick #679 generó 35
-Tick #679 filtró 35
-Tick #680 generó 21
-Tick #680 filtró 21
-Tick #681 generó 66
-Tick #681 dejó pasar a 66
-Tick #681 sumó 66 al acumulado: 17702
-Tick #682 generó 77
-Tick #682 filtró 77
-Tick #683 generó 56
-Tick #683 dejó pasar a 56
-Tick #683 sumó 56 al acumulado: 17758
-Tick #684 generó 14
-Tick #684 dejó pasar a 14
-Tick #684 sumó 14 al acumulado: 17772
-Tick #685 generó 15
-Tick #685 filtró 15
-Tick #686 generó 54
-Tick #686 dejó pasar a 54
-Tick #686 sumó 54 al acumulado: 17826
-Tick #687 generó 8
-Tick #687 dejó pasar a 8
-Tick #687 sumó 8 al acumulado: 17834
-Tick #688 generó 38
-Tick #688 dejó pasar a 38
-Tick #688 sumó 38 al acumulado: 17872
-Tick #689 generó 46
-Tick #689 dejó pasar a 46
-Tick #689 sumó 46 al acumulado: 17918
-Tick #690 generó 14
-Tick #690 dejó pasar a 14
-Tick #690 sumó 14 al acumulado: 17932
-Tick #691 generó 2
-Tick #691 dejó pasar a 2
-Tick #691 sumó 2 al acumulado: 17934
-Tick #692 generó 62
-Tick #692 dejó pasar a 62
-Tick #692 sumó 62 al acumulado: 17996
-Tick #693 generó 83
-Tick #693 filtró 83
-Tick #694 generó 52
-Tick #694 dejó pasar a 52
-Tick #694 sumó 52 al acumulado: 18048
-Tick #695 generó 63
-Tick #695 filtró 63
-Tick #696 generó 36
-Tick #696 dejó pasar a 36
-Tick #696 sumó 36 al acumulado: 18084
-Tick #697 generó 43
-Tick #697 filtró 43
-Tick #698 generó 14
-Tick #698 dejó pasar a 14
-Tick #698 sumó 14 al acumulado: 18098
-Tick #699 generó 65
-Tick #699 filtró 65
-Tick #700 generó 64
-Tick #700 dejó pasar a 64
-Tick #700 sumó 64 al acumulado: 18162
-Tick #701 generó 81
-Tick #701 filtró 81
-Tick #702 generó 92
-Tick #702 dejó pasar a 92
-Tick #702 sumó 92 al acumulado: 18254
-Tick #703 generó 10
-Tick #703 dejó pasar a 10
-Tick #703 sumó 10 al acumulado: 18264
-Tick #704 generó 52
-Tick #704 dejó pasar a 52
-Tick #704 sumó 52 al acumulado: 18316
-Tick #705 generó 26
-Tick #705 dejó pasar a 26
-Tick #705 sumó 26 al acumulado: 18342
-Tick #706 generó 40
-Tick #706 dejó pasar a 40
-Tick #706 sumó 40 al acumulado: 18382
-Tick #707 generó 12
-Tick #707 dejó pasar a 12
-Tick #707 sumó 12 al acumulado: 18394
-Tick #708 generó 18
-Tick #708 dejó pasar a 18
-Tick #708 sumó 18 al acumulado: 18412
-Tick #709 generó 30
-Tick #709 dejó pasar a 30
-Tick #709 sumó 30 al acumulado: 18442
-Tick #710 generó 98
-Tick #710 dejó pasar a 98
-Tick #710 sumó 98 al acumulado: 18540
-Tick #711 generó 39
-Tick #711 filtró 39
-Tick #712 generó 95
-Tick #712 filtró 95
-Tick #713 generó 26
-Tick #713 dejó pasar a 26
-Tick #713 sumó 26 al acumulado: 18566
-Tick #714 generó 46
-Tick #714 dejó pasar a 46
-Tick #714 sumó 46 al acumulado: 18612
-Tick #715 generó 9
-Tick #715 filtró 9
-Tick #716 generó 41
-Tick #716 filtró 41
-Tick #717 generó 99
-Tick #717 filtró 99
-Tick #718 generó 68
-Tick #718 dejó pasar a 68
-Tick #718 sumó 68 al acumulado: 18680
-Tick #719 generó 30
-Tick #719 dejó pasar a 30
-Tick #719 sumó 30 al acumulado: 18710
-Tick #720 generó 45
-Tick #720 filtró 45
-Tick #721 generó 33
-Tick #721 filtró 33
-Tick #722 generó 84
-Tick #722 dejó pasar a 84
-Tick #722 sumó 84 al acumulado: 18794
-Tick #723 generó 58
-Tick #723 dejó pasar a 58
-Tick #723 sumó 58 al acumulado: 18852
-Tick #724 generó 15
-Tick #724 filtró 15
-Tick #725 generó 35
-Tick #725 filtró 35
-Tick #726 generó 73
-Tick #726 filtró 73
-Tick #727 generó 2
-Tick #727 dejó pasar a 2
-Tick #727 sumó 2 al acumulado: 18854
-Tick #728 generó 29
-Tick #728 filtró 29
-Tick #729 generó 86
-Tick #729 dejó pasar a 86
-Tick #729 sumó 86 al acumulado: 18940
-Tick #730 generó 66
-Tick #730 dejó pasar a 66
-Tick #730 sumó 66 al acumulado: 19006
-Tick #731 generó 92
-Tick #731 dejó pasar a 92
-Tick #731 sumó 92 al acumulado: 19098
-Tick #732 generó 66
-Tick #732 dejó pasar a 66
-Tick #732 sumó 66 al acumulado: 19164
-Tick #733 generó 9
-Tick #733 filtró 9
-Tick #734 generó 53
-Tick #734 filtró 53
-Tick #735 generó 69
-Tick #735 filtró 69
-Tick #736 generó 34
-Tick #736 dejó pasar a 34
-Tick #736 sumó 34 al acumulado: 19198
-Tick #737 generó 92
-Tick #737 dejó pasar a 92
-Tick #737 sumó 92 al acumulado: 19290
-Tick #738 generó 80
-Tick #738 dejó pasar a 80
-Tick #738 sumó 80 al acumulado: 19370
-Tick #739 generó 52
-Tick #739 dejó pasar a 52
-Tick #739 sumó 52 al acumulado: 19422
-Tick #740 generó 21
-Tick #740 filtró 21
-Tick #741 generó 29
-Tick #741 filtró 29
-Tick #742 generó 42
-Tick #742 dejó pasar a 42
-Tick #742 sumó 42 al acumulado: 19464
-Tick #743 generó 16
-Tick #743 dejó pasar a 16
-Tick #743 sumó 16 al acumulado: 19480
-Tick #744 generó 55
-Tick #744 filtró 55
-Tick #745 generó 39
-Tick #745 filtró 39
-Tick #746 generó 76
-Tick #746 dejó pasar a 76
-Tick #746 sumó 76 al acumulado: 19556
-Tick #747 generó 47
-Tick #747 filtró 47
-Tick #748 generó 37
-Tick #748 filtró 37
-Tick #749 generó 95
-Tick #749 filtró 95
-Tick #750 generó 76
-Tick #750 dejó pasar a 76
-Tick #750 sumó 76 al acumulado: 19632
-Tick #751 generó 33
-Tick #751 filtró 33
-Tick #752 generó 27
-Tick #752 filtró 27
-Tick #753 generó 11
-Tick #753 filtró 11
-Tick #754 generó 43
-Tick #754 filtró 43
-Tick #755 generó 41
-Tick #755 filtró 41
-Tick #756 generó 45
-Tick #756 filtró 45
-Tick #757 generó 15
-Tick #757 filtró 15
-Tick #758 generó 94
-Tick #758 dejó pasar a 94
-Tick #758 sumó 94 al acumulado: 19726
-Tick #759 generó 73
-Tick #759 filtró 73
-Tick #760 generó 100
-Tick #760 dejó pasar a 100
-Tick #760 sumó 100 al acumulado: 19826
-Tick #761 generó 59
-Tick #761 filtró 59
+Tick #662 generó 82
+Tick #662 dejó pasar a 82
+Tick #662 sumó 82 al acumulado: 16558
+Tick #663 generó 56
+Tick #663 dejó pasar a 56
+Tick #663 sumó 56 al acumulado: 16614
+Tick #664 generó 85
+Tick #664 filtró 85
+Tick #665 generó 93
+Tick #665 filtró 93
+Tick #666 generó 25
+Tick #666 filtró 25
+Tick #667 generó 28
+Tick #667 dejó pasar a 28
+Tick #667 sumó 28 al acumulado: 16642
+Tick #668 generó 10
+Tick #668 dejó pasar a 10
+Tick #668 sumó 10 al acumulado: 16652
+Tick #669 generó 12
+Tick #669 dejó pasar a 12
+Tick #669 sumó 12 al acumulado: 16664
+Tick #670 generó 44
+Tick #670 dejó pasar a 44
+Tick #670 sumó 44 al acumulado: 16708
+Tick #671 generó 87
+Tick #671 filtró 87
+Tick #672 generó 61
+Tick #672 filtró 61
+Tick #673 generó 80
+Tick #673 dejó pasar a 80
+Tick #673 sumó 80 al acumulado: 16788
+Tick #674 generó 81
+Tick #674 filtró 81
+Tick #675 generó 56
+Tick #675 dejó pasar a 56
+Tick #675 sumó 56 al acumulado: 16844
+Tick #676 generó 46
+Tick #676 dejó pasar a 46
+Tick #676 sumó 46 al acumulado: 16890
+Tick #677 generó 88
+Tick #677 dejó pasar a 88
+Tick #677 sumó 88 al acumulado: 16978
+Tick #678 generó 32
+Tick #678 dejó pasar a 32
+Tick #678 sumó 32 al acumulado: 17010
+Tick #679 generó 93
+Tick #679 filtró 93
+Tick #680 generó 86
+Tick #680 dejó pasar a 86
+Tick #680 sumó 86 al acumulado: 17096
+Tick #681 generó 93
+Tick #681 filtró 93
+Tick #682 generó 58
+Tick #682 dejó pasar a 58
+Tick #682 sumó 58 al acumulado: 17154
+Tick #683 generó 50
+Tick #683 dejó pasar a 50
+Tick #683 sumó 50 al acumulado: 17204
+Tick #684 generó 97
+Tick #684 filtró 97
+Tick #685 generó 27
+Tick #685 filtró 27
+Tick #686 generó 98
+Tick #686 dejó pasar a 98
+Tick #686 sumó 98 al acumulado: 17302
+Tick #687 generó 18
+Tick #687 dejó pasar a 18
+Tick #687 sumó 18 al acumulado: 17320
+Tick #688 generó 75
+Tick #688 filtró 75
+Tick #689 generó 33
+Tick #689 filtró 33
+Tick #690 generó 46
+Tick #690 dejó pasar a 46
+Tick #690 sumó 46 al acumulado: 17366
+Tick #691 generó 99
+Tick #691 filtró 99
+Tick #692 generó 49
+Tick #692 filtró 49
+Tick #693 generó 79
+Tick #693 filtró 79
+Tick #694 generó 7
+Tick #694 filtró 7
+Tick #695 generó 85
+Tick #695 filtró 85
+Tick #696 generó 23
+Tick #696 filtró 23
+Tick #697 generó 83
+Tick #697 filtró 83
+Tick #698 generó 64
+Tick #698 dejó pasar a 64
+Tick #698 sumó 64 al acumulado: 17430
+Tick #699 generó 33
+Tick #699 filtró 33
+Tick #700 generó 94
+Tick #700 dejó pasar a 94
+Tick #700 sumó 94 al acumulado: 17524
+Tick #701 generó 60
+Tick #701 dejó pasar a 60
+Tick #701 sumó 60 al acumulado: 17584
+Tick #702 generó 71
+Tick #702 filtró 71
+Tick #703 generó 7
+Tick #703 filtró 7
+Tick #704 generó 39
+Tick #704 filtró 39
+Tick #705 generó 4
+Tick #705 dejó pasar a 4
+Tick #705 sumó 4 al acumulado: 17588
+Tick #706 generó 62
+Tick #706 dejó pasar a 62
+Tick #706 sumó 62 al acumulado: 17650
+Tick #707 generó 37
+Tick #707 filtró 37
+Tick #708 generó 43
+Tick #708 filtró 43
+Tick #709 generó 45
+Tick #709 filtró 45
+Tick #710 generó 29
+Tick #710 filtró 29
+Tick #711 generó 28
+Tick #711 dejó pasar a 28
+Tick #711 sumó 28 al acumulado: 17678
+Tick #712 generó 38
+Tick #712 dejó pasar a 38
+Tick #712 sumó 38 al acumulado: 17716
+Tick #713 generó 87
+Tick #713 filtró 87
+Tick #714 generó 29
+Tick #714 filtró 29
+Tick #715 generó 34
+Tick #715 dejó pasar a 34
+Tick #715 sumó 34 al acumulado: 17750
+Tick #716 generó 65
+Tick #716 filtró 65
+Tick #717 generó 26
+Tick #717 dejó pasar a 26
+Tick #717 sumó 26 al acumulado: 17776
+Tick #718 generó 3
+Tick #718 filtró 3
+Tick #719 generó 91
+Tick #719 filtró 91
+Tick #720 generó 10
+Tick #720 dejó pasar a 10
+Tick #720 sumó 10 al acumulado: 17786
+Tick #721 generó 100
+Tick #721 dejó pasar a 100
+Tick #721 sumó 100 al acumulado: 17886
+Tick #722 generó 42
+Tick #722 dejó pasar a 42
+Tick #722 sumó 42 al acumulado: 17928
+Tick #723 generó 10
+Tick #723 dejó pasar a 10
+Tick #723 sumó 10 al acumulado: 17938
+Tick #724 generó 31
+Tick #724 filtró 31
+Tick #725 generó 100
+Tick #725 dejó pasar a 100
+Tick #725 sumó 100 al acumulado: 18038
+Tick #726 generó 95
+Tick #726 filtró 95
+Tick #727 generó 53
+Tick #727 filtró 53
+Tick #728 generó 82
+Tick #728 dejó pasar a 82
+Tick #728 sumó 82 al acumulado: 18120
+Tick #729 generó 58
+Tick #729 dejó pasar a 58
+Tick #729 sumó 58 al acumulado: 18178
+Tick #730 generó 37
+Tick #730 filtró 37
+Tick #731 generó 75
+Tick #731 filtró 75
+Tick #732 generó 17
+Tick #732 filtró 17
+Tick #733 generó 60
+Tick #733 dejó pasar a 60
+Tick #733 sumó 60 al acumulado: 18238
+Tick #734 generó 81
+Tick #734 filtró 81
+Tick #735 generó 8
+Tick #735 dejó pasar a 8
+Tick #735 sumó 8 al acumulado: 18246
+Tick #736 generó 63
+Tick #736 filtró 63
+Tick #737 generó 95
+Tick #737 filtró 95
+Tick #738 generó 96
+Tick #738 dejó pasar a 96
+Tick #738 sumó 96 al acumulado: 18342
+Tick #739 generó 57
+Tick #739 filtró 57
+Tick #740 generó 39
+Tick #740 filtró 39
+Tick #741 generó 76
+Tick #741 dejó pasar a 76
+Tick #741 sumó 76 al acumulado: 18418
+Tick #742 generó 84
+Tick #742 dejó pasar a 84
+Tick #742 sumó 84 al acumulado: 18502
+Tick #743 generó 28
+Tick #743 dejó pasar a 28
+Tick #743 sumó 28 al acumulado: 18530
+Tick #744 generó 62
+Tick #744 dejó pasar a 62
+Tick #744 sumó 62 al acumulado: 18592
+Tick #745 generó 64
+Tick #745 dejó pasar a 64
+Tick #745 sumó 64 al acumulado: 18656
+Tick #746 generó 14
+Tick #746 dejó pasar a 14
+Tick #746 sumó 14 al acumulado: 18670
+Tick #747 generó 79
+Tick #747 filtró 79
+Tick #748 generó 89
+Tick #748 filtró 89
+Tick #749 generó 16
+Tick #749 dejó pasar a 16
+Tick #749 sumó 16 al acumulado: 18686
+Tick #750 generó 21
+Tick #750 filtró 21
+Tick #751 generó 51
+Tick #751 filtró 51
+Tick #752 generó 68
+Tick #752 dejó pasar a 68
+Tick #752 sumó 68 al acumulado: 18754
+Tick #753 generó 62
+Tick #753 dejó pasar a 62
+Tick #753 sumó 62 al acumulado: 18816
+Tick #754 generó 60
+Tick #754 dejó pasar a 60
+Tick #754 sumó 60 al acumulado: 18876
+Tick #755 generó 98
+Tick #755 dejó pasar a 98
+Tick #755 sumó 98 al acumulado: 18974
+Tick #756 generó 61
+Tick #756 filtró 61
+Tick #757 generó 6
+Tick #757 dejó pasar a 6
+Tick #757 sumó 6 al acumulado: 18980
+Tick #758 generó 50
+Tick #758 dejó pasar a 50
+Tick #758 sumó 50 al acumulado: 19030
+Tick #759 generó 42
+Tick #759 dejó pasar a 42
+Tick #759 sumó 42 al acumulado: 19072
+Tick #760 generó 16
+Tick #760 dejó pasar a 16
+Tick #760 sumó 16 al acumulado: 19088
+Tick #761 generó 39
+Tick #761 filtró 39
 Tick #762 generó 17
 Tick #762 filtró 17
-Tick #763 generó 17
-Tick #763 filtró 17
-Tick #764 generó 19
-Tick #764 filtró 19
-Tick #765 generó 69
-Tick #765 filtró 69
-Tick #766 generó 85
-Tick #766 filtró 85
-Tick #767 generó 53
-Tick #767 filtró 53
-Tick #768 generó 13
-Tick #768 filtró 13
-Tick #769 generó 17
-Tick #769 filtró 17
-Tick #770 generó 56
-Tick #770 dejó pasar a 56
-Tick #770 sumó 56 al acumulado: 19882
-Tick #771 generó 33
-Tick #771 filtró 33
-Tick #772 generó 45
-Tick #772 filtró 45
-Tick #773 generó 97
-Tick #773 filtró 97
-Tick #774 generó 100
-Tick #774 dejó pasar a 100
-Tick #774 sumó 100 al acumulado: 19982
-Tick #775 generó 51
-Tick #775 filtró 51
-Tick #776 generó 35
-Tick #776 filtró 35
-Tick #777 generó 27
-Tick #777 filtró 27
-Tick #778 generó 49
-Tick #778 filtró 49
-Tick #779 generó 23
-Tick #779 filtró 23
-Tick #780 generó 21
-Tick #780 filtró 21
-Tick #781 generó 77
-Tick #781 filtró 77
+Tick #763 generó 84
+Tick #763 dejó pasar a 84
+Tick #763 sumó 84 al acumulado: 19172
+Tick #764 generó 98
+Tick #764 dejó pasar a 98
+Tick #764 sumó 98 al acumulado: 19270
+Tick #765 generó 49
+Tick #765 filtró 49
+Tick #766 generó 43
+Tick #766 filtró 43
+Tick #767 generó 12
+Tick #767 dejó pasar a 12
+Tick #767 sumó 12 al acumulado: 19282
+Tick #768 generó 43
+Tick #768 filtró 43
+Tick #769 generó 38
+Tick #769 dejó pasar a 38
+Tick #769 sumó 38 al acumulado: 19320
+Tick #770 generó 68
+Tick #770 dejó pasar a 68
+Tick #770 sumó 68 al acumulado: 19388
+Tick #771 generó 34
+Tick #771 dejó pasar a 34
+Tick #771 sumó 34 al acumulado: 19422
+Tick #772 generó 14
+Tick #772 dejó pasar a 14
+Tick #772 sumó 14 al acumulado: 19436
+Tick #773 generó 3
+Tick #773 filtró 3
+Tick #774 generó 13
+Tick #774 filtró 13
+Tick #775 generó 27
+Tick #775 filtró 27
+Tick #776 generó 66
+Tick #776 dejó pasar a 66
+Tick #776 sumó 66 al acumulado: 19502
+Tick #777 generó 26
+Tick #777 dejó pasar a 26
+Tick #777 sumó 26 al acumulado: 19528
+Tick #778 generó 57
+Tick #778 filtró 57
+Tick #779 generó 6
+Tick #779 dejó pasar a 6
+Tick #779 sumó 6 al acumulado: 19534
+Tick #780 generó 94
+Tick #780 dejó pasar a 94
+Tick #780 sumó 94 al acumulado: 19628
+Tick #781 generó 78
+Tick #781 dejó pasar a 78
+Tick #781 sumó 78 al acumulado: 19706
 Tick #782 generó 8
 Tick #782 dejó pasar a 8
-Tick #782 sumó 8 al acumulado: 19990
-Tick #783 generó 99
-Tick #783 filtró 99
-Tick #784 generó 87
-Tick #784 filtró 87
-Tick #785 generó 50
-Tick #785 dejó pasar a 50
-Tick #785 sumó 50 al acumulado: 20040
-Tick #786 generó 91
-Tick #786 filtró 91
-Tick #787 generó 84
-Tick #787 dejó pasar a 84
-Tick #787 sumó 84 al acumulado: 20124
-Tick #788 generó 64
-Tick #788 dejó pasar a 64
-Tick #788 sumó 64 al acumulado: 20188
-Tick #789 generó 84
-Tick #789 dejó pasar a 84
-Tick #789 sumó 84 al acumulado: 20272
-Tick #790 generó 8
-Tick #790 dejó pasar a 8
-Tick #790 sumó 8 al acumulado: 20280
-Tick #791 generó 63
-Tick #791 filtró 63
-Tick #792 generó 94
-Tick #792 dejó pasar a 94
-Tick #792 sumó 94 al acumulado: 20374
-Tick #793 generó 24
-Tick #793 dejó pasar a 24
-Tick #793 sumó 24 al acumulado: 20398
-Tick #794 generó 79
-Tick #794 filtró 79
-Tick #795 generó 13
-Tick #795 filtró 13
-Tick #796 generó 45
-Tick #796 filtró 45
-Tick #797 generó 15
-Tick #797 filtró 15
-Tick #798 generó 17
-Tick #798 filtró 17
-Tick #799 generó 9
-Tick #799 filtró 9
-Tick #800 generó 31
-Tick #800 filtró 31
-Tick #801 generó 72
-Tick #801 dejó pasar a 72
-Tick #801 sumó 72 al acumulado: 20470
-Tick #802 generó 41
-Tick #802 filtró 41
-Tick #803 generó 28
-Tick #803 dejó pasar a 28
-Tick #803 sumó 28 al acumulado: 20498
-Tick #804 generó 68
-Tick #804 dejó pasar a 68
-Tick #804 sumó 68 al acumulado: 20566
-Tick #805 generó 93
-Tick #805 filtró 93
-Tick #806 generó 30
-Tick #806 dejó pasar a 30
-Tick #806 sumó 30 al acumulado: 20596
-Tick #807 generó 54
-Tick #807 dejó pasar a 54
-Tick #807 sumó 54 al acumulado: 20650
-Tick #808 generó 71
-Tick #808 filtró 71
-Tick #809 generó 79
-Tick #809 filtró 79
-Tick #810 generó 28
-Tick #810 dejó pasar a 28
-Tick #810 sumó 28 al acumulado: 20678
-Tick #811 generó 44
-Tick #811 dejó pasar a 44
-Tick #811 sumó 44 al acumulado: 20722
-Tick #812 generó 7
-Tick #812 filtró 7
-Tick #813 generó 35
-Tick #813 filtró 35
-Tick #814 generó 42
-Tick #814 dejó pasar a 42
-Tick #814 sumó 42 al acumulado: 20764
-Tick #815 generó 93
-Tick #815 filtró 93
-Tick #816 generó 84
-Tick #816 dejó pasar a 84
-Tick #816 sumó 84 al acumulado: 20848
-Tick #817 generó 85
-Tick #817 filtró 85
-Tick #818 generó 76
-Tick #818 dejó pasar a 76
-Tick #818 sumó 76 al acumulado: 20924
-Tick #819 generó 99
-Tick #819 filtró 99
-Tick #820 generó 20
-Tick #820 dejó pasar a 20
-Tick #820 sumó 20 al acumulado: 20944
-Tick #821 generó 84
-Tick #821 dejó pasar a 84
-Tick #821 sumó 84 al acumulado: 21028
-Tick #822 generó 61
-Tick #822 filtró 61
-Tick #823 generó 66
-Tick #823 dejó pasar a 66
-Tick #823 sumó 66 al acumulado: 21094
-Tick #824 generó 59
-Tick #824 filtró 59
-Tick #825 generó 91
-Tick #825 filtró 91
-Tick #826 generó 30
-Tick #826 dejó pasar a 30
-Tick #826 sumó 30 al acumulado: 21124
-Tick #827 generó 55
-Tick #827 filtró 55
-Tick #828 generó 58
-Tick #828 dejó pasar a 58
-Tick #828 sumó 58 al acumulado: 21182
-Tick #829 generó 46
-Tick #829 dejó pasar a 46
-Tick #829 sumó 46 al acumulado: 21228
-Tick #830 generó 63
-Tick #830 filtró 63
-Tick #831 generó 88
-Tick #831 dejó pasar a 88
-Tick #831 sumó 88 al acumulado: 21316
-Tick #832 generó 17
-Tick #832 filtró 17
-Tick #833 generó 4
-Tick #833 dejó pasar a 4
-Tick #833 sumó 4 al acumulado: 21320
+Tick #782 sumó 8 al acumulado: 19714
+Tick #783 generó 61
+Tick #783 filtró 61
+Tick #784 generó 39
+Tick #784 filtró 39
+Tick #785 generó 68
+Tick #785 dejó pasar a 68
+Tick #785 sumó 68 al acumulado: 19782
+Tick #786 generó 10
+Tick #786 dejó pasar a 10
+Tick #786 sumó 10 al acumulado: 19792
+Tick #787 generó 52
+Tick #787 dejó pasar a 52
+Tick #787 sumó 52 al acumulado: 19844
+Tick #788 generó 25
+Tick #788 filtró 25
+Tick #789 generó 11
+Tick #789 filtró 11
+Tick #790 generó 45
+Tick #790 filtró 45
+Tick #791 generó 40
+Tick #791 dejó pasar a 40
+Tick #791 sumó 40 al acumulado: 19884
+Tick #792 generó 49
+Tick #792 filtró 49
+Tick #793 generó 61
+Tick #793 filtró 61
+Tick #794 generó 24
+Tick #794 dejó pasar a 24
+Tick #794 sumó 24 al acumulado: 19908
+Tick #795 generó 98
+Tick #795 dejó pasar a 98
+Tick #795 sumó 98 al acumulado: 20006
+Tick #796 generó 62
+Tick #796 dejó pasar a 62
+Tick #796 sumó 62 al acumulado: 20068
+Tick #797 generó 18
+Tick #797 dejó pasar a 18
+Tick #797 sumó 18 al acumulado: 20086
+Tick #798 generó 9
+Tick #798 filtró 9
+Tick #799 generó 4
+Tick #799 dejó pasar a 4
+Tick #799 sumó 4 al acumulado: 20090
+Tick #800 generó 56
+Tick #800 dejó pasar a 56
+Tick #800 sumó 56 al acumulado: 20146
+Tick #801 generó 28
+Tick #801 dejó pasar a 28
+Tick #801 sumó 28 al acumulado: 20174
+Tick #802 generó 89
+Tick #802 filtró 89
+Tick #803 generó 21
+Tick #803 filtró 21
+Tick #804 generó 82
+Tick #804 dejó pasar a 82
+Tick #804 sumó 82 al acumulado: 20256
+Tick #805 generó 2
+Tick #805 dejó pasar a 2
+Tick #805 sumó 2 al acumulado: 20258
+Tick #806 generó 47
+Tick #806 filtró 47
+Tick #807 generó 99
+Tick #807 filtró 99
+Tick #808 generó 79
+Tick #808 filtró 79
+Tick #809 generó 56
+Tick #809 dejó pasar a 56
+Tick #809 sumó 56 al acumulado: 20314
+Tick #810 generó 5
+Tick #810 filtró 5
+Tick #811 generó 72
+Tick #811 dejó pasar a 72
+Tick #811 sumó 72 al acumulado: 20386
+Tick #812 generó 33
+Tick #812 filtró 33
+Tick #813 generó 64
+Tick #813 dejó pasar a 64
+Tick #813 sumó 64 al acumulado: 20450
+Tick #814 generó 84
+Tick #814 dejó pasar a 84
+Tick #814 sumó 84 al acumulado: 20534
+Tick #815 generó 23
+Tick #815 filtró 23
+Tick #816 generó 31
+Tick #816 filtró 31
+Tick #817 generó 93
+Tick #817 filtró 93
+Tick #818 generó 74
+Tick #818 dejó pasar a 74
+Tick #818 sumó 74 al acumulado: 20608
+Tick #819 generó 8
+Tick #819 dejó pasar a 8
+Tick #819 sumó 8 al acumulado: 20616
+Tick #820 generó 56
+Tick #820 dejó pasar a 56
+Tick #820 sumó 56 al acumulado: 20672
+Tick #821 generó 71
+Tick #821 filtró 71
+Tick #822 generó 99
+Tick #822 filtró 99
+Tick #823 generó 4
+Tick #823 dejó pasar a 4
+Tick #823 sumó 4 al acumulado: 20676
+Tick #824 generó 31
+Tick #824 filtró 31
+Tick #825 generó 74
+Tick #825 dejó pasar a 74
+Tick #825 sumó 74 al acumulado: 20750
+Tick #826 generó 2
+Tick #826 dejó pasar a 2
+Tick #826 sumó 2 al acumulado: 20752
+Tick #827 generó 44
+Tick #827 dejó pasar a 44
+Tick #827 sumó 44 al acumulado: 20796
+Tick #828 generó 92
+Tick #828 dejó pasar a 92
+Tick #828 sumó 92 al acumulado: 20888
+Tick #829 generó 62
+Tick #829 dejó pasar a 62
+Tick #829 sumó 62 al acumulado: 20950
+Tick #830 generó 100
+Tick #830 dejó pasar a 100
+Tick #830 sumó 100 al acumulado: 21050
+Tick #831 generó 47
+Tick #831 filtró 47
+Tick #832 generó 42
+Tick #832 dejó pasar a 42
+Tick #832 sumó 42 al acumulado: 21092
+Tick #833 generó 88
+Tick #833 dejó pasar a 88
+Tick #833 sumó 88 al acumulado: 21180
 Tick #834 generó 67
 Tick #834 filtró 67
-Tick #835 generó 36
-Tick #835 dejó pasar a 36
-Tick #835 sumó 36 al acumulado: 21356
-Tick #836 generó 48
-Tick #836 dejó pasar a 48
-Tick #836 sumó 48 al acumulado: 21404
-Tick #837 generó 49
-Tick #837 filtró 49
-Tick #838 generó 89
-Tick #838 filtró 89
-Tick #839 generó 18
-Tick #839 dejó pasar a 18
-Tick #839 sumó 18 al acumulado: 21422
-Tick #840 generó 27
-Tick #840 filtró 27
-Tick #841 generó 16
-Tick #841 dejó pasar a 16
-Tick #841 sumó 16 al acumulado: 21438
-Tick #842 generó 13
-Tick #842 filtró 13
-Tick #843 generó 33
-Tick #843 filtró 33
-Tick #844 generó 3
-Tick #844 filtró 3
-Tick #845 generó 55
-Tick #845 filtró 55
-Tick #846 generó 77
-Tick #846 filtró 77
-Tick #847 generó 86
-Tick #847 dejó pasar a 86
-Tick #847 sumó 86 al acumulado: 21524
-Tick #848 generó 91
-Tick #848 filtró 91
-Tick #849 generó 53
-Tick #849 filtró 53
-Tick #850 generó 37
-Tick #850 filtró 37
-Tick #851 generó 10
-Tick #851 dejó pasar a 10
-Tick #851 sumó 10 al acumulado: 21534
-Tick #852 generó 88
-Tick #852 dejó pasar a 88
-Tick #852 sumó 88 al acumulado: 21622
-Tick #853 generó 49
-Tick #853 filtró 49
-Tick #854 generó 27
-Tick #854 filtró 27
-Tick #855 generó 46
-Tick #855 dejó pasar a 46
-Tick #855 sumó 46 al acumulado: 21668
-Tick #856 generó 40
-Tick #856 dejó pasar a 40
-Tick #856 sumó 40 al acumulado: 21708
-Tick #857 generó 56
-Tick #857 dejó pasar a 56
-Tick #857 sumó 56 al acumulado: 21764
-Tick #858 generó 1
-Tick #858 filtró 1
-Tick #859 generó 49
-Tick #859 filtró 49
-Tick #860 generó 1
-Tick #860 filtró 1
-Tick #861 generó 63
-Tick #861 filtró 63
-Tick #862 generó 88
-Tick #862 dejó pasar a 88
-Tick #862 sumó 88 al acumulado: 21852
-Tick #863 generó 17
-Tick #863 filtró 17
-Tick #864 generó 18
-Tick #864 dejó pasar a 18
-Tick #864 sumó 18 al acumulado: 21870
-Tick #865 generó 55
-Tick #865 filtró 55
-Tick #866 generó 52
-Tick #866 dejó pasar a 52
-Tick #866 sumó 52 al acumulado: 21922
-Tick #867 generó 17
-Tick #867 filtró 17
-Tick #868 generó 3
-Tick #868 filtró 3
-Tick #869 generó 92
-Tick #869 dejó pasar a 92
-Tick #869 sumó 92 al acumulado: 22014
-Tick #870 generó 35
-Tick #870 filtró 35
-Tick #871 generó 81
-Tick #871 filtró 81
-Tick #872 generó 60
-Tick #872 dejó pasar a 60
-Tick #872 sumó 60 al acumulado: 22074
-Tick #873 generó 47
-Tick #873 filtró 47
-Tick #874 generó 65
-Tick #874 filtró 65
-Tick #875 generó 62
-Tick #875 dejó pasar a 62
-Tick #875 sumó 62 al acumulado: 22136
-Tick #876 generó 53
-Tick #876 filtró 53
-Tick #877 generó 41
-Tick #877 filtró 41
-Tick #878 generó 99
-Tick #878 filtró 99
-Tick #879 generó 95
-Tick #879 filtró 95
-Tick #880 generó 45
-Tick #880 filtró 45
-Tick #881 generó 35
-Tick #881 filtró 35
-Tick #882 generó 57
-Tick #882 filtró 57
-Tick #883 generó 32
-Tick #883 dejó pasar a 32
-Tick #883 sumó 32 al acumulado: 22168
-Tick #884 generó 84
-Tick #884 dejó pasar a 84
-Tick #884 sumó 84 al acumulado: 22252
-Tick #885 generó 83
-Tick #885 filtró 83
-Tick #886 generó 30
-Tick #886 dejó pasar a 30
-Tick #886 sumó 30 al acumulado: 22282
-Tick #887 generó 75
-Tick #887 filtró 75
-Tick #888 generó 39
-Tick #888 filtró 39
-Tick #889 generó 30
-Tick #889 dejó pasar a 30
-Tick #889 sumó 30 al acumulado: 22312
-Tick #890 generó 23
-Tick #890 filtró 23
-Tick #891 generó 39
-Tick #891 filtró 39
-Tick #892 generó 44
-Tick #892 dejó pasar a 44
-Tick #892 sumó 44 al acumulado: 22356
-Tick #893 generó 10
-Tick #893 dejó pasar a 10
-Tick #893 sumó 10 al acumulado: 22366
-Tick #894 generó 56
-Tick #894 dejó pasar a 56
-Tick #894 sumó 56 al acumulado: 22422
-Tick #895 generó 62
-Tick #895 dejó pasar a 62
-Tick #895 sumó 62 al acumulado: 22484
-Tick #896 generó 16
-Tick #896 dejó pasar a 16
-Tick #896 sumó 16 al acumulado: 22500
-Tick #897 generó 59
-Tick #897 filtró 59
-Tick #898 generó 30
-Tick #898 dejó pasar a 30
-Tick #898 sumó 30 al acumulado: 22530
-Tick #899 generó 70
-Tick #899 dejó pasar a 70
-Tick #899 sumó 70 al acumulado: 22600
-Tick #900 generó 51
-Tick #900 filtró 51
-Tick #901 generó 64
-Tick #901 dejó pasar a 64
-Tick #901 sumó 64 al acumulado: 22664
-Tick #902 generó 50
-Tick #902 dejó pasar a 50
-Tick #902 sumó 50 al acumulado: 22714
-Tick #903 generó 62
-Tick #903 dejó pasar a 62
-Tick #903 sumó 62 al acumulado: 22776
-Tick #904 generó 63
-Tick #904 filtró 63
-Tick #905 generó 66
-Tick #905 dejó pasar a 66
-Tick #905 sumó 66 al acumulado: 22842
-Tick #906 generó 23
-Tick #906 filtró 23
-Tick #907 generó 67
-Tick #907 filtró 67
-Tick #908 generó 59
-Tick #908 filtró 59
-Tick #909 generó 73
-Tick #909 filtró 73
-Tick #910 generó 14
-Tick #910 dejó pasar a 14
-Tick #910 sumó 14 al acumulado: 22856
-Tick #911 generó 55
-Tick #911 filtró 55
-Tick #912 generó 8
-Tick #912 dejó pasar a 8
-Tick #912 sumó 8 al acumulado: 22864
-Tick #913 generó 70
-Tick #913 dejó pasar a 70
-Tick #913 sumó 70 al acumulado: 22934
-Tick #914 generó 87
-Tick #914 filtró 87
-Tick #915 generó 91
-Tick #915 filtró 91
+Tick #835 generó 23
+Tick #835 filtró 23
+Tick #836 generó 89
+Tick #836 filtró 89
+Tick #837 generó 65
+Tick #837 filtró 65
+Tick #838 generó 22
+Tick #838 dejó pasar a 22
+Tick #838 sumó 22 al acumulado: 21202
+Tick #839 generó 68
+Tick #839 dejó pasar a 68
+Tick #839 sumó 68 al acumulado: 21270
+Tick #840 generó 20
+Tick #840 dejó pasar a 20
+Tick #840 sumó 20 al acumulado: 21290
+Tick #841 generó 78
+Tick #841 dejó pasar a 78
+Tick #841 sumó 78 al acumulado: 21368
+Tick #842 generó 91
+Tick #842 filtró 91
+Tick #843 generó 4
+Tick #843 dejó pasar a 4
+Tick #843 sumó 4 al acumulado: 21372
+Tick #844 generó 41
+Tick #844 filtró 41
+Tick #845 generó 27
+Tick #845 filtró 27
+Tick #846 generó 27
+Tick #846 filtró 27
+Tick #847 generó 24
+Tick #847 dejó pasar a 24
+Tick #847 sumó 24 al acumulado: 21396
+Tick #848 generó 19
+Tick #848 filtró 19
+Tick #849 generó 52
+Tick #849 dejó pasar a 52
+Tick #849 sumó 52 al acumulado: 21448
+Tick #850 generó 31
+Tick #850 filtró 31
+Tick #851 generó 74
+Tick #851 dejó pasar a 74
+Tick #851 sumó 74 al acumulado: 21522
+Tick #852 generó 22
+Tick #852 dejó pasar a 22
+Tick #852 sumó 22 al acumulado: 21544
+Tick #853 generó 29
+Tick #853 filtró 29
+Tick #854 generó 30
+Tick #854 dejó pasar a 30
+Tick #854 sumó 30 al acumulado: 21574
+Tick #855 generó 5
+Tick #855 filtró 5
+Tick #856 generó 3
+Tick #856 filtró 3
+Tick #857 generó 83
+Tick #857 filtró 83
+Tick #858 generó 48
+Tick #858 dejó pasar a 48
+Tick #858 sumó 48 al acumulado: 21622
+Tick #859 generó 94
+Tick #859 dejó pasar a 94
+Tick #859 sumó 94 al acumulado: 21716
+Tick #860 generó 44
+Tick #860 dejó pasar a 44
+Tick #860 sumó 44 al acumulado: 21760
+Tick #861 generó 99
+Tick #861 filtró 99
+Tick #862 generó 92
+Tick #862 dejó pasar a 92
+Tick #862 sumó 92 al acumulado: 21852
+Tick #863 generó 85
+Tick #863 filtró 85
+Tick #864 generó 87
+Tick #864 filtró 87
+Tick #865 generó 10
+Tick #865 dejó pasar a 10
+Tick #865 sumó 10 al acumulado: 21862
+Tick #866 generó 60
+Tick #866 dejó pasar a 60
+Tick #866 sumó 60 al acumulado: 21922
+Tick #867 generó 27
+Tick #867 filtró 27
+Tick #868 generó 26
+Tick #868 dejó pasar a 26
+Tick #868 sumó 26 al acumulado: 21948
+Tick #869 generó 81
+Tick #869 filtró 81
+Tick #870 generó 46
+Tick #870 dejó pasar a 46
+Tick #870 sumó 46 al acumulado: 21994
+Tick #871 generó 46
+Tick #871 dejó pasar a 46
+Tick #871 sumó 46 al acumulado: 22040
+Tick #872 generó 10
+Tick #872 dejó pasar a 10
+Tick #872 sumó 10 al acumulado: 22050
+Tick #873 generó 37
+Tick #873 filtró 37
+Tick #874 generó 1
+Tick #874 filtró 1
+Tick #875 generó 50
+Tick #875 dejó pasar a 50
+Tick #875 sumó 50 al acumulado: 22100
+Tick #876 generó 63
+Tick #876 filtró 63
+Tick #877 generó 27
+Tick #877 filtró 27
+Tick #878 generó 25
+Tick #878 filtró 25
+Tick #879 generó 33
+Tick #879 filtró 33
+Tick #880 generó 31
+Tick #880 filtró 31
+Tick #881 generó 7
+Tick #881 filtró 7
+Tick #882 generó 59
+Tick #882 filtró 59
+Tick #883 generó 4
+Tick #883 dejó pasar a 4
+Tick #883 sumó 4 al acumulado: 22104
+Tick #884 generó 36
+Tick #884 dejó pasar a 36
+Tick #884 sumó 36 al acumulado: 22140
+Tick #885 generó 40
+Tick #885 dejó pasar a 40
+Tick #885 sumó 40 al acumulado: 22180
+Tick #886 generó 60
+Tick #886 dejó pasar a 60
+Tick #886 sumó 60 al acumulado: 22240
+Tick #887 generó 90
+Tick #887 dejó pasar a 90
+Tick #887 sumó 90 al acumulado: 22330
+Tick #888 generó 22
+Tick #888 dejó pasar a 22
+Tick #888 sumó 22 al acumulado: 22352
+Tick #889 generó 60
+Tick #889 dejó pasar a 60
+Tick #889 sumó 60 al acumulado: 22412
+Tick #890 generó 35
+Tick #890 filtró 35
+Tick #891 generó 17
+Tick #891 filtró 17
+Tick #892 generó 58
+Tick #892 dejó pasar a 58
+Tick #892 sumó 58 al acumulado: 22470
+Tick #893 generó 78
+Tick #893 dejó pasar a 78
+Tick #893 sumó 78 al acumulado: 22548
+Tick #894 generó 54
+Tick #894 dejó pasar a 54
+Tick #894 sumó 54 al acumulado: 22602
+Tick #895 generó 44
+Tick #895 dejó pasar a 44
+Tick #895 sumó 44 al acumulado: 22646
+Tick #896 generó 87
+Tick #896 filtró 87
+Tick #897 generó 13
+Tick #897 filtró 13
+Tick #898 generó 71
+Tick #898 filtró 71
+Tick #899 generó 12
+Tick #899 dejó pasar a 12
+Tick #899 sumó 12 al acumulado: 22658
+Tick #900 generó 45
+Tick #900 filtró 45
+Tick #901 generó 68
+Tick #901 dejó pasar a 68
+Tick #901 sumó 68 al acumulado: 22726
+Tick #902 generó 9
+Tick #902 filtró 9
+Tick #903 generó 6
+Tick #903 dejó pasar a 6
+Tick #903 sumó 6 al acumulado: 22732
+Tick #904 generó 56
+Tick #904 dejó pasar a 56
+Tick #904 sumó 56 al acumulado: 22788
+Tick #905 generó 10
+Tick #905 dejó pasar a 10
+Tick #905 sumó 10 al acumulado: 22798
+Tick #906 generó 55
+Tick #906 filtró 55
+Tick #907 generó 70
+Tick #907 dejó pasar a 70
+Tick #907 sumó 70 al acumulado: 22868
+Tick #908 generó 88
+Tick #908 dejó pasar a 88
+Tick #908 sumó 88 al acumulado: 22956
+Tick #909 generó 32
+Tick #909 dejó pasar a 32
+Tick #909 sumó 32 al acumulado: 22988
+Tick #910 generó 3
+Tick #910 filtró 3
+Tick #911 generó 70
+Tick #911 dejó pasar a 70
+Tick #911 sumó 70 al acumulado: 23058
+Tick #912 generó 38
+Tick #912 dejó pasar a 38
+Tick #912 sumó 38 al acumulado: 23096
+Tick #913 generó 13
+Tick #913 filtró 13
+Tick #914 generó 74
+Tick #914 dejó pasar a 74
+Tick #914 sumó 74 al acumulado: 23170
+Tick #915 generó 73
+Tick #915 filtró 73
 Tick #916 generó 52
 Tick #916 dejó pasar a 52
-Tick #916 sumó 52 al acumulado: 22986
-Tick #917 generó 68
-Tick #917 dejó pasar a 68
-Tick #917 sumó 68 al acumulado: 23054
-Tick #918 generó 17
-Tick #918 filtró 17
-Tick #919 generó 90
-Tick #919 dejó pasar a 90
-Tick #919 sumó 90 al acumulado: 23144
-Tick #920 generó 97
-Tick #920 filtró 97
-Tick #921 generó 91
-Tick #921 filtró 91
-Tick #922 generó 81
-Tick #922 filtró 81
-Tick #923 generó 92
-Tick #923 dejó pasar a 92
-Tick #923 sumó 92 al acumulado: 23236
-Tick #924 generó 100
-Tick #924 dejó pasar a 100
-Tick #924 sumó 100 al acumulado: 23336
-Tick #925 generó 36
-Tick #925 dejó pasar a 36
-Tick #925 sumó 36 al acumulado: 23372
-Tick #926 generó 5
-Tick #926 filtró 5
-Tick #927 generó 68
-Tick #927 dejó pasar a 68
-Tick #927 sumó 68 al acumulado: 23440
-Tick #928 generó 46
-Tick #928 dejó pasar a 46
-Tick #928 sumó 46 al acumulado: 23486
-Tick #929 generó 35
-Tick #929 filtró 35
-Tick #930 generó 37
-Tick #930 filtró 37
-Tick #931 generó 48
-Tick #931 dejó pasar a 48
-Tick #931 sumó 48 al acumulado: 23534
-Tick #932 generó 50
-Tick #932 dejó pasar a 50
-Tick #932 sumó 50 al acumulado: 23584
-Tick #933 generó 39
-Tick #933 filtró 39
-Tick #934 generó 9
-Tick #934 filtró 9
-Tick #935 generó 12
-Tick #935 dejó pasar a 12
-Tick #935 sumó 12 al acumulado: 23596
-Tick #936 generó 4
-Tick #936 dejó pasar a 4
-Tick #936 sumó 4 al acumulado: 23600
-Tick #937 generó 83
-Tick #937 filtró 83
-Tick #938 generó 31
-Tick #938 filtró 31
-Tick #939 generó 62
-Tick #939 dejó pasar a 62
-Tick #939 sumó 62 al acumulado: 23662
-Tick #940 generó 56
-Tick #940 dejó pasar a 56
-Tick #940 sumó 56 al acumulado: 23718
-Tick #941 generó 96
-Tick #941 dejó pasar a 96
-Tick #941 sumó 96 al acumulado: 23814
-Tick #942 generó 17
-Tick #942 filtró 17
-Tick #943 generó 63
-Tick #943 filtró 63
-Tick #944 generó 65
-Tick #944 filtró 65
-Tick #945 generó 55
-Tick #945 filtró 55
-Tick #946 generó 5
-Tick #946 filtró 5
-Tick #947 generó 16
-Tick #947 dejó pasar a 16
-Tick #947 sumó 16 al acumulado: 23830
-Tick #948 generó 22
-Tick #948 dejó pasar a 22
-Tick #948 sumó 22 al acumulado: 23852
-Tick #949 generó 73
-Tick #949 filtró 73
-Tick #950 generó 58
-Tick #950 dejó pasar a 58
-Tick #950 sumó 58 al acumulado: 23910
-Tick #951 generó 70
-Tick #951 dejó pasar a 70
-Tick #951 sumó 70 al acumulado: 23980
-Tick #952 generó 63
-Tick #952 filtró 63
-Tick #953 generó 38
-Tick #953 dejó pasar a 38
-Tick #953 sumó 38 al acumulado: 24018
-Tick #954 generó 61
-Tick #954 filtró 61
-Tick #955 generó 14
-Tick #955 dejó pasar a 14
-Tick #955 sumó 14 al acumulado: 24032
-Tick #956 generó 25
-Tick #956 filtró 25
-Tick #957 generó 66
-Tick #957 dejó pasar a 66
-Tick #957 sumó 66 al acumulado: 24098
-Tick #958 generó 81
-Tick #958 filtró 81
-Tick #959 generó 22
-Tick #959 dejó pasar a 22
-Tick #959 sumó 22 al acumulado: 24120
-Tick #960 generó 52
-Tick #960 dejó pasar a 52
-Tick #960 sumó 52 al acumulado: 24172
-Tick #961 generó 18
-Tick #961 dejó pasar a 18
-Tick #961 sumó 18 al acumulado: 24190
-Tick #962 generó 70
-Tick #962 dejó pasar a 70
-Tick #962 sumó 70 al acumulado: 24260
-Tick #963 generó 1
-Tick #963 filtró 1
-Tick #964 generó 56
-Tick #964 dejó pasar a 56
-Tick #964 sumó 56 al acumulado: 24316
-Tick #965 generó 30
-Tick #965 dejó pasar a 30
-Tick #965 sumó 30 al acumulado: 24346
-Tick #966 generó 13
-Tick #966 filtró 13
-Tick #967 generó 11
-Tick #967 filtró 11
-Tick #968 generó 13
-Tick #968 filtró 13
-Tick #969 generó 95
-Tick #969 filtró 95
-Tick #970 generó 25
-Tick #970 filtró 25
-Tick #971 generó 20
-Tick #971 dejó pasar a 20
-Tick #971 sumó 20 al acumulado: 24366
-Tick #972 generó 90
-Tick #972 dejó pasar a 90
-Tick #972 sumó 90 al acumulado: 24456
-Tick #973 generó 93
-Tick #973 filtró 93
-Tick #974 generó 34
-Tick #974 dejó pasar a 34
-Tick #974 sumó 34 al acumulado: 24490
-Tick #975 generó 6
-Tick #975 dejó pasar a 6
-Tick #975 sumó 6 al acumulado: 24496
-Tick #976 generó 99
-Tick #976 filtró 99
-Tick #977 generó 90
-Tick #977 dejó pasar a 90
-Tick #977 sumó 90 al acumulado: 24586
-Tick #978 generó 73
-Tick #978 filtró 73
-Tick #979 generó 72
-Tick #979 dejó pasar a 72
-Tick #979 sumó 72 al acumulado: 24658
-Tick #980 generó 62
-Tick #980 dejó pasar a 62
-Tick #980 sumó 62 al acumulado: 24720
-Tick #981 generó 30
-Tick #981 dejó pasar a 30
-Tick #981 sumó 30 al acumulado: 24750
-Tick #982 generó 41
-Tick #982 filtró 41
-Tick #983 generó 76
-Tick #983 dejó pasar a 76
-Tick #983 sumó 76 al acumulado: 24826
-Tick #984 generó 19
-Tick #984 filtró 19
-Tick #985 generó 53
-Tick #985 filtró 53
-Tick #986 generó 89
-Tick #986 filtró 89
-Tick #987 generó 95
-Tick #987 filtró 95
-Tick #988 generó 70
-Tick #988 dejó pasar a 70
-Tick #988 sumó 70 al acumulado: 24896
-Tick #989 generó 22
-Tick #989 dejó pasar a 22
-Tick #989 sumó 22 al acumulado: 24918
-Tick #990 generó 17
-Tick #990 filtró 17
-Tick #991 generó 21
-Tick #991 filtró 21
-Tick #992 generó 39
-Tick #992 filtró 39
-Tick #993 generó 38
-Tick #993 dejó pasar a 38
-Tick #993 sumó 38 al acumulado: 24956
-Tick #994 generó 22
-Tick #994 dejó pasar a 22
-Tick #994 sumó 22 al acumulado: 24978
-Tick #995 generó 46
-Tick #995 dejó pasar a 46
-Tick #995 sumó 46 al acumulado: 25024
-Tick #996 generó 67
-Tick #996 filtró 67
-Tick #997 generó 86
-Tick #997 dejó pasar a 86
-Tick #997 sumó 86 al acumulado: 25110
-Tick #998 generó 8
-Tick #998 dejó pasar a 8
-Tick #998 sumó 8 al acumulado: 25118
-Tick #999 generó 31
-Tick #999 filtró 31
+Tick #916 sumó 52 al acumulado: 23222
+Tick #917 generó 85
+Tick #917 filtró 85
+Tick #918 generó 14
+Tick #918 dejó pasar a 14
+Tick #918 sumó 14 al acumulado: 23236
+Tick #919 generó 25
+Tick #919 filtró 25
+Tick #920 generó 44
+Tick #920 dejó pasar a 44
+Tick #920 sumó 44 al acumulado: 23280
+Tick #921 generó 100
+Tick #921 dejó pasar a 100
+Tick #921 sumó 100 al acumulado: 23380
+Tick #922 generó 41
+Tick #922 filtró 41
+Tick #923 generó 2
+Tick #923 dejó pasar a 2
+Tick #923 sumó 2 al acumulado: 23382
+Tick #924 generó 77
+Tick #924 filtró 77
+Tick #925 generó 46
+Tick #925 dejó pasar a 46
+Tick #925 sumó 46 al acumulado: 23428
+Tick #926 generó 97
+Tick #926 filtró 97
+Tick #927 generó 63
+Tick #927 filtró 63
+Tick #928 generó 10
+Tick #928 dejó pasar a 10
+Tick #928 sumó 10 al acumulado: 23438
+Tick #929 generó 67
+Tick #929 filtró 67
+Tick #930 generó 27
+Tick #930 filtró 27
+Tick #931 generó 54
+Tick #931 dejó pasar a 54
+Tick #931 sumó 54 al acumulado: 23492
+Tick #932 generó 87
+Tick #932 filtró 87
+Tick #933 generó 35
+Tick #933 filtró 35
+Tick #934 generó 59
+Tick #934 filtró 59
+Tick #935 generó 42
+Tick #935 dejó pasar a 42
+Tick #935 sumó 42 al acumulado: 23534
+Tick #936 generó 96
+Tick #936 dejó pasar a 96
+Tick #936 sumó 96 al acumulado: 23630
+Tick #937 generó 66
+Tick #937 dejó pasar a 66
+Tick #937 sumó 66 al acumulado: 23696
+Tick #938 generó 12
+Tick #938 dejó pasar a 12
+Tick #938 sumó 12 al acumulado: 23708
+Tick #939 generó 36
+Tick #939 dejó pasar a 36
+Tick #939 sumó 36 al acumulado: 23744
+Tick #940 generó 97
+Tick #940 filtró 97
+Tick #941 generó 66
+Tick #941 dejó pasar a 66
+Tick #941 sumó 66 al acumulado: 23810
+Tick #942 generó 5
+Tick #942 filtró 5
+Tick #943 generó 34
+Tick #943 dejó pasar a 34
+Tick #943 sumó 34 al acumulado: 23844
+Tick #944 generó 78
+Tick #944 dejó pasar a 78
+Tick #944 sumó 78 al acumulado: 23922
+Tick #945 generó 30
+Tick #945 dejó pasar a 30
+Tick #945 sumó 30 al acumulado: 23952
+Tick #946 generó 59
+Tick #946 filtró 59
+Tick #947 generó 81
+Tick #947 filtró 81
+Tick #948 generó 15
+Tick #948 filtró 15
+Tick #949 generó 24
+Tick #949 dejó pasar a 24
+Tick #949 sumó 24 al acumulado: 23976
+Tick #950 generó 57
+Tick #950 filtró 57
+Tick #951 generó 58
+Tick #951 dejó pasar a 58
+Tick #951 sumó 58 al acumulado: 24034
+Tick #952 generó 24
+Tick #952 dejó pasar a 24
+Tick #952 sumó 24 al acumulado: 24058
+Tick #953 generó 49
+Tick #953 filtró 49
+Tick #954 generó 59
+Tick #954 filtró 59
+Tick #955 generó 100
+Tick #955 dejó pasar a 100
+Tick #955 sumó 100 al acumulado: 24158
+Tick #956 generó 95
+Tick #956 filtró 95
+Tick #957 generó 56
+Tick #957 dejó pasar a 56
+Tick #957 sumó 56 al acumulado: 24214
+Tick #958 generó 15
+Tick #958 filtró 15
+Tick #959 generó 4
+Tick #959 dejó pasar a 4
+Tick #959 sumó 4 al acumulado: 24218
+Tick #960 generó 74
+Tick #960 dejó pasar a 74
+Tick #960 sumó 74 al acumulado: 24292
+Tick #961 generó 93
+Tick #961 filtró 93
+Tick #962 generó 10
+Tick #962 dejó pasar a 10
+Tick #962 sumó 10 al acumulado: 24302
+Tick #963 generó 60
+Tick #963 dejó pasar a 60
+Tick #963 sumó 60 al acumulado: 24362
+Tick #964 generó 79
+Tick #964 filtró 79
+Tick #965 generó 20
+Tick #965 dejó pasar a 20
+Tick #965 sumó 20 al acumulado: 24382
+Tick #966 generó 54
+Tick #966 dejó pasar a 54
+Tick #966 sumó 54 al acumulado: 24436
+Tick #967 generó 75
+Tick #967 filtró 75
+Tick #968 generó 37
+Tick #968 filtró 37
+Tick #969 generó 65
+Tick #969 filtró 65
+Tick #970 generó 10
+Tick #970 dejó pasar a 10
+Tick #970 sumó 10 al acumulado: 24446
+Tick #971 generó 85
+Tick #971 filtró 85
+Tick #972 generó 30
+Tick #972 dejó pasar a 30
+Tick #972 sumó 30 al acumulado: 24476
+Tick #973 generó 14
+Tick #973 dejó pasar a 14
+Tick #973 sumó 14 al acumulado: 24490
+Tick #974 generó 19
+Tick #974 filtró 19
+Tick #975 generó 59
+Tick #975 filtró 59
+Tick #976 generó 96
+Tick #976 dejó pasar a 96
+Tick #976 sumó 96 al acumulado: 24586
+Tick #977 generó 29
+Tick #977 filtró 29
+Tick #978 generó 91
+Tick #978 filtró 91
+Tick #979 generó 10
+Tick #979 dejó pasar a 10
+Tick #979 sumó 10 al acumulado: 24596
+Tick #980 generó 4
+Tick #980 dejó pasar a 4
+Tick #980 sumó 4 al acumulado: 24600
+Tick #981 generó 47
+Tick #981 filtró 47
+Tick #982 generó 67
+Tick #982 filtró 67
+Tick #983 generó 27
+Tick #983 filtró 27
+Tick #984 generó 95
+Tick #984 filtró 95
+Tick #985 generó 78
+Tick #985 dejó pasar a 78
+Tick #985 sumó 78 al acumulado: 24678
+Tick #986 generó 79
+Tick #986 filtró 79
+Tick #987 generó 41
+Tick #987 filtró 41
+Tick #988 generó 85
+Tick #988 filtró 85
+Tick #989 generó 45
+Tick #989 filtró 45
+Tick #990 generó 97
+Tick #990 filtró 97
+Tick #991 generó 58
+Tick #991 dejó pasar a 58
+Tick #991 sumó 58 al acumulado: 24736
+Tick #992 generó 37
+Tick #992 filtró 37
+Tick #993 generó 6
+Tick #993 dejó pasar a 6
+Tick #993 sumó 6 al acumulado: 24742
+Tick #994 generó 70
+Tick #994 dejó pasar a 70
+Tick #994 sumó 70 al acumulado: 24812
+Tick #995 generó 15
+Tick #995 filtró 15
+Tick #996 generó 25
+Tick #996 filtró 25
+Tick #997 generó 23
+Tick #997 filtró 23
+Tick #998 generó 41
+Tick #998 filtró 41
+Tick #999 generó 14
+Tick #999 dejó pasar a 14
+Tick #999 sumó 14 al acumulado: 24826
