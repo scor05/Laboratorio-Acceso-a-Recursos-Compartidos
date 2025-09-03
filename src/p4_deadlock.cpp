@@ -1,6 +1,13 @@
+/*
+    Autor: Santiago Cordero
+    Fecha de realización: 2/9/2025
+    Propósito: Identificación y correción de un deadlock.
+*/
+
 #include <pthread.h>
 #include <unistd.h>
-#include <cstdio> 
+#include <cstdio>
+#include <chrono>
 
 pthread_mutex_t A=PTHREAD_MUTEX_INITIALIZER, B=PTHREAD_MUTEX_INITIALIZER;
 pthread_cond_t cond;
@@ -28,9 +35,16 @@ void* t2(void*){
 }
 
 int main(){ 
-    pthread_t x,y; 
+    pthread_t x,y;
+
+    auto start = std::chrono::high_resolution_clock::now(); 
     pthread_create(&x,nullptr,t1,nullptr);
     pthread_create(&y,nullptr,t2,nullptr); 
     pthread_join(x,nullptr);
-    pthread_join(y,nullptr); 
+    pthread_join(y,nullptr);
+    auto end = std::chrono::high_resolution_clock::now();
+    double elapsed = std::chrono::duration<double>(end - start).count();
+    std::printf("Tiempo total de ejecución (corregido): %.6f s; Throughput: %.6f op/s\n", elapsed, 1/elapsed);
+
+    return 0;
 }

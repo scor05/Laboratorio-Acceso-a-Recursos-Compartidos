@@ -1,3 +1,10 @@
+/*
+    Autor: Santiago Cordero
+    Fecha de realización: 2/9/2025
+    Propósito: Implementación un pipeline a criterio, para el cual implementé
+                la estructura de (generar random) -> filtrar solo pares -> sumar
+*/
+
 #include <pthread.h>
 #include <cstdio>
 #include <cstdlib>
